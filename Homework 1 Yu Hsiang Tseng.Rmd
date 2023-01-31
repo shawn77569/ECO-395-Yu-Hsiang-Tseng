@@ -1,0 +1,205 @@
+library(tidyverse)
+library(rsample)  
+library(caret)
+library(modelr)
+library(parallel)
+library(foreach)
+library(patchwork)
+library(tidyverse)
+library(mosaic)
+library(ggplot2)
+library(data.table)
+library(rsample)
+library(caret)
+library(modelr)
+library(parallel)
+library(foreach)
+library(latexpdf)
+library(dplyr)
+
+ABIA = read.csv('C:/Users/user/Desktop/ABIA.csv')
+olympics = read.csv('C:/Users/user/Desktop/olympics_top20.csv')
+sclass = read.csv('C:/Users/user/Desktop/sclass.csv')
+
+# Q1
+
+## 1
+ABIA_augmented = ABIA %>%
+  mutate(Delay_mins=ArrDelay)%>%
+  mutate(Delay_mins = ifelse(Delay_mins < 0, 0, Delay_mins))%>%
+  mutate(Fly_time= case_when(CRSDepTime <100 &CRSDepTime >= 0 ~ 00,
+                             CRSDepTime <200 &CRSDepTime >= 100 ~ 01,
+                             CRSDepTime <300 &CRSDepTime >= 200 ~ 02,
+                             CRSDepTime <400 &CRSDepTime >= 300 ~ 03,
+                             CRSDepTime <500 &CRSDepTime >= 400 ~ 04,
+                             CRSDepTime <600 &CRSDepTime >= 500 ~ 05,
+                             CRSDepTime <700 &CRSDepTime >= 600 ~ 06,
+                             CRSDepTime <800 &CRSDepTime >= 700 ~ 07,
+                             CRSDepTime <900 &CRSDepTime >= 800 ~ 08,
+                             CRSDepTime <1000 &CRSDepTime >= 900 ~ 09,
+                             CRSDepTime <1100 &CRSDepTime >= 1000 ~ 10,
+                             CRSDepTime <1200 &CRSDepTime >= 1100 ~ 11,
+                             CRSDepTime <1300 &CRSDepTime >= 1200 ~ 12,
+                             CRSDepTime <1400 &CRSDepTime >= 1300 ~ 13,
+                             CRSDepTime <1500 &CRSDepTime >= 1400 ~ 14,
+                             CRSDepTime <1600 &CRSDepTime >= 1500 ~ 15,
+                             CRSDepTime <1700 &CRSDepTime >= 1600 ~ 16,
+                             CRSDepTime <1800 &CRSDepTime >= 1700 ~ 17,
+                             CRSDepTime <1900 &CRSDepTime >= 1800 ~ 18,
+                             CRSDepTime <2000 &CRSDepTime >= 1900 ~ 19,
+                             CRSDepTime <2100 &CRSDepTime >= 2000 ~ 20,
+                             CRSDepTime <2200 &CRSDepTime >= 2100 ~ 21,
+                             CRSDepTime <2300 &CRSDepTime >= 2200 ~ 22,
+                             CRSDepTime <=2400 &CRSDepTime >= 2300 ~ 23,
+  ))%>%
+  group_by(Fly_time)%>%
+  summarize(avg_delay=mean(Delay_mins,na.rm=TRUE))
+
+ggplot(ABIA_augmented) +  
+  geom_line(aes(x=Fly_time, y=avg_delay))
+
+ABIA_augmented = ABIA %>%
+  mutate(Delay_mins=ArrDelay)%>%
+  mutate(Delay_mins = ifelse(Delay_mins < 0, 0, Delay_mins))%>%
+  mutate(Fly_time= case_when(CRSDepTime <100 &CRSDepTime >= 0 ~ 00,
+                             CRSDepTime <200 &CRSDepTime >= 100 ~ 01,
+                             CRSDepTime <300 &CRSDepTime >= 200 ~ 02,
+                             CRSDepTime <400 &CRSDepTime >= 300 ~ 03,
+                             CRSDepTime <500 &CRSDepTime >= 400 ~ 04,
+                             CRSDepTime <600 &CRSDepTime >= 500 ~ 05,
+                             CRSDepTime <700 &CRSDepTime >= 600 ~ 06,
+                             CRSDepTime <800 &CRSDepTime >= 700 ~ 07,
+                             CRSDepTime <900 &CRSDepTime >= 800 ~ 08,
+                             CRSDepTime <1000 &CRSDepTime >= 900 ~ 09,
+                             CRSDepTime <1100 &CRSDepTime >= 1000 ~ 10,
+                             CRSDepTime <1200 &CRSDepTime >= 1100 ~ 11,
+                             CRSDepTime <1300 &CRSDepTime >= 1200 ~ 12,
+                             CRSDepTime <1400 &CRSDepTime >= 1300 ~ 13,
+                             CRSDepTime <1500 &CRSDepTime >= 1400 ~ 14,
+                             CRSDepTime <1600 &CRSDepTime >= 1500 ~ 15,
+                             CRSDepTime <1700 &CRSDepTime >= 1600 ~ 16,
+                             CRSDepTime <1800 &CRSDepTime >= 1700 ~ 17,
+                             CRSDepTime <1900 &CRSDepTime >= 1800 ~ 18,
+                             CRSDepTime <2000 &CRSDepTime >= 1900 ~ 19,
+                             CRSDepTime <2100 &CRSDepTime >= 2000 ~ 20,
+                             CRSDepTime <2200 &CRSDepTime >= 2100 ~ 21,
+                             CRSDepTime <2300 &CRSDepTime >= 2200 ~ 22,
+                             CRSDepTime <=2400 &CRSDepTime >= 2300 ~ 23,
+                             ))%>%
+  group_by(Fly_time,UniqueCarrier)%>%
+  summarize(avg_delay=mean(Delay_mins,na.rm=TRUE))
+
+ggplot(ABIA_augmented) +  
+  geom_line(aes(x=Fly_time, y=avg_delay,color=UniqueCarrier))
+
+## 2
+xtabs(~Dest, data=ABIA)
+ABIA_augmented = ABIA %>%
+  mutate(Delay_mins=ArrDelay)%>%
+  mutate(Delay_mins = ifelse(Delay_mins < 0, 0, Delay_mins))%>%
+  group_by(Month)%>%
+  summarize(avg_delay=mean(Delay_mins,na.rm=TRUE))
+
+ggplot(ABIA_augmented) +  
+  geom_line(aes(x=Month, y=avg_delay))
+
+ABIA_augmented = ABIA %>%
+  group_by(Dest)%>%
+  mutate(Pop_dest=count(Dest))%>%
+  filter(Pop_dest>=2000)%>%
+  mutate(Delay_mins=ArrDelay)%>%
+  mutate(Delay_mins = ifelse(Delay_mins < 0, 0, Delay_mins))%>%
+  group_by(Month,Dest)%>%
+  summarize(avg_delay=mean(Delay_mins,na.rm=TRUE))
+
+
+ggplot(ABIA_augmented) +  
+  geom_line(aes(x=Month, y=avg_delay,color=Dest))
+
+
+# Q2
+xtabs(~sport, data=olympics)
+# A.
+olympics %>%
+  filter(sport == 'Athletics', sex=="F") %>%
+  summarize(q95_ath = quantile(height, 0.95))
+
+
+# B.
+olympics %>%
+  filter(sex == 'F') %>%
+  group_by(event) %>%
+  summarize(height_sd = sd(height))%>%
+  arrange(desc(height_sd))%>%
+  head(5)
+
+# C.
+C=olympics %>%
+  filter(sport== 'Swimming') %>%
+  group_by(year,sex) %>%
+  summarize(avg_age = mean(age))
+  
+ggplot(C) + 
+  geom_line(aes(x=year, y=avg_age,color=sex))
+
+# Q3
+
+sclass_350 = sclass%>%
+  filter(trim== '350')
+sclass_65AMG = sclass%>%
+  filter(trim== '65 AMG')
+
+# 350's
+s350_split =  initial_split(sclass_350, prop=0.8)
+s350_train = training(s350_split)
+s350_test  = testing(s350_split)
+
+i=1
+rmse=1
+for(i in c(2:100)){
+  knn = knnreg(price ~ mileage, data=s350_train, k=i)
+  rmse[i]=modelr::rmse(knn, s350_test)
+  k=i
+  cat(k,'=',rmse[i],'\n')
+}
+
+plot(rmse, type="b", xlab="K- Value",ylab="RMSE") 
+
+
+knn32 = knnreg(price ~ mileage, data=s350_train, k=32)
+modelr::rmse(knn32, s350_test)
+
+s350_test = s350_test %>%
+  mutate(price_pred = predict(knn32, s350_test))
+
+ggplot(s350_test) + 
+  geom_point(aes(x=mileage, y=price)) + 
+  geom_line(aes(x=mileage, y=price_pred,color='red'))
+
+# 65AMG's
+
+AMG_split = initial_split(sclass_65AMG , prop=0.8)
+AMG_train = training(AMG_split)
+AMG_test  = testing(AMG_split)
+
+i=1
+rmse=1
+for(i in c(2:100)){
+  knn = knnreg(price ~ mileage, data=AMG_train, k=i)
+  rmse[i]=modelr::rmse(knn, AMG_test)
+  k=i
+  cat(k,'=',rmse[i],'\n')
+}
+
+plot(rmse, type="b", xlab="K- Value",ylab="RMSE") 
+min(rmse)
+
+knn16 = knnreg(price ~ mileage, data=AMG_train, k=16)
+modelr::rmse(knn16, AMG_test)
+
+AMG_test = AMG_test %>%
+  mutate(price_pred = predict(knn16, AMG_test))
+
+ggplot(AMG_test) + 
+  geom_point(aes(x=mileage, y=price)) + 
+  geom_line(aes(x=mileage, y=price_pred,color='red'))
