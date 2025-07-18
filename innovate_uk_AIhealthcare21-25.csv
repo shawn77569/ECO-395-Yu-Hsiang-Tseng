@@ -1,0 +1,1660 @@
+﻿,Project_Title,Project_Start_Date,Project_Abstract, Project_Costs ,中文標題,中文摘要,簡短摘要,7大分類
+346081,AI-powered real-time healthcare supplier profile and COVID-19 supply risk matrix,2021/2/1,"As we navigate through the COVID-19 pandemic  the impact on global healthcare supply chains continues to mount  leading to widespread systematic uncertainty. For hospitals and health systems such as the NHS  with stretched out resources  the pandemic demand shock and the overall supply shortages represents a monumental challenge that needs real-time risk-adjusted solutions. This means efficient supplier sourcing  supplier selection  and continuous supplier-risk assessment are the most critical tasks for any healthcare buyer  such as hospitals/trusts/clinics.  
+
+Within the NHS and other healthcare buyers  the majority of this budget is spent on tier-1 large suppliers with remaining being spent on tier-2 and tier-3 suppliers (medium to low spend). It is this over-reliance on a small set of tier-1 suppliers that exposes the NHS to high risks  as these suppliers are also present in other countries and do business at the same time with other hospitals while managing their limited time-bound aggregate capacity or ability-to-supply.  
+
+Moreover  to conduct supplier scanning exercise  the NHS and other buyers follow a manual and outdated process that only surfaces a fraction of global suppliers. This is the primary reason that a concurrent spike in demand due to COVID-19 from within and across the healthcare systems  that led to a total collapse of the global supply chain  leading to heavy shortages for PPE  protective gear  equipment  and pharmaceuticals.  
+  
+To better prepare the NHS and other healthcare buyers for the emerging COVID-19 wave and to prevent widespread shortages  Vamstar will leverage cutting-edge big data  deep learning and artificial Intelligence to create a real-time healthcare supplier profile and product/service level supplier forecasts  powered by the COVID-19 risk-based framework developed in an earlier research grant. This will help the NHS to maintain an ongoing view of the supply-side dynamics and will provide mission critical visibility into the evolving state of the supply chain on a continuous basis not just focusing on existing bottlenecks  but also identifying future potential challenges. The project will develop products that can already be used by the NHS during the project lifecycle  but also those that can generalise beyond the project and benefit the wider range of healthcare providers in the longer term."," £219,148.00 ",AI 驅動的即時醫療供應商概況與 COVID-19 供應風險矩陣,"隨著我們持續應對 COVID-19 疫情，其對全球醫療供應鏈的影響日益加劇，導致廣泛且系統性的未知與不確定性。對於如英國國民健康服務（NHS）這類資源緊張的醫院與醫療系統而言，疫情所帶來的需求衝擊以及整體供應短缺，構成一項重大挑戰，亟需即時、風險調整後的解決方案。這意味著，對於任何醫療採購單位（如醫院／信託機構／診所）而言，有效的供應商尋找、選擇與持續風險評估，是至關重要的工作。
+
+在NHS與其他醫療採購單位中，預算多數花費於第一級（Tier-1）大型供應商，其餘部分則分配於第二級與第三級（Tier-2/Tier-3）供應商（中至低額度支出）。然而，對少數Tier-1供應商的高度依賴，使得NHS面臨極高的風險，因為這些供應商同時也在其他國家營運，需應對來自多家醫院的需求，並在有限且有時間限制的供應能力中進行分配。
+
+此外，為了搜尋供應商，NHS與其他採購單位目前仍依賴手動且過時的流程，只能接觸到全球供應商的一小部分。這是導致COVID-19疫情期間，醫療體系內外同時出現需求高峰，進而導致全球供應鏈幾近崩潰，嚴重短缺個人防護裝備（PPE）、防護用品、設備與藥品的主因之一。
+
+為了協助NHS與其他醫療採購者更好地應對新一波COVID-19疫情，並防止廣泛性的供應短缺，Vamstar將運用尖端的大數據、深度學習與人工智慧技術，建立即時的醫療供應商資料庫，以及產品／服務層級的供應商預測模型。這些功能將基於先前研究計畫所開發的COVID-19風險架構來實現。
+
+此舉將幫助NHS持續掌握供應端動態，提供關鍵性的可視性，不僅能解決現有瓶頸，還可識別未來潛在挑戰。本計畫將開發出可於計畫期間內即時投入使用的產品，同時具備延伸性，可長期應用於更廣泛的醫療服務提供者。",本計畫旨在運用大數據、深度學習與人工智慧技術，建立即時的醫療供應商資料庫與供應預測模型，協助NHS等醫療機構面對COVID-19疫情期間的供應鏈挑戰。透過AI風險評估與預測工具，提升供應鏈透明度，降低對單一供應商的依賴，並預防未來物資短缺問題。所開發的系統不僅可於計畫期間即時部署使用，亦具備擴充性，適用於其他醫療單位之長期供應鏈管理。,行政應用
+331669,Artificial Intelligence platform for Human Capital Management in Healthcare ,2022/11/1,"Public description
+
+NurxmityHealth an Artificial Intelligence powered platform for health care professionals contracted to work in the health industry where they can create professional profile  connect with colleagues  access latest vacancies  track contractors  manage cost centres  recommend professionals and manage rewards and benefits using the point based system via artificial Intelligence which will be used as a retention strategy and a model to attract talents to work in the industry  reduce time taken to complete the recruitment process  real-time projection of staff locality coming for work or doing overtime at estimate of 2hrs prior to start time and this platform serves as a centralised data centre for healthcare professionals in U.K. and Europe at large.
+
+With the alarming staffing crisis across the health industry with no retention strategy  patient care has been on decline leaving wards over crowded with up to 4hrs waiting time for emergencies. This has been a major contributor to untimely deaths that could have been avoided. The National Health Service (NHS) 'retention crisis' has seen more than 200 000 nurses quit since 2010
+
+Data analysed by Labour and verified by the House of Commons Library showed that 75% of nurses who have left the NHS since 2010  160 000  quit for reasons other than poor working life balance  poor rewards and benefit scheme  and voluntary resignations in favour of third-party agencies has increased by 55%. Nurses said patient care was being ""routinely compromised by chronic staff shortages"".
+
+""After years of pay restraint  cuts to training budgets and growing pressures it is no wonder the NHS is facing chronic shortages of 100 000 staff last quitter and still counting. These shortages affect patient care every day as waiting lists grow and operations are cancelled.""
+
+The NHS uses the NHS Jobs platform which is the main catalyst in managing vacancies across the health industry in the UK with the capacity of managing minimum of 30 000 vacancies a month with no much success in getting the positions filled leaving hospitals understaffed.
+
+With poor staff retention strategy  80% of the human resource opts to work via third party agencies as a way of earning better pay package as opposed to their contracts leaving the NHS with £4 Billion deficit on temporary staffing in 2018 alone still with little success in getting the Hospitals staffed adequately."," £50,000.00 ",用於醫療人力資源管理的人工智慧平台,"公開說明：
+NurxmityHealth 是一個由人工智慧驅動的健康照護人力平台，專為合約制醫療人員設計。透過這個平台，醫療專業人員可建立專業履歷、與同儕聯繫、掌握最新職缺、追蹤承包人力、管理成本中心、推薦人才，並透過積分制度管理獎勵與福利。此系統同時具備即時預測功能，可預估工作人員到場或加班情況，提前 2 小時 提供資訊，成為英國與歐洲地區醫療人力的集中資料中心。AI 將被用作留才策略與吸引人才的模型，縮短招募流程時間。
+
+在英國與歐洲，醫療產業正面臨嚴重人力短缺與無有效留才策略的雙重危機，導致病患照護品質下降、急診候診時間可長達 4 小時。許多本可避免的死亡因此發生。
+
+自 2010 年以來，已有超過 20 萬名護士離職。根據工黨分析並經國會圖書館核實的數據顯示，離職護士中 75% 並非因工作與生活平衡問題，而是因為福利制度不足、轉向第三方機構工作者增加了 55%。許多護士表示，人力長期短缺已導致病患照護被常態性地犧牲。
+
+「多年來薪資停滯、訓練預算刪減與壓力升高，使 NHS 人力短缺超過 10 萬人，情況仍持續惡化中，直接影響病患照護與手術安排。」
+
+雖然 NHS 現行使用 NHS Jobs 平台來管理每月超過 3 萬筆職缺，但填補成效有限，導致醫院長期人力短缺。
+
+由於留才策略薄弱，高達 80% 的醫療人力選擇透過派遣機構工作以爭取更佳薪資待遇，僅在 2018 年 NHS 就在臨時人力支出上產生了 £40 億赤字，卻仍難以解決人力問題。
+","本計畫開發以 AI 為核心的人力資源平台 NurxmityHealth，旨在改善醫療產業招募與留才效率，整合人員資料、提供即時派工預測與獎酬管理機制，以紓解 NHS 長期人力短缺問題並提升病患照護品質。
+",行政應用
+336584,Stratification  Management  and Guidance of Hypertrophic Cardiomyopathy Patients using Hybrid Digital Twin Solutions,2024/1/1,"Hypertrophic cardiomyopathy (HCM) is the most common inherited heart disease (prevalence 1:200 - 1:500)  manifested by thickening
+of cardiac walls  increasing risks of arrhythmia  and sudden cardiac death. HCM affects all ages - it is the leading cause of death among
+young athletes. Comorbidities due to gene mutations include altered vascular control  and  caused by HCM  ischemia  stroke  dementia 
+or psychological and social difficulties. Multiple causal mutations and variations in cellular processes lead to highly diverse phenotypes
+and disease progression. However  HCM is still diagnosed as one single disease  leading to suboptimal care. SMASH-HCM will develop
+a digital-twin platform to dramatically improve HCM stratification and disease management  both for clinicians and patients. Multilevel
+and multiorgan dynamic biophysical and data-driven models are integrated in a three-level deep phenotyping approach designed for
+fast uptake into the clinical workflow. SMASH-HCM unites 8 research partners  3 hospitals  3 SMEs  and a global health-technology
+corporation in collaboration with patients to advance the state of the art in human digital-twins: including in-vitro tools  in-silico from
+molecular to systemic level models  structured and unstructured data analysis  explainable artificial intelligence - all integrated into
+a decision support solution for both healthcare professionals and patients. SMASH-HCM delivers new insights into HCM  improved
+patient care and guidance  validated preclinical tools  and above all  a first HCM stratification and management strategy  validated in a
+pilot clinical trial  and tested with end users. Thus providing a cost efficient and effective solution for this complex disease. SMASHHCM develops a strategy towards fast regulatory approval. In reaching its goals  SMASH-HCM serves as a basis for future digital-twin
+platforms for other cardiac diseases integrating models and data from various scales and sources."," £789,772.00 ",利用混合數位雙胞胎技術進行肥厚型心肌病患者之風險分層、管理與指導,"肥厚型心肌病（Hypertrophic Cardiomyopathy, HCM） 是最常見的遺傳性心臟疾病，盛行率約為 1:200 至 1:500。其特徵為心肌壁增厚，增加發生心律不整與猝死風險，並且影響各年齡層，是年輕運動員猝死的主要原因。
+
+由於基因突變引發的共病包括：
+
+血管調節異常
+
+缺血、腦中風、失智症
+
+心理與社交困難
+
+HCM 具有多樣的致病突變與細胞病理變化，導致表現型與疾病進程高度異質。然而目前醫療上仍將其視為單一疾病，導致治療不足與照護不精準。
+
+為解決此問題，SMASH-HCM 計畫將開發數位分身平台（Digital Twin），大幅提升 HCM 的分層分類與疾病管理，幫助臨床醫師與病患做出更好的決策。
+
+此平台整合：
+
+多層級、多器官的動態生物物理模型
+
+資料驅動模型
+
+以三層級深度表徵（Deep Phenotyping）策略為架構，能快速導入臨床流程中
+
+SMASH-HCM 聯合：
+
+8 個研究機構
+
+3 間醫院
+
+3 家中小企業（SMEs）
+
+1 間全球健康科技公司 並與病患合作，共同推進數位分身技術的應用。
+
+平台特點包含：
+
+體外實驗工具（in-vitro）
+
+分子到系統層級的數位模型（in-silico）
+
+結構化與非結構化資料分析
+
+可解釋人工智慧（Explainable AI, XAI）
+
+所有技術將整合至一套臨床決策支援系統（Decision Support System），提供醫療人員與病患使用。
+
+SMASH-HCM 預期成果：
+
+提供對 HCM 的新見解
+
+改善病患照護與決策引導
+
+驗證前臨床工具
+
+發展出首個 HCM 分層與治療策略，並於臨床試驗中驗證與實地測試
+
+此外，計畫也將制定快速法規認證策略，並為未來其他心臟疾病的數位分身平台奠定基礎。",SMASH-HCM 計畫開發一套整合 AI、生理建模與多層級數據的數位分身平台，實現對肥厚型心肌病的精準分類與個人化照護策略，並藉由與病患共創、臨床試驗驗證及法規準備，建立可擴展至其他心臟疾病的基礎架構。,行政應用
+336841,WISDOM,2023/12/1,Enabling integration of medical and research data  secure data sharing and leveraging responsible state-of-the-art artificial intelligence (AI)-mediated models opens immense possibilities to mitigate the impact of chronic immune-mediated diseases (CIMDs) affecting 10% of Europeans. Eight European universities  leaders in the medical and analytical field  three SMEs  one research institute and one company  at the forefront of clinical AI implementation  data infrastructure  and security  and a Patient Organisation formed the consortium WISDOM. The consortium's overarching aim is to convert complex biological information from the existing data sources into actionable insights. WISDOM builds on the premise that computational tools can provide valuable knowledge and guide decision making at critical stages in the individual patient journey  from diagnosis to treatment initiation and optimisation. To unlock the potential of the existing data  WISDOM will address barriers of data integration and accessibility and deploy novel approaches for data processing  harmonisation  integration  and secure  trustworthy data sharing with federated access. WISDOM aims to develop computational risk stratification and outcome prediction models and tools in different CIMD use cases  building on large EU-funded multimodal datasets  and prospectively validate them on technical  clinical and user aspects to facilitate data-driven and patient-focused diagnosis  treatment  and monitoring. WISDOM aims to promote the widespread utilisation of data and facilitate responsible and critical assessment of the use of AI in healthcare using an end-user guided approach leveraging collaboration among clinicians  researchers  legal and AI experts  patient associations and rich stakeholder expertise. WISDOM’s ultimate ambition is to revolutionise the integration  management  and analysis of health data across diseases and borders to promote personalised interventions and well-being.," £339,623.00 ",WISDOM（專案名稱）,"整合醫療與研究資料、進行安全的資料共享，並應用負責任的人工智慧（AI）模型，將為緩解**慢性免疫媒介疾病（Chronic Immune-Mediated Diseases, CIMDs）**的衝擊開啟巨大潛力。CIMDs 影響了約 10% 的歐洲人口。
+
+八所歐洲醫療與分析領域的頂尖大學，三家中小企業（SMEs）、一個研究機構、一家在臨床 AI 實施、資料基礎建設與資訊安全領域具領導地位的公司，以及一個病患組織，共同組成了 WISDOM 聯盟。
+
+此聯盟的主要目標是：將來自現有多來源資料的複雜生物資訊轉化為可操作的洞見。WISDOM 建立在一個核心理念之上：運算工具可在病患旅程的關鍵階段——從診斷到治療啟動與優化——提供有價值的知識與決策指引。
+
+為了釋放既有健康數據的潛能，WISDOM 將：
+
+解決資料整合與存取的障礙
+
+開發資料處理、標準化、整合與安全共享的新方法
+
+採用聯邦式存取（Federated Access），確保隱私與信任
+
+WISDOM 計畫將基於大型歐盟資助的多模態資料集，發展風險分層與結果預測的運算模型與工具，並在多個 CIMD 臨床應用場域進行：
+
+技術面
+
+臨床面
+
+使用者體驗面
+的前瞻性驗證，推動以數據為基礎、以病患為中心的診斷、治療與監測模式。
+
+WISDOM 同時致力於推動：
+
+健康資料的廣泛應用
+
+AI 在醫療中負責任、可批判性的應用評估
+這些都將透過臨床醫師、研究人員、法律與 AI 專家、病患協會及多元利害關係人共同參與進行。
+
+WISDOM 的終極願景是：徹底革新跨疾病與跨境的健康資料整合、管理與分析方式，促進個人化醫療介入與全民健康福祉。",WISDOM 聯盟結合跨國醫療、AI 與資料專家，建立一套安全、可信、具可擴展性的健康資料整合與分析平台，運用 AI 模型於慢性免疫疾病中進行風險預測與個人化治療決策，推動資料驅動的臨床轉型。,行政應用
+337215,Expansion of a clinical trial modelling and simulation platform to optimise trial design and facilitate synthetic data generation,2021/10/1,"Exploristics is a rapidly growing company providing data analytics products and biostatistics services to the Pharmaceutical industry. Our flagship product  KerusCloud  is a commercially available software platform that reduces the risks  costs and duration of drug development. This project aims to extend the KerusCloud capabilities by enabling and exploiting access to disparate datasets. The outputs of the project will help to deliver more efficient and cost effective development of healthcare treatments.
+
+Currently  90% of new treatments in development fail during clinical trials. Whilst some failures are due to efficacy or safety issues  many are due to avoidable issues that could be resolved during the design of clinical trials. Better trial design can now be achieved using KerusCloud which examines all possible design options by simulating studies in a virtual environment. This ensures the best design and analysis approach can now be chosen for real trials  improving the probability of their success by 41%  saving time and money.
+
+The main objective of this project is to create a uniquely powerful clinical trial design tool that can evaluate the performance of any clinical trial before the actual study is conducted. To do this  we will enable better use of existing data as part of the design process. This will allow us to make better assumptions and more informed decisions prior to the start of the study as well as learn from the outcomes of completed studies.
+
+There is a strong commercial opportunity in providing cost effective intelligent trial design software to support clinical trials. This is particularly timely as the Pharmaceutical industry is now actively seeking ways to improve clinical trial efficiency to accelerate development timelines in the context of the global COVID-19 pandemic  potentially reducing barriers to uptake of new technologies.
+
+This project will be transformational for Exploristics as successful development of KerusCloud will redefine trial design  uniquely positioning Exploristics as the global leader in the strategic application of statistics  modelling and artificial intelligence for healthcare development. The project will also have broader impact. The UK is a global leader in life sciences research so this project will also help to fully exploit the research infrastructure and available data resources. This could have a far-reaching impact on drug development and healthcare provision in the UK and globally by helping to establish the UK as a global innovation centre for clinical trials  and by facilitating the efficient delivery of new innovative medicines."," £486,080.00 ",擴展臨床試驗建模與模擬平台，以優化設計並促進合成數據產生,"Exploristics 是一家快速成長的公司，專為製藥產業提供資料分析產品與生物統計服務。我們的旗艦產品 KerusCloud 是一個商業化的軟體平台，可降低藥物開發的風險、成本與時間。本計畫旨在擴展 KerusCloud 的功能，使其能夠存取並應用分散式資料集。預期成果將有助於實現更高效且具成本效益的醫療療法開發。
+
+目前有高達 90% 的新療法在臨床試驗階段失敗。雖然部分失敗原因為療效或安全問題，但許多失敗其實源於設計階段可避免的錯誤。透過 KerusCloud 的虛擬模擬功能，可以在臨床試驗開始前預測各種設計方案的效果，進而選出最佳設計與分析策略，成功機率可提高 41%，節省時間與資金。
+
+本計畫的主要目標是建立一套功能強大的臨床試驗設計工具，可在實際研究開始前評估其預期表現。這將透過更有效地利用既有資料來實現，使設計初期能做出更準確的假設與更具依據的決策，並從過往研究中學習。
+
+當前製藥產業急需提升臨床試驗效率，加速新藥開發時程，特別是在 COVID-19 疫情背景下。因此，本計畫在商業上具高度潛力，有望成為一套具成本效益的智慧型臨床試驗設計軟體。
+
+該計畫對 Exploristics 有重大轉型意義：若 KerusCloud 開發成功，將重新定義臨床試驗設計，並使 Exploristics 成為結合統計、建模與人工智慧於醫療開發中的全球領導者。同時，本計畫也將強化英國在生命科學研究上的國際地位，善用現有研究基礎與資料資源，對英國乃至全球藥物開發與醫療服務產生深遠影響，推動英國成為全球臨床試驗創新中心。",本計畫將擴展 KerusCloud 平台，結合AI與模擬分析，優化臨床試驗設計流程。透過虛擬試驗與資料整合，提高試驗成功率、降低開發成本，加速創新藥物上市，強化英國在全球醫藥開發中的競爭力。,行政應用
+329882,Unlocking mental health records at scale using few-shot AI,2022/10/1,"**Summary**
+
+Akrivia is using a new innovation from the field of artificial intelligence (AI) research to unlock the potential of electronic health record (EHR) data. Akrivia curates the world's largest database of psychiatric EHRs  with 4 million+ patients' deidentified data managed securely on behalf of 16 NHS healthcare organisations (HCOs).
+
+Akrivia's goal is to use this unique resource to transform mental illness and dementias research  driving treatment discovery and reducing trials costs. However  ~85% of UK psychiatric EHRs' actionable data is stored in unstructured  'free-text' notes  which are difficult to analyse at scale and completely inaccessible to non-NHS researchers due to their level of personal information.
+
+'Natural language processing' (NLP) can provide a solution to this inaccessibility  and Akrivia has developed an AI-based NLP system to extract new structured data on medications  symptoms  diagnoses etc. NLP models like Akrivia's can achieve high accuracy  but are traditionally limited by the need for large amounts of human-annotated training data. Creating this training data takes a long time  meaning that Akrivia's current NLP solution is not scalable enough meet the demands of their user base.
+
+In response  Akrivia has developed an alternative  prototype NLP solution using a novel 'few-shot' training method published in 2021\. This few-shot model requires very little training data to achieve high single task performance. Akrivia has used their prototype model to replace human annotators in their standard NLP development pipeline  achieving equal (or better) task accuracy with far shorter time-to-production (~4 weeks per concept versus ~6-9 months).
+
+**Vision**
+
+With this project  Akrivia will create the tools to scale their NLP development far faster than previously possible  with significantly less exposure of sensitive patient data. The toolkit will allow clinicians without technical AI expertise to develop models directly  creating a 'researcher-in-the-loop' solution to ensure Akrivia's NLP library embeds expert domain knowledge. The toolkit will also open a potential new service line in bespoke NLP solutions.
+
+Akrivia wants to provide researchers and clinicians working on mental illness and dementias with as broad and deep a dataset as possible. These diseases are complex  costly  and historically lacking in funding and treatment options. Large scale patient data with deep  broad descriptions of disease states has been critical to drug development and effective therapy provision in other areas like oncology. Through this project  Akrivia will develop the tools to make comparable data for mental illness and dementias a reality within a matter of months."," £492,461.00 ",利用少量樣本學習 AI 大規模解鎖心理健康紀錄,"摘要：
+Akrivia 正運用人工智慧（AI）研究領域中的創新技術，解鎖電子健康紀錄（EHR）資料的潛力。該公司管理全球最大規模的精神疾病EHR資料庫，涵蓋 超過400萬名病患的去識別化資料，代表 16 家 NHS 醫療機構（HCOs），並以安全方式進行管理。
+
+Akrivia 的目標是透過這一獨特資源轉變精神疾病與失智症的研究模式，加速療法開發並降低臨床試驗成本。然而，約 85% 的英國精神科EHR可用資料儲存在非結構化的自由文字筆記中，由於個資敏感性，不僅難以進行大規模分析，也使得非NHS研究者無法存取。
+
+「自然語言處理（NLP）」可望解決此限制，Akrivia 已開發出一套AI驅動的NLP系統，能夠從EHR自由文字中擷取出有結構的資料，例如：用藥資訊、症狀、診斷等。然而，傳統NLP模型仰賴大量人工標註資料，這使得擴展應用非常耗時——目前需花費 6–9 個月訓練一項新任務模型。
+
+為此，Akrivia 開發了創新的**「少量樣本學習（few-shot learning）」原型NLP系統**，該方法來自 2021 年的AI研究成果，可用極少的標註資料達到單一任務的高準確率。他們已將此模型取代原先的人力標註流程，並在每個任務中縮短開發時程至約 4 週（原為 6–9 個月），同時保持或提升準確性。
+
+願景：
+本計畫將幫助 Akrivia 建立可擴展的 NLP 工具包，快速開發模型、保護敏感病患資料，並讓非技術背景的臨床醫師也能直接參與模型建構，形成**「研究者參與式（researcher-in-the-loop）」流程**，確保模型蘊含專業醫療知識。未來，Akrivia 也計畫將此工具作為客製化NLP解決方案服務推出。
+
+Akrivia 希望為精神疾病與失智症的研究提供廣泛且深入的數據支持。這些疾病複雜、代價高昂，長期以來缺乏足夠的研究資金與療法。透過本計畫，Akrivia 將使精神健康領域擁有如腫瘤醫學中那樣深度資料支持，加速創新療法的誕生。",本計畫開發少量樣本學習的AI NLP工具，加速從自由文字中擷取精神疾病與失智症EHR資訊，降低資料處理時間、保護病患隱私，並擴展模型應用至臨床與研究者端，助力精神健康創新療法的發展。,行政應用
+335888,STRATIFYHF: Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care,2023/6/1,Heart failure (HF) is a pandemic currently affecting up to 15 million people in Europe. It is a complex clinical syndrome presenting with impaired heart function and is associated with poor quality of life for patients and high healthcare costs. There is a high clinical demand for novel artificial intelligence (AI) tools which will facilitate risk stratification  early diagnosis  and disease progression assessment in HF. Such tools are essential to allow prompt initiation of evidence-based prevention and treatment strategies which will improve patient quality of life  reduce morbidity and mortality and the HF burden on healthcare. STRATIFYHF aims to develop  validate and implement the first AI-based  decision support system (DSS) for risk stratification  early diagnosis  and disease progression assessment in HF to accommodate both primary and secondary care clinical needs. The DSS will integrate patient-specific demographic and clinical data using existing and novel technologies and establish AI-based tools for risk stratification and HF prediction using machine learning. Additionally  a mobile app will be developed to empower patients to better manage their condition  and health care professionals to make informed decision in selection of evidence-based HF prevention and treatment strategies. Our multidisciplinary consortium  including three small-to-medium enterprises(SMEs) and two stakeholder organisations  will be guided by medical advice and regulatory and health technology experts to deliver the DSS as a medical class 2b device  reaching TRL 8 by the end of the project. STARTIFYHF will change the way in which HF is diagnosed today and thereby improve the quality and length of patients’ lives and lead to efficient and sustainable healthcare systems by reducing the number of HF-related hospital admissions and unnecessary referrals from primary to secondary care in Europe and beyond," £708,366.00 ",STRATIFYHF：基於 AI 的心衰竭風險分層與早期偵測決策支援系統,"心臟衰竭（Heart Failure, HF） 已成為歐洲的「流行病」，目前估計約有 1,500 萬人受到影響。這是一種複雜的臨床症候群，表現為心臟功能受損，對患者生活品質造成嚴重影響，也帶來龐大的醫療支出。
+
+臨床上急需創新的人工智慧（AI）工具，以利進行：
+
+風險分層（risk stratification）
+
+早期診斷（early diagnosis）
+
+疾病進展評估（disease progression assessment）
+
+這些工具對於及時啟動循證的預防與治療策略至關重要，能夠改善患者生活品質、降低發病率與死亡率，並減輕醫療體系的心衰竭負擔。
+
+STRATIFYHF 計畫的目標是開發、驗證並實施首個針對心臟衰竭的 AI 臨床決策支援系統（DSS），涵蓋初級與次級照護需求。該 DSS 將：
+
+整合患者特定的人口學與臨床資料
+
+結合既有與創新技術
+
+透過機器學習建構 HF 的風險分層與預測模型
+
+此外，團隊也將開發一款行動應用程式（App），協助患者更有效管理病情，並幫助醫療專業人員作出依據循證指引的預防與治療決策。
+
+該計畫由來自不同領域的跨學科團隊組成，包括三家中小型企業（SMEs）與兩個利害關係組織，並由醫學、法規與健康科技專家提供諮詢。最終目標為開發出符合 醫療器材 2b 級別的 DSS 工具，並在計畫結束時達到 技術成熟度等級（TRL）8。
+
+STRATIFYHF 將改變當前心衰竭的診斷與管理方式，不僅延長與改善患者的生命品質，也將藉由減少住院與不必要轉診，實現高效率且可持續的醫療照護模式，並推廣至歐洲及其他地區。","本計畫開發 AI 驅動的心衰竭風險評估與診斷支援系統 STRATIFYHF，整合臨床與個人資料，協助醫師做出更快、更準的判斷，並搭配病患端應用程式，促進雙向疾病管理，減少住院與轉診，提升整體照護效率與成效。
+",行政應用
+338456,Digital Dentistry:  AI and Simulation based workflow for automated clear aligner production,2021/11/1,"A novel approach to teeth straightening involving the use of clear thin plastic aligners that users slip on over their teeth and gums has been gaining ground over the more traditional metal (so called train-track) braces. Some advantages of clear aligners are that they are less conspicuous/less visible when worn  can be removed  and are easier to keep clean. Clear aligners are now estimated to account for 8% of orthodontic (teeth straightening) procedures worldwide with revenue in excess of 2 billion dollars.
+
+The design of clear aligners relies on using scanning techniques to generate computer models of a patient's dentition which are then used as the basis for a tailored treatment plan consisting of a sequence of clear aligners that progressively straighten teeth with 3D printing used in the process of making the aligners.
+
+This approach to developing a treatment plan is currently cumbersome and requires considerable input from a prescribing orthodontist in concert with specially trained dental technicians who carry out the detailed modelling steps interactively on a computer. This is a pain-staking and onerous process which contributes appreciably to the cost of the procedure.
+
+The present proposal is to develop a computer workflow for treatment planning  from dental scan right through to the design of patient specific aligners  which is largely automated thereby streamlining and deskilling the process with attendant substantive reduction in costs. This will in part be made possible by leveraging recent advances in Artificial Intelligence (AI) Techniques in the field of image processing as well as by employing computer (physics-based) simulation techniques to improve the treatment plan. This industrial research project will be run by a team at Vitaware Ltd. consisting of engineers  computer scientists and orthodontists with a well established track record in software development for Healthcare applications in partnership with a commercial provider of 3D aligner solutions to the orthodontist community and with the participation of The University of Exeter 3D Printing Centre of Excellence."," £469,650.00 ",數位牙科：基於 AI 與模擬技術的隱形矯正器自動化生產流程,"一種使用透明塑膠牙套來矯正牙齒的新方法，正逐漸取代傳統金屬牙套（俗稱火車軌道式矯正器）。透明牙套的優點包括：配戴時不明顯、可拆卸且較易清潔。據估計，透明牙套現已占全球約 8% 的齒列矯正市場，年營收超過 20 億美元。
+
+透明牙套的設計需使用掃描技術，產生病患牙齒的電腦模型，進而制定個人化的治療計畫，此計畫包含一系列逐步調整牙齒位置的牙套，製作過程會使用到 3D列印技術。
+
+目前這類治療計畫的設計流程相當繁瑣，需要矯正牙醫與受過專業訓練的牙科技師在電腦上進行互動建模，整體流程耗時費力，亦顯著提高了治療成本。
+
+本提案的目標是開發一個電腦化的自動工作流程，從牙齒掃描到專屬牙套設計，皆能高度自動化，以簡化流程、減少人力需求，並大幅降低成本。這將部分依賴近年在人工智慧（AI）影像處理技術上的突破，同時也結合基於物理模擬的計算方法，以提升治療計畫品質。此工業研究計畫將由 Vitaware Ltd. 領導，其團隊包含工程師、電腦科學家與矯正牙醫，具有豐富的醫療軟體開發經驗，並將與商業牙套製造商及艾希特大學（University of Exeter）3D列印卓越中心合作。",本計畫將開發一套結合AI與模擬技術的自動化治療規劃系統，用於設計個人化透明牙套，旨在簡化牙齒矯正流程、降低成本，並提升病患治療體驗與效率。,行政應用
+340012,Research and Development support for financial and economic impacts for project 27744,2021/12/1,"**NEED:** The management of Type2 Diabetes costs the NHS £8.8bn per year with patients estimated to account for 15-25% of all appointments at a local surgery level.
+
+The 'General Practice Forward View' identifies that all patients with long-term conditions should have a personalised plan of care that includes self-care  social prescribing and active signposting as part of its 10 high impact actions within 5 years.
+
+Innovations such as Artificial Intelligence (AI) can play a key role in this - however at present there is no market-ready AI-system to assist Healthcare Professionals (HCP) to do this effectively within their time pressures  in part due to the difficulties associated with deriving  machine taught (machine learning)  clinically-safe recommendations from the huge amounts of patient data available to digital health companies.
+
+**APPROACH:** The project brings together Healum Ltd (digital health platform developer)  Vernova CIC Foundation (NHS)  Manchester University (Subcontractor) to develop a peer2peer Learning AI and AI platform to support the self-management of T2D patients through personalised plans of care  support  behaviour change and education.
+
+Working with 11 GP Practices and with SBRI support (Project Number:8625456) we have already established feasibility of approach  developed an a prototype collaborative self-care platform and innovative peer-learning algorithm.
+
+**FOCUS:** The project's focuses on the refinement of peer2peer algorithms and development of AI  machine learning (ML) algorthims  SnoMed code integration  content classifier and collective intelligence recommendation engine as well as aligning and evaluating the platform in the treatment of Type2 Diabetes (T2D).
+
+By harnessing the collective peer2peer intelligence of HCP inputting into the software  combined with aggregate anonymised clinical audit data we are able to reduce the critical mass of data inputs required to train ML algorithms and provide automatic clinical recommendations with a greater level of data confidence.
+
+**IMPACT:** The platform will be integrated with and make use of new SnoMed codes and historical Read codes to act as a classifier - supporting the recommendation of the right content  service and plan to the right patient at the right time - and trialled with 21 GP practices during the project to to form a peer2peer community for providing personalised plans of care  support  behaviour change and education to patients with or at risk of T2D.
+
+By improving the management of T2D care workload  we estimate potential for cost saving per practice per annum of £11 304  increasing to £61 254 by Y5 once reductions in microvascular complications are factored in."," £83,208.00 ",為第 27744 號專案提供財務與經濟影響之研發支援,"需求說明：
+英國國民健康服務（NHS）每年在第二型糖尿病（T2D）管理上的花費高達 88億英鎊，估計此類病患佔據了地方診所中 15–25% 的就診次數。
+
+《全科醫療前瞻計畫》（General Practice Forward View）指出，所有長期病患都應擁有個人化的照護計畫，涵蓋自我照護、社會處方與主動引導，作為五年內十大高影響力行動之一。
+
+人工智慧（AI）等創新技術可在此中發揮關鍵作用，但目前市場上尚無成熟的AI系統能在有限時間內有效協助醫療人員，部分原因在於從龐大的病患數據中推導出臨床安全的機器學習建議仍具有挑戰。
+
+解決方案與合作模式：
+本計畫由 Healum Ltd（數位健康平台開發商）、Vernova CIC Foundation（NHS 機構）與曼徹斯特大學（分包商）共同合作，開發一套 同儕學習型AI平台，支援T2D病患的自我管理，包括個人化照護計畫、支持、行為改變與健康教育。
+
+在 SBRI 計畫支持下（計畫編號：8625456），我們已與 11 家診所合作，驗證此方法的可行性，並開發出原型的協作式自我照護平台與創新的同儕學習演算法。
+
+技術聚焦：
+本計畫重點在於：
+
+優化同儕學習演算法
+
+發展 AI 與 機器學習模型
+
+整合 SnoMed 編碼系統
+
+建立 內容分類器與集體智慧推薦引擎
+
+並將平台與T2D照護實務對接與評估。
+
+透過整合醫療人員的同儕知識與匿名化臨床審核資料，我們能減少機器學習所需的大量數據輸入，提升 AI 推薦的臨床可信度與實用性。
+
+預期成效：
+平台將結合新的 SnoMed 代碼與歷史 Read 代碼，作為分類依據，自動推薦最適合的內容、服務與照護計畫，並於本計畫中在 21 間全科診所進行試驗，打造 T2D 或高風險病患的同儕學習社群。
+
+透過提升糖尿病照護效率，每間診所每年可節省 £11,304，至第5年考慮併發症減少後，預估年省 £61,254。
+",本計畫開發一套同儕學習型AI平台，透過個人化照護計畫、行為支持與內容推薦，協助T2D病患自我管理。目標為提升照護效率、減輕診所負擔並降低醫療成本。,病患參與與依從性
+397330,The Evaluation of Adora Menopause Support in Primary Care,2024/5/1,"The Issue
+
+Menopause affects up to 13m UK women at any time. While each woman's experience is different  it causes up to 40 symptoms  including depression  anxiety  and reduced self-esteem. Despite government guidance that GPs should adopt a personalised  holistic and evidence-based approach  many women report poor healthcare experiences and a lack of support. With huge pressure on the NHS and primary care  more GP appointments or training alone are unlikely to resolve this issue.
+
+Our Innovation
+
+Adora is a digital menopause companion and health and wellbeing app. At its core is conversational artificial intelligence (AI)  which provides interactive  personalised support and education for every woman. This type of AI has the potential to transform how menopause is managed.Our team of clinical and technical experts has spent three years building the app  with more than 330 women and 20 clinicians helping to test and develop it. Feedback has been positive so far  with women reporting greater knowledge and high levels of trust.Our aim is to make this app available via the NHS to make a real difference to many women  free at the point of need. In order to be commissioned by the NHS  we need to provide more evidence of Adora's effectiveness and impact.
+
+The Project
+
+We have teamed up with South Medway Primary Care Network (PCN) to pilot and evaluate implementation of the Adora app across its five GP practices. We will proactively engage with primary care staff (e.g. practice nurses  GPs  health and wellbeing coaches) and women going through menopause to understand user experiences and enablers and barriers to adoption. We will monitor user data and feedback (in-app)  Conduct a range of user and primary care staff interviews and undertake desk research to better understand patient characteristics and patterns of service use amongst this cohort. Working closely with PCN staff and patients we will assess the app's impact on:
+
+* Changes to each woman's knowledge  skills and confidence
+* Patterns of service use (e.g. GP appointments)
+* Health inequalities (e.g. strategies to mitigate any negative impacts and ways to ensure inclusive implementation at PCN level)
+* Patient and staff satisfaction (e.g. within clinical consultations)"," £99,871.00 ",Adora 更年期支援產品於基層照護的評估,"議題說明
+更年期影響英國多達 1300 萬名女性，雖然每位女性的經歷皆不同，但此階段可能產生高達 40 種症狀，包括憂鬱、焦慮及自尊心降低。儘管政府已提出指引，建議全科醫師（GP）應採取個人化、整體性及循證的方法，但許多女性仍反映醫療經驗不佳且缺乏支持。在 NHS 與基層醫療承受巨大壓力的情況下，單靠增加診次或訓練並無法解決問題。
+
+創新解方
+Adora 是一款針對更年期設計的數位健康夥伴與身心健康應用程式，核心技術為對話式人工智慧（AI），可為每位女性提供互動式、個人化的支持與教育。這類 AI 有潛力改變更年期照護的方式。我們的臨床與技術專家團隊已投入三年時間開發此應用程式，並與超過 330 名女性與 20 位臨床人員合作測試與優化。初步回饋正向，使用者表示知識增加、信任感高。我們的目標是讓 NHS 免費提供此應用程式，造福更多女性。為了取得 NHS 的採購支持，我們需進一步證明 Adora 的療效與影響。
+
+計畫內容
+我們將與 South Medway Primary Care Network (PCN) 合作，在其所屬五家全科診所推動並評估 Adora 應用程式的導入與成效。我們將積極與基層醫療人員（如診所護理師、全科醫師、健康教練）與更年期女性互動，了解其使用經驗及導入的促進與阻礙因素。我們也會：
+
+蒐集應用程式使用數據與回饋
+
+訪談使用者與醫療人員
+
+進行文獻回顧，了解目標族群的病患特性與醫療使用模式
+
+評估重點將包括：
+
+女性知識、技能與信心的改變
+
+醫療服務使用模式（如 GP 看診次數）
+
+健康不平等問題（如負面影響的因應策略及包容性導入方法）
+
+病患與醫療人員的滿意度（例如臨床諮詢中的體驗）",本計畫針對更年期女性的健康需求，開發並驗證一款以 AI 為核心的數位健康應用程式 Adora，提供個人化互動支持與教育資訊。透過與初級照護網絡的合作導入與評估，期望提升女性對更年期的認知與自我管理能力，同時減少醫療資源負擔，並強化健康照護的公平性與包容性。,病患參與與依從性
+336038,AI-PROGNOSIS: Artificial intelligence-based Parkinson’s disease risk assessment and prognosis,2023/7/1,Parkinson’s disease (PD) is the most common neurodegenerative movement disorder  with a multifactorial aetiology  heterogeneous manifestation of motor and non-motor symptoms  and no cure. PD is often missed or misdiagnosed  as early symptoms are subtle and common with other diseases  allowing for considerable damage to occur before treatment. Moreover  selecting the optimal medication regimen is usually a lengthy  “trial and error” process  leading to critical  costly non-adherence. Following a trustworthy and inclusive approach to AI development and based on multidisciplinary expertise and broad stakeholder engagement  AI-PROGNOSIS aims to advance PD diagnosis and care by: 1) developing novel  predictive AI models for personalised PD risk assessment and prognosis (in terms of time to higher disability transition and response to medication) based on multi-source patient records and databases  including in-depth health  phenotypic and genetic data  2) implementing a system of biomarkers informing the AI models by tracking key risk/ progression markers in daily living  and ultimately 3) translating the models and digital biomarkers into a validated  privacy-aware AIdriven toolkit  supporting healthcare professionals (HCPs) in disease screening  monitoring and treatment optimization via quantitative  explainable evidence  and empowering individuals with/without PD with tailored insights for informed health management.," £134,451.00 ",AI-PROGNOSIS：基於 AI 的帕金森氏症風險評估與預後,"帕金森氏症（Parkinson’s disease, PD） 是最常見的神經退化性運動障礙，其病因複雜，症狀表現異質，且目前尚無根治方法。由於 PD 的早期症狀相當微妙，且常與其他疾病相似，因此常被漏診或誤診，導致患者在開始治療前已出現明顯損傷。
+
+此外，選擇最適當的用藥方式往往需要經過長時間的「試誤法（trial and error）」，增加了**不依從性（non-adherence）**與醫療成本的風險。
+
+本計畫 AI-PROGNOSIS 採取值得信賴且具包容性的 AI 開發流程，結合多學科專業與廣泛利害關係人參與，旨在提升帕金森氏症的診斷與照護，具體目標如下：
+
+開發創新的 AI 預測模型，能根據多源病患資料（如健康紀錄、表現型與基因資料）進行個人化的：
+
+PD 風險評估
+
+疾病進展預測（如發展至更高障礙等級的時間）
+
+藥物反應預測
+
+建立一套日常生活中追蹤疾病風險與進展的數位生物標記系統，並將其作為 AI 模型的輔助資訊來源
+
+最終目標是將這些 AI 模型與數位生物標記整合為一套經驗證、保護隱私的AI 工具組，支援臨床醫療人員進行：
+
+疾病篩檢
+
+病情監控
+
+治療策略優化
+
+同時，也將賦能患有 PD 或無 PD 的個體，透過個人化見解進行知情健康管理與生活決策。",AI-PROGNOSIS 將開發一套基於多源數據的 AI 預測模型與數位生物標記系統，用於帕金森氏症的個人化風險預測、病情監控與用藥反應預測，進而建立一套臨床支援工具，提高診療精準度，並強化病患自我健康管理。,病患參與與依從性
+339963,Modelling and artificial intelligence using sensor data to personalise rehabilitation following joint replacement,2021/12/1,"In 2017  over 218 000 people in the UK had a hip (THR) or knee (TKR) replacement. Provided there are no other underlying conditions  these patients should return to normal activities. However  published studies show that fewer than 50% joint replacement patients regain a normal healthy walk (gait) 1 year post-op. Gait deficiencies have been linked to osteoarthritis in other joints  poor mobility and reduced independence in Activities of Daily Living (ADLs) resulting a lower Quality of Life (QoL). This project will use a medical device plus automated exercises (vGym) to help improve the rehabilitation phase following joint replacement  with the goal to correct gait abnormalities and hence improve a patient's mobility and QoL and reduce healthcare costs.
+
+GaitSmart plus vGym  an innovative cloud based  smart sensor system  will be used to determine hip and knee replacement patients' gait kinematics in the outpatient clinic and provide exercises. In this project this will be linked to an artificial intelligence (AI) machine learning system  to optimise the personalised rehabilitation programme.
+
+Trials will take place on unilateral hip and knee replacement patients from Norwich Hospital. Patients in the intervention group will receive personalised exercise programmes at each appointment; 6  9  12 and 15 weeks post-op  based on their GaitSmart data. A control group will follow the Standard of Care (SoC).
+
+Evidence of clinical efficacy will be determined by comparing digital gait kinematics data  speed  PROMS and QoL data from patients following the new care pathway and SoC at the start and end of the intervention period. The economic benefit to the NHS will be determined by comparing all patient outcome data for both groups and predicting future costs based on gait deficiencies relative to changes in QoL.
+
+For this project  DML will develop artificial intelligence (AI) so the personalised exercise programmes are produced automatically. The GaitSmart test and automated exercise programme will be an integral part of the patient's rehabilitation and delivered by Healthcare Assistants.
+
+GaitSmart has already completed a GaitSmart intervention study in to the NHS for older patients who have fallen and are under the care of a community hospital. These patients received four GS sessions and an automated GaitSmart personalised exercise programme and the clinical and health economic data presented to MPs. This approach is clinically effective and produces a positive ROI. The learnings will be applied to this study."," £49,942.00 ",利用感測器數據建模與人工智慧實現關節置換術後復健個人化,"在 2017 年，英國有超過 218,000 人接受了髖關節（THR）或膝關節（TKR）置換手術。若無其他潛在疾病，這些病患理應能恢復正常活動。然而，研究顯示，不到 50% 的關節置換病患在術後一年內恢復正常步態。步態異常與其他關節退化（如骨關節炎）、行動不便、日常生活活動受限相關，進而影響生活品質（QoL）。
+
+本計畫將使用一款醫療裝置搭配自動化運動系統（vGym），提升關節置換後的復健階段，目標為矯正步態問題，改善病患行動能力與生活品質，並降低醫療成本。
+
+GaitSmart 搭配 vGym 為一套創新、雲端化的智慧感測系統，能於門診中量測髖或膝關節置換病患的步態動作學，並依此提供運動處方。本計畫將這一系統與人工智慧（AI）機器學習整合，以優化個人化復健方案。
+
+臨床試驗將在 Norwich 醫院進行，對象為單側髖或膝關節置換病患。介入組將於術後第 6、9、12 與 15 週接受基於 GaitSmart 數據所量身制定的運動處方；對照組則遵循標準治療流程（SoC）。
+
+臨床成效將透過比較兩組病患的數位步態資料、行走速度、病患回報成果（PROMs）與生活品質（QoL）變化來判定。經濟效益將根據步態異常與生活品質變化，預測未來醫療成本，作為 NHS 的政策依據。
+
+在本計畫中，DML 將開發 AI 系統，使個人化運動處方能自動產出，由醫護助理在復健過程中執行。GaitSmart 過去已於社區醫院進行過一項針對跌倒老人的臨床介入研究，證明此模式具臨床效果且具有正向的投資報酬率（ROI），其經驗將應用於本研究。
+",本計畫結合智慧感測裝置 GaitSmart、vGym 自動運動系統與 AI 個人化復健演算法，提升關節置換後的復健效率。目標為改善步態、提升生活品質並降低醫療成本，強化NHS照護效益。,復健
+396599,Smart At-Home Shoulder Rehab Using Predictive Analytics (rAINGEsensor),2024/6/1,"Shoulder replacement surgery is a complex procedure with patients typically staying in hospital for up to 5 days. The shoulder rehabilitation pathway has remained unchanged for years and typically consists of multiple face-to-face appointments with therapists and self-managed  unsupervised rehabilitation.
+
+Our UK project team (SME's: J+M Technologies  Marturion Electronics and Deeper Insights and a global medical device company  Smith+Nephew) will revolutionize the rehabilitation pathway for shoulder surgery using their innovative digital technology. Our approach directly promotes self-care and management and will minimise the number of face-to-face interactions between healthcare professionals and patients.
+
+Our solution consists of a wearable single-sensor that tracks the frequency  range  and quality of limb movement during post-operative recovery. This will ensure optimal levels of rehabilitation and clinician monitoring  whilst reducing the demand for face-to-face appointments.
+
+Wearable technology has already had a significant influence on the fitness industry  with mobile phones  apps  and wearable sensors in widespread use by citizens. Moreover  innovations such as artificial intelligence (AI) are finding new uses in patient self-care and clinical management  enabling the growth of personalized medicine. It would allow sensor data to be combined with existing patient reported outcome measures  e.g. quality of life  level of pain and functional status  aiding clinical decision making and empowering patients.
+
+Our unique patented technology allows a single-sensor to monitor multi-planar movements in several orthopaedic joints (knee  hip and shoulder). This will transform patient recovery  reducing patients recovery timescales and associated healthcare costs.
+
+Our comfortable  light  and user-friendly sensor is also power efficient  allowing patients to extend wear time up to seven days. Together  we will develop a smartphone app and web dashboard software. This will allow upper and lower limb movement data to be automatically uploaded wirelessly  making it readily available and easy for patients and clinicians to review.
+
+Using our wearable single-sensor and rehabilitation app in their home environment  patients will work through daily prescribed exercises at their own pace. This is better for self-management  and reduces travel and the associated carbon footprint. Patients will also be able to log information about pain and discomfort. Physiotherapists can access the dashboard to see exercise progression  which will reduce the need for multiple private and NHS physiotherapy visits.
+
+Our predictive analytics platform will automatically extract the main kinematic parameters used for the management of rehabilitation to enable the early detection and intervention of adverse events allowing physicians to prescribe an alternative course of rehabilitation."," £508,657.00 ",使用預測分析進行智慧居家肩部復健（rAINGEsensor）,"肩關節置換手術是一項複雜的程序，病患通常需住院長達五天。多年來，肩關節術後的復健流程幾乎沒有改變，主要仰賴多次面對面物理治療以及患者自行管理、無監督的復健活動。
+
+本計畫由英國多家中小企業（J+M Technologies、Marturion Electronics、Deeper Insights）與全球醫療器材公司 Smith+Nephew 合作，運用創新的數位科技，徹底革新肩關節手術後的復健流程。我們的解決方案將直接促進自我照護與復健管理，減少醫療人員與病患之間的面對面互動需求。
+
+我們的技術核心是一款穿戴式單一感測器，可在術後追蹤患肢的運動頻率、活動範圍與動作品質。這將確保病患獲得最佳的復健效果與醫師遠距監控，同時減少實體看診的需求。
+
+穿戴式科技在健身產業中已廣泛應用，而人工智慧（AI）也正在成為病患自我照護與臨床管理的新利器，使個人化醫療日益成形。透過本技術，可將感測器資料與病患自述結果（如生活品質、疼痛程度與功能狀態）整合，輔助臨床決策並賦能患者。
+
+我們專利的單一感測器技術可監測多個骨科關節（膝、髖、肩）的多向運動，能有效改善病患的恢復流程，縮短療程並降低醫療成本。此感測器輕巧舒適、操作簡便且耗電量低，病患最長可連續穿戴七天。
+
+我們將開發專屬智慧型手機應用程式與網頁儀表板，讓上下肢的動作資料可自動無線上傳，病患與臨床醫師都能即時查看與追蹤。
+
+病患可在家透過應用程式按步驟進行每日復健動作，提升自主管理的靈活度，減少就診與碳足跡。病患也能記錄疼痛與不適感，物理治療師則能透過儀表板查看復健進度，降低私人或 NHS 的實體復健次數。
+
+我們的 AI 預測分析平台將自動擷取關鍵的運動學參數，以利早期偵測與預防不良復健結果，並可協助醫師調整治療計畫。","本計畫開發一套整合穿戴式感測器與 AI 驅動分析的平台，用於肩關節置換手術後的居家復健管理。該技術能精準監測上肢運動情形，並結合個人健康回報資料，支援臨床判斷與個人化復健方案，減少面對面物理治療的需求，進而節省成本、降低碳排並改善病患生活品質。
+",復健
+347304,University of Leeds and Scaled Insights EMEA Limited,2021/9/1,To develop and bring to market a personalisation insights platform to inform the design of personalised behavioural interventions in healthcare using Artificial Intelligence.," £237,023.00 ",里茲大學與 Scaled Insights EMEA 有限公司,開發並推向市場一個個人化洞察平台，利用人工智慧技術，為醫療保健領域中個人化行為介入方案的設計提供決策依據。,本計畫旨在開發一套AI驅動的個人化洞察平台，協助醫療領域設計針對個體需求的行為介入策略，提升健康管理的精準度與成效。,虛擬病患照護
+332087,SDH Portal (HORIZON 2030),2022/11/1,"A recent academic paper submitted to the Journal of Royal Society of Medicine proposed a basic architecture of a Self-Driven Healthcare (SDH) online platform that could support individuals in their personal health and wellbeing journey. The portal would allow individuals to record their own self-generated data (e.g.  how they feel  blood pressure reading from home monitoring  etc. ) using a phone app  tablet  computer or Bluetooth device and to 'push' these data onto a secure SDH Portal which holds all their health records  including those generated in the wider healthcare system. The SHD portal could then provide personalized feedback and actionable insights (e.g.  personalized risk score  artificial intelligence-assisted clinical coaching  nudges  and gamification etc. ) to empower the self-carer with actionable insights they could use to help improve their mental and physical health and wellbeing.
+
+There are many potential barriers that need to be negotiated before attempting to develop a national SDH portal with this functionality  including considerations related to person-centredness  access  data  governance  and how such a portal could be sustainably funded for public and patient benefit  whilst expanding businesses and growth in the SDH arena.
+
+Our proposal for collaborative working with a wide mix of stakeholders will help unlock the potential of the SDH agenda by helping characterize what a future person-centred SDH portal could look like. Rather than focus on a specific technology  platform or product  we want to go about this another way and ask the intended service users (i.e.  patients & people across the age groups and from all walks of life) what they would like the portal to look like and what functionality it should have to help them in their individual self-care journey.
+
+We are seeking public funding to engage constructively with a wide mix of stakeholders (including members of the community  ethnic minority groups  technology providers and members of SDH Open Advisory Group on LinkedIn) to:
+
+1\. Identify the salient characteristics of a person-centred SDH Portal
+
+2\. Assess UK readiness to establish a first-in-the-world person-centred SDH Portal by 2030
+
+3\. Develop the business case for SDH Portal agenda in the UK
+
+Clarifying the desirable characteristics of a person-centred SDH Portal with intended users and underserved groups could help governments and health organisations improve health outcomes in people from across the ages and from different walks of life  whilst also controlling costs and addressing priority areas such as EDI  levelling up and Net-Zero."," £49,748.00 ",SDH 入口平台（HORIZON 2030）,"一篇近期投稿至《皇家醫學會期刊（Journal of Royal Society of Medicine）》的學術論文提出了一個自我導向健康（Self-Driven Healthcare, SDH）線上平台的基本架構，目的是支援個人在其健康與福祉旅程中的自我照護。
+
+該平台將允許使用者透過手機應用程式、平板、電腦或藍牙裝置記錄自我生成的健康數據（例如：情緒、家用血壓計測量結果等），並上傳至一個安全的 SDH 資料平台。此平台同時整合其他醫療系統中生成的健康紀錄。
+
+接著，該平台將運用個人化 AI 技術提供回饋與可行建議，例如：
+
+個人化風險評分
+
+AI 輔助臨床教練建議
+
+健康提示（nudges）與遊戲化互動
+這些功能將幫助使用者改善其身心健康，強化自我照護能力。
+
+在建立這樣的全國性 SDH 平台之前，仍需解決許多潛在挑戰，包括：
+
+以人為本的設計理念
+
+可及性
+
+資料治理
+
+永續公共資金來源模式與商業可行性
+
+本提案希望透過與多元利害關係人合作（包含社區成員、少數族群、科技廠商，以及 SDH 領域意見領袖）共同探討以下目標：
+
+定義以人為本的 SDH 平台應具備的關鍵特徵
+
+評估英國在 2030 年前建立全球首個 SDH 平台的可行性
+
+發展 SDH 國家級推動計畫的商業模式與政策論述
+
+透過與終端使用者與弱勢族群的合作，共同釐清平台的理想功能與設計特性，政府與健康組織將能提升全民健康結果，同時兼顧成本控管，並在多項政策優先領域（如平等、多元與包容，縮短差距，淨零碳排等）發揮實質影響力。",本計畫旨在與多元社群與產業利害關係人合作，共創一套以人為本的自我導向健康平台（SDH Portal）藍圖，透過資料整合、自我追蹤、AI建議與互動設計，支援個人健康管理，並探索英國實現全球首個國家級 SDH 平台的可行性與商業策略。,虛擬病患照護
+333726,Making digital health work for excluded populations: a companion app for an AI medical device specifically designed for the most vulnerable heart failure patients,2023/4/1,"The catalyst behind the Heartfelt device was a conversation with a heart transplant surgeon in 2015 that prompted a simple question: 'Do you know that half the people I operate on wouldn't require surgery at all if they had reported their symptoms in time?'.
+
+Further research enabled the Heartfelt founders to unearth the hidden problem of 'non-adherent' patients. These are mostly elderly people  often living alone  many with deteriorating mental capacity  who are unable to follow the advice given to them by their doctors. Instead of calling for help as their symptoms get worse  they end up as emergency hospital admissions.
+
+There are over 60 million people globally with heart failure - a terminal illness with worse survival statistics than most cancers. The cost of treating them is substantial  roughly £1.7billion/year in the UK alone  most of which is spent delivering expensive and often preventable hospital treatments.
+
+Heartfelt's vision is to address this problem with autonomous monitoring devices that sit in the patient's home to identify early heart problems. The Heartfelt device is fully automatic and requires no interaction with the patient. The data is uploaded to the cloud and analysed using artificial intelligence  which monitors for critical changes. It is complicated  cutting-edge technology  but utterly simple to use.
+
+The programme associated with this award would not only help me develop my leadership skills  and support our profile for fundraising  it will also allow me to develop this app to increase the value that our medical device can already bring to patients. It promotes patient-centric care and is being designed in close consultation with cardiologists  GP  Nurses  patients and their families. It has the potential to improve the life quality of millions of heart patients and also to save the NHS money and reduce waiting time in A&E by freeing up hospital beds.
+
+I am also very interested in the volunteering opportunities that come with the project. These will likely increase my involvement in mentoring and encouraging young women and girls to break barriers. Healthcare needs more innovative solutions  and getting more women to consider biotech as a career option will help speed up innovation."," £50,000.00 ",為弱勢心衰竭患者打造的 AI 醫療裝置專屬應用程式：數位健康助力弱勢群體,"Heartfelt 裝置的啟發來自於創辦人於 2015 年與一位心臟移植外科醫師的對話，對方說道：「你知道嗎？我手術的病人裡有一半，其實如果能及時通報症狀，就根本不需要開刀。」
+
+深入研究後，團隊發現問題根源在於被稱為「不遵從治療建議（non-adherent）」的患者群體。這些患者多為高齡、獨居，且可能有認知功能退化，無法依照醫囑行動，當症狀惡化時不會主動求助，最終導致緊急住院。
+
+全球有超過 6,000 萬人患有心臟衰竭，這是一種末期疾病，存活率甚至低於多數癌症。僅在英國，每年治療這些患者的醫療開銷約為 17 億英鎊，其中大多數支出來自昂貴、本可避免的住院治療。
+
+Heartfelt 的願景是透過全自動家用監測裝置，在症狀惡化前即時偵測異常，進而進行預防性照護。Heartfelt 裝置不需病患任何操作或互動，可自動將數據上傳至雲端，由人工智慧（AI）分析，即時監控關鍵生理變化。儘管技術先進，但對使用者而言，卻簡單至極。
+
+本計畫不僅能幫助創辦人發展領導力、提升募資能見度，也將用於開發搭配裝置的應用程式，擴大其醫療價值。Heartfelt 推動以病患為中心的照護模式，並與心臟科醫師、全科醫師、護理師、病患及其家屬密切合作設計，未來可望改善數百萬名心臟病患的生活品質，並降低 NHS 的支出與急診等候壓力，釋放寶貴病床資源。
+
+創辦人也表達對本計畫所附志工機會的熱情，希望進一步參與女性指導與鼓勵計畫，推動更多年輕女性進入生技與醫療創新產業，加速醫療科技的進展。",本計畫開發 Heartfelt 全自動心臟健康監測裝置與 AI 平台，協助高風險患者在無須互動的情況下即時監控健康變化，促進早期介入、減少急診與住院需求，提升病患生活品質並降低醫療資源負擔。,虛擬病患照護
+333431,VR-MELODY - Utilising music and AI to advance DR.VR™ and co-create a personalised VR solution to reduce anxiety and build mental resilience in adults,2023/4/1,"Rescape have been delivering immersive therapies for over 3 years. It has licenced and deployed DR.VR(tm) our pain and anxiety product  with over 100+ VR headset licences into 50+ healthcare environments. The software is a class 1 medical device. The system is designed to work out the box and we have created a rigorous covid decontamination protocol with Cardiff University.
+
+In 2022 after a trial period  we formally launched an immersive therapy solution  helping NHS staff manage stress  anxiety and burn out. This product is making impact in hospitals utilising an 8-part relaxation course developed with Psychologist Dr Smalley1\.
+
+Our next stage of development is to advance our platform  with clinical rigour  to make a specific mental health product available to a wider and diverse audience.
+
+The aim of this project is to explore how music content and Artificial Intelligence (AI) can be utilised to advance current immersive therapeutic content from DR.VR(tm) and create a personalised VR solution for people experiencing symptoms of anxiety and build mental resilience.
+
+We are excited how this funding will help further patient benefits and outcomes through the use of immersive and emerging technologies."," £171,761.00 ",VR-MELODY－結合音樂與 AI 進化 DR.VR™，共創成人專屬的抗焦慮與心理韌性虛擬實境解決方案,"Rescape 過去三年來持續提供沉浸式治療方案，其主打產品 DR.VR™ 針對疼痛與焦慮管理，已獲得超過 100 組 VR 頭戴式裝置授權，部署於 50 多個醫療照護單位。該軟體為第一級醫療器材，且具即插即用功能，並與卡迪夫大學合作制定出一套嚴謹的 COVID 消毒處理流程。
+
+2022 年，Rescape 正式推出一套經過試驗的沉浸式治療方案，幫助 NHS 醫療人員紓解壓力、焦慮與職業倦怠。此產品已在多家醫院實施，並內建由心理學家 Dr. Smalley 設計的 8 階段放鬆課程，具體改善了前線醫療人員的心理健康狀況。
+
+本計畫的下一階段，將在保持臨床嚴謹性的前提下，開發一款針對心理健康的沉浸式產品，使其能觸及更廣泛、更多元的使用族群。
+
+本專案的目標是探索如何結合 音樂內容與人工智慧（AI），進一步強化 DR.VR™ 的沉浸式治療內容，並打造一款針對焦慮症狀的個人化 VR 解決方案，幫助使用者提升心理韌性與自我調節能力。
+
+Rescape 樂見本次補助有助於進一步推動沉浸式與新興科技在患者照護成果與健康福祉上的效益。",本計畫將在現有沉浸式治療系統 DR.VR™ 基礎上，運用 AI 與音樂內容打造個人化 VR 心理健康方案，專注於焦慮管理與心理韌性提升，並拓展服務族群的多元性與可近性。,虛擬病患照護
+397393,Enhanced Predictive Analytics for Stroke Recovery in the UK,2024/9/1,"Each year in Northern Ireland  approximately 4000 people suffer a stroke. eXRt aims to transform stroke rehabilitation in the UK through the integration of advanced predictive models into our established Virtual Reality (VR) platform. Utilising machine learning(ML) and artificial intelligence(AI)  this initiative is designed to provide a ground-breaking approach to stroke recovery  focusing on data-driven treatment optimisation.
+
+Research indicates that intensive  high-repetition training is favourable. However  the lack of patient engagement because of the boring nature of current rehab along with over-stretched therapists means the recommended intensity and frequency just can't be reached.
+
+Our existing technology is an engaging VR rehabilitation gaming platform designed to remove the monotonous nature of conventional rehab with remote monitoring for more efficient patient management for clinicians. Providing the optimum amount of therapy and support for patients.
+
+**Objectives and Methodology**
+
+* **Development of Predictive Models**: Employ ML/AI to analyse rehabilitation data  aiming to predict recovery trajectories with a high degree of accuracy.
+* **Automated Collection of Key Metrics**: Introduce automatic data capture of essential metrics within the VR environment  including range of movement and coordination.
+* **Customised Rehabilitation Strategies**: Leverage predictive insights to create personalised rehabilitation programs  adapting to each patient's recovery profile.
+* **Data-Driven Clinical Decision-Making**: Equip healthcare professionals with robust predictive data  enabling precise adjustments in therapy protocols.
+
+**Innovative Aspects**
+
+* **Advanced Data Analysis Technique**s: Implement AI and ML algorithms to analyse complex datasets  identifying key recovery indicators and patterns.
+* **Integration of Comprehensive Metrics**: Develop algorithms for automated collection and analysis of critical rehabilitation metrics  enhancing the precision of patient assessments.
+* **VR Technology Integration**: Seamlessly incorporate predictive analytics into our VR platform  providing an immersive  adaptive  therapy.
+
+**Projected Outcomes and Impact**
+
+* **Improved Patient Recovery Rates**: Aim to accelerate the rehabilitation process by 30%  enhancing patient outcomes.
+* **Enhanced Clinical Efficiency**: Predictive analytics are expected to improve therapy effectiveness by up to 25%  allowing clinicians to effectively fine-tune treatment plans.
+* **Economic Impact**: stroke costs the UK economy approximately £26billion annually  the proposed solution aims to reduce rehabilitation costs by up to 20%  translating to significant savings for the healthcare system.
+* **Data Contribution to Stroke Research**: The data collected will enrich the understanding of stroke rehabilitation  offering valuable insights for future research in the UK.
+
+**Conclusion**
+
+This project represents a significant advancement in stroke rehabilitation  combining technological innovation and patient-centred design. It will make a substantial impact on stroke recovery in the UK  offering more efficient  personalised  and effective rehabilitation solutions."," £327,247.00 ",英國中風復原的強化預測分析,"每年，北愛爾蘭約有 4000 人中風。eXRt 計畫旨在透過將先進的預測模型整合至既有的虛擬實境（VR）復健平台中，徹底革新英國的中風復健方式。此計畫將運用機器學習（ML）與人工智慧（AI），打造一套以數據驅動的創新復健策略，加速中風病患的康復進程。
+
+研究顯示，高強度、重複性訓練能顯著促進中風復原，但現行復健方式枯燥乏味，病患參與度低，加上治療師人力短缺，難以達成建議的治療密度與頻率。
+
+我們現有的 VR 平台是一套互動式的遊戲化復健系統，提升病患參與度，同時透過遠端監測讓臨床醫師能更有效地管理治療過程，為病患提供最佳的復健支持。
+
+🎯 計畫目標與方法：
+開發預測模型：透過 ML/AI 分析復健數據，準確預測個別病患的復原路徑。
+
+自動收集復健指標：於 VR 環境中自動記錄關鍵數據，如活動範圍與協調性。
+
+個人化復健策略：依據預測結果，為每位病患量身打造復健計畫。
+
+輔助臨床決策：為醫師提供精準數據，動態調整復健處方。
+
+🚀 創新亮點：
+應用 AI/ML 對大型復健數據集進行進階分析，辨識關鍵復原指標。
+
+開發自動化數據擷取技術，提高評估精準度。
+
+將預測性分析整合至 VR 平台，提供沉浸式、可調適的治療體驗。
+
+📈 預期成效與影響：
+加速康復速度 30%，顯著改善患者復原成果。
+
+提升治療成效 25%，協助醫療團隊更有效地微調治療方案。
+
+降低復健成本達 20%，對 NHS 與整體醫療經濟具重大助益（中風年支出約為 £260 億）。
+
+資料貢獻於中風研究，為未來研究提供寶貴依據與資料庫資源。
+",eXRt 結合 VR、AI 與機器學習，打造一個能自動收集數據並提供預測建議的互動式中風復健平台。透過個人化訓練方案與遠端追蹤系統，提升患者參與度、加快復原進程並減少治療成本，同時也創造出有助於學術研究的數據資源。,虛擬病患照護
+329930,AI-Powered Wound Infection Indicator,2022/10/1,"Isla is a secure platform that allows for the secure capture  sharing and storage of photos  videos and forms between patients  carers and clinicians. This enriched data can be used to create a visual patient record  showing condition over time  and interactive forms add data to further inform clinical decision-making. The Isla platform is already assisting clinicians at scale and is popular with patients (more than 77 000 submissions in the last 12 months). The platform has been designed alongside clinicians and patients  and has enabled Isla to achieve a market-leading submission rate of 81% - bringing convenience to many patients who have found it difficult to engage with technology in the past. Isla interfaces with numerous widely-used Electronic Patient Records (EPRs) to ensure seamless data transfer and ease-of-use for NHS Trusts. As a result Isla has led to decreased time to treatment  increased patient satisfaction and optimised triage and monitoring processes.
+
+Isla has a wide variety of use-cases that are being used and explored and is developing innovative tools employing Artificial Intelligence (AI) to further assist clinicians and patients. One exciting project is the AI-Powered Wound Infection Indicator  applying machine learning and computer vision to images of healing wounds and assessing them for early indicators of infection. 3.8 million NHS 'patients with a wound' require wound monitoring  either from post-operative or acute wounds  representing 7% of the UK's adult population. 1 in every 16 surgical patients will experience a Surgical Site Infection  accounting for 16% of total healthcare-associated infections and are estimated to cost the NHS £1 billion per year. This AI tool will allow clinicians to triage patients  identifying the need for early intervention and expediting treatment to those who need it  and to reduce unnecessary face-to-face appointments (which wastes clinical and patient time) for those that do not.
+
+Through the NHS Long Term Plan and net zero commitment  the service is targeting a 33% reduction in face-to-face outpatient appointments by 2024\. To do so  the service requires innovative remote monitoring solutions that can integrate with  rather than recreate  management systems.
+
+Isla's innovative project and problem-solving approach will deliver a technical product that can assist clinicians  improve patient care and reduce resourcing strain  allowing technologies of the future to take their place in resolving issues from the past."," £227,288.00 ",AI 驅動的傷口感染指示器,"Isla 是一個安全的平台，可讓病患、照護者與臨床醫師之間安全地拍攝、分享與儲存照片、影片與表單資料。這些豐富的資料可用來建立視覺化病患記錄，呈現病情變化，並透過互動表單補充資訊，協助臨床決策。Isla 平台目前已大規模應用，且廣受病患好評（過去 12 個月內已有超過 77,000 件提交紀錄）。該平台由臨床醫師與病患共同設計，提交率高達 81%，特別方便過去難以使用數位工具的族群。
+
+Isla 可與多種主流電子病歷系統（EPR）整合，確保 NHS 醫療單位能無縫銜接與使用，進而縮短治療等待時間、提升病患滿意度，並優化分流與監測流程。
+
+目前 Isla 正持續拓展應用範圍，並開發多項創新工具，其中之一為AI 驅動的傷口感染指標系統。這項工具結合機器學習與電腦視覺技術，分析傷口癒合影像，辨識感染的早期徵兆。
+
+英國有約 380 萬名傷口患者，來自手術後或急性傷口，約佔成人人口的 7%。每 16 名手術病患中就有 1 名會產生手術部位感染（SSI），SSI 佔所有醫療相關感染的 16%，每年為 NHS 帶來 10 億英鎊的成本負擔。
+
+此 AI 工具可協助臨床醫師進行傷口風險分流，及早介入、加快治療，並避免不必要的面對面門診，節省臨床與病患雙方時間。
+
+配合 NHS 長期計畫（Long Term Plan）與淨零碳排承諾，該服務目標於 2024 年前減少 33% 門診就診量。達成此目標將仰賴能整合現有管理系統的創新遠距監測方案。
+
+Isla 的創新技術與解決問題的方式，將提供協助臨床決策、提升病患照護品質並減輕醫療資源負擔的技術產品，讓未來的醫療科技得以解決過去的問題。",本計畫透過 AI 驅動的傷口感染監測工具，結合視覺影像與遠距平台，提升早期傷口感染辨識能力，加快治療介入、減少門診需求並改善病患照護體驗，支援 NHS 的遠距照護與永續醫療發展目標。,虛擬病患照護
+332055,Using AI & NILM technology to help older adults live longer in their own homes and bring higher efficiency to group caring,2022/11/1,"At Informetis Europe  our goal is to support the more vulnerable and ageing members of our society to enjoy the future more independently within the comfort of their own home. We believe that older adults should not only be able to live independently in an environment that is both safe and familiar to them for as long as they wish  but also that any preventative domiciliary care provided should be as non-intrusive as possible.
+
+  
+Our innovation is to offer a 24/7 assisted living solution called InfoCarePro. InfoCarePro is based on Non-Intrusive Load Monitoring (NILM) technology - a process that monitors voltage and current usage within a property and then deduces what appliances are being used using Artificial Intelligence (AI).
+
+  
+Although some product offerings already exist  InfoCarePro differs by putting emphasis on discrete monitoring as well as no interaction required from the user. Whilst the majority of the current solutions require some combination of cameras  motion sensors  smart plugs  and interactive alarms  we utilise a single sensor which is installed into the customer's fusebox. This sensor will be ""invisible"" to the resident  but will provide all the necessary data for our Artificial Intelligence (AI) algorithm to determine when deviations from the norm have occurred and when alerts need to be sent out to family members and healthcare professionals. There is no need for the individual being cared for to interact in any way with our sensor (eg. replacement of batteries or remembering to wear a pendant etc.)
+
+Our comprehensive AI algorithms will then be able to highlight deviations in normal routine behaviour  allowing alerts to be sent to family members or health care workers indicating either the overuse or under use of appliances. This can identify deviations ranging from an oven or hob being left on longer than normal to a kettle not being used first thing in the morning. This type of daily routine analysis can then be used to analyse long-term deviations which could be indicative of potential serious health conditions. This would allow for preventative actions to be taken  thereby reducing the levels of reactive care required and in turn alleviating the volume of stress on our already overburdened NHS."," £48,479.00 ",結合 AI 與 NILM 技術協助長者在家長住並提升團體照護效率,"在 Informetis Europe，我們的目標是支援社會中較為脆弱與高齡的族群，讓他們能夠更長時間、更獨立地在熟悉與安全的居家環境中生活。我們相信，預防性的居家照護應該盡可能不具侵入性，同時提供實質幫助。
+
+我們的創新產品是 InfoCarePro——一套 24 小時全天候的輔助生活解決方案，基於 非侵入性用電監測技術（NILM）。此技術透過監測住宅內的電壓與電流，並利用**人工智慧（AI）**推論家中使用的電器類型與行為模式。
+
+雖然市面已有類似產品，InfoCarePro 的獨特之處在於它強調隱密性監測，且完全不需要使用者互動。目前市面上的多數產品皆需安裝攝影機、動態感應器、智慧插座或警報裝置，而我們的方案只需在配電箱中安裝一個感測器即可。此感測器對住戶而言是「無感的」，但能即時將所有必要數據傳輸給 AI 系統，以識別日常行為的異常變化，並在需要時對家人或照護人員發送警示。使用者不需要更換電池、配戴裝置，或記得操作系統。
+
+我們的 AI 演算法能夠辨識例行行為中的變異，例如：
+
+爐具使用時間異常過長
+
+水壺早上未被使用（可能表示未起床或失常）
+
+這類日常行為的微變化可以進一步推論出潛在的健康問題。當異常行為被及早發現，即可進行預防性介入，減少事後的緊急照護需求，進而降低 NHS 系統的壓力與資源負荷。",本計畫開發 InfoCarePro 系統，透過 NILM 技術與 AI 模型，無需攝影機或穿戴裝置即可即時監測高齡者居家活動，辨識行為異常並發出警示，促進非侵入性居家照護與預防性健康介入。,虛擬病患照護
+397666,PressIO: eTextile & AI Enabled Smart Pressure Sensor for Prevention of Pressure Ulcers,2024/7/1,"Pressure ulcers are injuries to the skin and underlying tissue that occur due to prolonged pressure against a surface such as a bed or chair. These wounds are disabling  cause significant discomfort and are slow to resolve  requiring daily care and attention and  in some cases  months of treatment. Low mobility patients  in particular wheelchair users  are at high risk; 50% will develop one in their lifetime.
+
+Pressure ulcers are a significant burden on healthcare providers  accounting for 4% of annual health spending in the UK despite the fact that 80-95% are avoidable  meaning there is huge potential for saving. Prevention of all avoidable pressure ulcers could save health providers in the UK up to £2.1billion per year.
+
+Our mission is to empower wheelchair users to protect against pressure ulcers. PressIO  is a smart pressure sensing fabric that continuously monitors user pressure distribution and alerts the user when and how to reposition when at increased risk of developing a pressure ulcer.
+
+This innovative technology uses a patent-pending sensor design to continuously monitor pressure on a low-cost mat made of flexible fabric. PressIO is designed to be used continuously  providing wheelchair users with peace of mind. It will use machine learning to understand which positions are safest for each individual and develop personalised risk profiles; communicating actions to the user in a clear and accessible way. We are bringing together experts in advanced materials  product design and artificial intelligence to co-design PressIO with users and clinicians. Find out more at graphenetrace.com"," £299,639.00 ",PressIO：電子紡織與 AI 智慧壓力感測器預防壓瘡,"壓力性損傷（俗稱褥瘡）是皮膚與下方組織因長時間受壓而造成的傷害，常發生於長時間躺在床上或坐在椅子上的人。這類傷口會造成身心不適、癒合緩慢，需要每天照護，嚴重者甚至需數月治療。行動不便者，尤其是輪椅使用者，面臨極高風險——高達 50% 的輪椅使用者一生中會經歷一次褥瘡。
+
+壓力性損傷對醫療體系構成沉重負擔，在英國每年約占 4% 的醫療支出，但令人震驚的是，有 80–95% 的褥瘡是可預防的，顯示出龐大的節省潛力。若能預防所有可避免的褥瘡，英國每年可節省高達 21 億英鎊 的醫療費用。
+
+我們的使命是賦能輪椅使用者主動預防褥瘡。PressIO 是一款智慧型壓力感測布料，可持續監測使用者的壓力分布，並在壓瘡風險升高時提醒使用者該如何與何時重新調整坐姿。
+
+這項創新技術採用專利申請中的感測器設計，將壓力感測技術整合進低成本的柔性布料中，實現長時間穿戴。PressIO 將應用機器學習技術，了解對每位個體來說最安全的坐姿，並建立個人化風險輪廓，透過清楚易懂的方式傳達行動建議。這項技術由先進材料、產品設計與 AI 專家共同開發，並與使用者及臨床人員共同設計。
+
+更多資訊請參見：graphenetrace.com",本計畫開發一款結合柔性感測技術與 AI 的智慧壓力感測布料，目標是協助輪椅使用者即時監測臀部壓力分布，主動預防壓力性損傷（褥瘡）的發生。該技術具備個人化建議、即時提醒與低成本高舒適性的優勢，能大幅提升生活品質並減輕醫療系統的照護負擔。,虛擬病患照護
+392153,Srotas Connect,2024/10/1,"""**Srotas Connect**"" is an innovation led businesses  developing a Behavioural Science infused Artificial Intelligence platform to streamline clinical trials  improving patient identification  recruitment and retention. This innovation project is focused on innovation in life and health sciences and will lead to an increase in business activities in this cluster within NI  by providing digital software to support and streamline the clinical trial decision processes as set out below.
+
+Our product's Artificial brain utilises Large Language Models **(LLMs)** with Natural language processing **(NLP)** to process tera bytes of health data in a short time and derives medical insights at a rate 100 times faster than clinicians and identify subjects suitable for trials **in minutes not months** providing relevant and actionable insights to clinicians
+
+Infusing **behavioural science** at every stage of clinical trials we gain a deeper understanding of patients  providing precise recommendations to clinical researchers thus enabling them to make better informed decisions  acting as a co- pilot from patient identification to recruitment  retaining the patients throughout the trials.
+
+Patient recruitment is made simpler to enrol patients by using online consent forms and **automated emails with Generative AI** brings down manual efforts of the clinicians and **virtual consultations with behavioural analysis** helps to understand patient's confidence and motivation to join clinical trials.
+
+**On-Trial Prognosis**  a feature that forecasts patient needs well in advance. This capability contributes to achieving a higher retention rate and minimising diverse side effects on patients by implementing pre-emptive measures or adjusting dosages. As a result  the quality of life and care for patients during the trial phase is significantly improved  simultaneously reducing retention costs from **3x to 1x.**
+
+With **Rapid Site selection  initiation  and activation** reduces **Site setup** times by upto **70%** .
+
+Besides the above  our platform provides a secure mobile solution which enables users to connect and work seamlessly from any location.
+
+**Quick View Dashboards** in the platform help users by providing easy-to- understand summaries of **trial performances** making decision-making better and more effective
+
+In simple terms  Srotas Connect acts like a bridge connecting Pharma  Contract Research Organizations  and research sites. It helps them conduct clinical trials more efficiently using advanced technology. This not only makes the trials smoother but also improves healthcare research  leading to better health results and higher-quality care for patients."," £50,000.00 ",Srotas Connect（專案名稱）,"Srotas Connect 是一家創新型企業，開發融合行為科學的人工智慧平台，以簡化臨床試驗流程，提升病患識別、招募與留存效率。平台的「人工智慧大腦」運用大型語言模型（LLMs）與自然語言處理（NLP）技術，能快速從大量健康資料中找出適合參與試驗的病患，幾分鐘內完成作業，相較傳統方法大幅縮短時間。平台亦導入行為分析、生成式 AI、虛擬諮詢與自動化工具，提供從招募、同意到追蹤的全流程支援，提升病患參與率與留存率，並透過「On-Trial Prognosis」功能預測病患需求與風險，提升療效與病患照護品質。
+",本計畫開發一個導入行為科學與生成式 AI 的平台，用以提升臨床試驗流程效率，包括病患篩選、招募、追蹤與預後分析。透過 NLP 與 LLM 技術，快速處理醫療資料並提供即時建議。,虛擬病患照護
+332025,Intelligent Digital Stethoscope for Improved Auscultation and Remote Healthcare,2022/11/1,"**Purpose:** Designing and marketing cost-effective high-end technology stethoscopes using bottom-up approach.
+
+**Problem:** Stethoscopes available in the market have undergone very little innovation. Of those  most have been developed by taking into consideration the engineer's perspective and not the user's perspective in mind. They also tend to be very expensive  especially for a medical professional from developing nations.
+
+**Solution:** After working in the medical care sector for a decade  we realized that essential clinical tools used today are technologically outdated. This led to the idea of developing cost-effective digital medical devices using high-end technology with Artificial Intelligence (AI). We aim to design our products from a user's perspective using an evidence-based Public Health tool - Health Needs Assessment (HNA). HNA is widely used in Public Health to understand the needs of the user and to improve the quality of healthcare delivered. This tool uses a bottoms-up approach to provide services that are tailor-made for the users.
+
+**Uniqueness:** We re-design and digitalise the stethoscope with four pillars in mind. They are accuracy  interoperability  intelligence  and aesthetics (user friendliness  and looks). The current stethoscope technology uses a normal microphone-based system is not smart and lacks the capability to track  store and share information.
+
+Our intelligent stethoscopes are capable of:
+
+* Interoperability (Storing and sharing information in audio and video format)
+* Supporting health professionals for better decisions: Integrated with Machine Learning and Artificial Intelligence
+
+All these advancements come without compromising the looks  the stethoscopes have touch screen displays with GUI interface and come with a compatible application that runs on mobile and PCs.
+
+**Green Growth strategy:** We are focused on a green growth strategy and aim to use sustainable and environmentally friendly materials.
+
+**Equality strategy**: We are committed to ensuring that equality and human rights are considered in everything we do.
+
+The market is massive. Our stethoscopes can be used by doctors  nurses  paramedics  veterinarians  and home healthcare. Sooner this tool is going to be inevitable for remote healthcare and telemedicine. The global stethoscope market size is anticipated to reach USD 826.72 million by 2028\. The global medical devices market size accounted at US$ 447.63 billion in 2019\. The Covid-19 pandemic shown us the requirement of tools for remote healthcare. Our major competitors are Littmann Eko  and ThinkLabs. We have a competitive advantage over them in terms of technology  sensors  aesthetics  algorithm and artificial intelligence  that we are using to deliver user requirements."," £48,866.00 ",智慧數位聽診器：提升聽診品質與遠距健康照護,"目的：
+設計與行銷高效能、具成本效益的智慧聽診器，並以自下而上的方式進行研發。
+
+問題：
+市面上的聽診器缺乏創新，大多從工程師的角度設計，忽略實際使用者（如醫師、護理人員）的需求，且售價偏高，對發展中國家的醫療專業人員來說負擔沉重。
+
+解決方案：
+我們在醫療領域工作十年後，發現許多基本臨床工具已嚴重落後於科技發展。因此我們著手開發一系列結合高端科技與人工智慧（AI）的數位醫療設備，並採用「健康需求評估（HNA）」這項公共衛生實證工具，以使用者為核心設計產品。HNA 採用自下而上的方法來針對使用者需求打造客製化的醫療服務。
+
+產品特色：
+我們重新設計並數位化聽診器，堅守四大核心理念：
+
+精準度（Accuracy）
+
+互通性（Interoperability）
+
+智慧化（Intelligence）
+
+美學性（Aesthetics）——即使用友善與外觀設計
+
+傳統聽診器大多使用簡單麥克風技術，不具備智慧功能、資料儲存或共享能力。
+
+我們的智慧聽診器具備以下功能：
+
+互通性： 能儲存與分享聲音與影像資料
+
+臨床決策支援： 結合機器學習與人工智慧，協助醫療人員做出更佳判斷
+
+此外，裝置擁有觸控螢幕與圖形化介面（GUI），並配有可在手機與電腦端使用的應用程式。
+
+綠色發展策略：
+致力於使用可持續與環保材料，推動綠色醫療科技。
+
+平權策略：
+確保在設計與實作過程中考量平等與人權原則。
+
+市場潛力：
+智慧聽診器可廣泛應用於醫師、護理人員、急救人員、獸醫與居家照護。隨著遠距醫療需求興起，這類產品將成為必需品。全球聽診器市場預計於 2028 年達 8.27 億美元，而醫療器材整體市場規模於 2019 年已達 4,476 億美元。COVID-19 疫情突顯了遠距照護工具的必要性。我們的競爭對手包括 Littmann Eko 與 ThinkLabs，但我們在技術、感測器、演算法與AI應用上具備競爭優勢。",本計畫開發整合 AI、感測器與智慧顯示介面的數位聽診器，透過以使用者為中心的設計，提供更精準、可共享、可擴充的臨床工具，支持遠距照護並提升全球醫療可及性與環境永續。,虛擬病患照護
+336367,ESCORT: AI ENABLED HEALTHCARE SERVICES DURING CROSS-BORDER MEDICAL EMERGENCIES AND REGULAR PATIENT SERVICES,2024/1/1,The goal of ESCORT project is to bring prominent advances in IoT  Wearables  Artificial Intelligence (AI)  and Machine Learning (ML) to facilitate enhanced patient treatment services for the enrichment of patient experience and European health and care service resilience. The proposed innovations to be carried out in the project will assist int eh development of ethics-by-design policy intervention based on the evidence collected and analysed from the pilot studies. Spanning across 36 months  the ESCORT project brings together the experiences of leading healthcare service providers from five (5) European (Greece  Italy  Belgium  Sweden  Ireland) and one (1) associated member (Israel) states specialising in emergency medicine and offering regular health and care service providers across six (6) countries (AUTH  UCSC  VUB  KI  NH  MDA). The development of digital services will be designed in consultation with the stakeholders including patients  patient advocacy groups  health and care service professionals  health and care providers. The development of technology will be supported by research experts (UTH)  complementing the expertise of SMEs (RINI  MKM  COSI  MDS). The overall integration of the proposed tools and services will be achieved by INTRA. The origins of ESCORT conceptualisation can be traced back to the supplier network creation within NO-FEAR (CSA) project in which validation of individual tools catering the demands of urgent and emergency medicine has been carried out. Building on the success of the NO-FEAR project  the workplan of ESCORT has been designed to enable integration of core technologies to develop digital services addressing patient needs and requirements. To achieve this project  the ESCORT consortium has identified three (3) scenarios which represents the pre-  and post- clinical patient care and the needs of victims requiring support for urgent and emergency medical care. All the scenarios will be validated across six (6) countries.," £553,687.00 ",ESCORT：AI 驅動的跨境緊急與常規醫療服務,"ESCORT 計畫的目標是整合**物聯網（IoT）、穿戴式裝置、人工智慧（AI）與機器學習（ML）**等技術，以提升病患治療服務、豐富病患照護體驗，並強化歐洲健康與照護體系的韌性。
+
+本計畫的創新內容將促進基於倫理設計（ethics-by-design）的政策干預措施制定，其依據來自各項試點研究所收集與分析的證據。
+
+ESCORT 為期 36 個月，匯聚來自 **六個國家（希臘、義大利、比利時、瑞典、愛爾蘭，以及以色列的附屬會員）**在急診與常規健康照護領域的領先服務提供者，包括：
+
+AUTH（希臘）
+
+UCSC（義大利）
+
+VUB（比利時）
+
+KI（瑞典）
+
+NH（愛爾蘭）
+
+MDA（以色列）
+
+所有數位健康服務的設計過程將與多方利害關係人共同參與，包括：
+
+病患
+
+病患倡議組織
+
+醫療與照護專業人員
+
+健康與照護機構
+
+技術開發將由研究機構 UTH 支持，並由多家中小企業（RINI、MKM、COSI、MDS）補足技術實力。整體工具與服務的整合將由 INTRA 負責。
+
+ESCORT 的構想源自 NO-FEAR（CSA）計畫中建立的供應者網絡，該計畫針對急重症醫療需求開發並驗證了多項工具。ESCORT 的工作計畫延續 NO-FEAR 的成功，進一步整合核心技術以開發符合病患需求的數位健康服務。
+
+為實現此目標，ESCORT 聯盟定義了三個情境場景，涵蓋病患的臨床前與臨床後照護，以及緊急與急難醫療服務需求。
+
+所有場景將在上述六個國家進行驗證與實地測試。",ESCORT 計畫整合 IoT、穿戴式裝置與 AI 技術，建構跨國健康照護數位服務，聚焦於急重症與臨床前後照護情境，強化病患參與與健康體系韌性，並導入 ethics-by-design 政策框架。,虛擬病患照護
+336471,VITAL: VIrtual Twins as tools for personalised clinicAL care,2024/1/1,VITAL will deliver a comprehensive clinically validated multi-scale  multi-organ modelling platform that is driven by and can represent individual patient data acquired  both in the clinic and from wearable technology. The platform will create a virtual human twin for individualised and sex-specific optimisation of medical (pharmacological) orsurgical (interventional) therapy for complex  multifactorial cardiovascular disorders that have systemic impact and high risk of comorbidities of a.o. the kidney and brain: systemic hypertension  heart failure (with/without preserved ejection fraction) and hemodynamically complicated atrial septal defects.User-friendly interfaces  co-created with healthcare professionals  will provide access to the technology. The platform consolidates existing multi-scale and multi-organ models of the heart  lung and systemic circulation and their regulatory mechanisms  and advances the state-of-the art by incorporating currently missing biophysics-based  physiology-underpinned components (kidney-related blood pressure control  hormonal actions  vascular region-specific smooth muscle cell functionality  and cardiac and arterial growth and remodelling mechanobiological mechanisms). By the end of the project  the platform will have been validated and tested in more than 200 patients across 5 clinical studies in France and the UK to optimise the treatment of patients with resistant systemic hypertension  heart failure or atrial septum defects. A unique aspect of VITAL is its focus on monitoring the mental health of patients to understand their expectations and reservations towards digital health technology. VITAL technology will be compliant with and contribute directly to the VPHi and EDITH virtual twin ecosystem. This will further unlock the potential of new digital tools that intelligently combine the power of physics-based multi-scale models  artificial intelligence and data to provide better health care for all.," £754,927.00 ",VITAL：虛擬分身作為個人化臨床照護工具,"VITAL 計畫將開發一套完整且經臨床驗證的多尺度、多器官建模平台，能夠結合臨床與穿戴式裝置所蒐集的個人化病患資料，建立虛擬人體分身（Virtual Human Twin）。
+
+此平台將用於個別化與性別特異化的治療優化，包括藥物治療與介入手術，適用於多因性且具全身性影響的心血管疾病，如：
+
+系統性高血壓
+
+心衰竭（含射出分率保留與非保留型）
+
+血流動力學複雜的心房中膈缺損
+
+使用者介面將與醫療專業人員共同設計（co-creation），確保平台操作直觀、臨床友善。
+
+此平台整合並擴展既有的多尺度與多器官模型，涵蓋：
+
+心臟、肺臟與全身血液循環
+
+相關調控機制
+
+並進一步補足現有模型中缺乏的關鍵元素，包括：
+
+與腎臟相關的血壓控制
+
+荷爾蒙調節作用
+
+血管區域特異性的平滑肌功能
+
+心臟與血管的生物力學性成長與重塑機制
+
+計畫結束時，該平台將在法國與英國五項臨床研究中，超過 200 名患者中完成驗證與測試，聚焦於優化下列患者族群的治療：
+
+抵抗性高血壓患者
+
+心衰竭患者
+
+心房中膈缺損患者
+
+VITAL 的一項獨特之處在於其同時監測病患心理健康狀態，以理解其對數位健康科技的期望與疑慮。
+
+此外，VITAL 技術將符合並直接貢獻於 VPHi（Virtual Physiological Human Institute） 與 EDITH 虛擬分身生態系統的發展，藉此釋放以物理建模、多尺度模擬與 AI 資料整合為基礎的數位醫療潛力，實現更優質、個人化的健康照護。",VITAL 計畫開發整合生理模型、AI 與個人資料的虛擬人體分身平台，應用於高風險心血管疾病之個別化治療優化，並關注病患心理健康與數位科技接受度，提升全人照護品質與精準醫療效能。,虛擬病患照護
+393148,Developing AI powered virtual patients in the Mediverse that adapt to learner’s cognitive load to improve learning outcomes for healthcare professionals and medical students.,2023/8/1,We will develop and integrate artificial intelligence capabilities for our virtual patients in virtual reality. This will provide healthcare professionals and medical students with more dynamic and tailored learning experiences to improve learning outcomes in healthcare education.," £49,880.00 ",在醫療元宇宙中開發 AI 虛擬病患，依學習者認知負荷調整，以提升醫護與醫學生的學習成效,我們將為虛擬實境（VR）中的虛擬病人（virtual patients）開發並整合人工智慧（AI）功能，以提供醫療專業人員與醫學生更具互動性與個人化的學習體驗，進而提升醫療教育的學習成效。,本計畫透過在虛擬實境中的虛擬病人系統加入 AI 功能，使醫學生與醫療人員能進行更真實、動態的模擬學習，有助於強化臨床決策與溝通訓練，提升醫療教學的品質與效率。,虛擬病患照護
+393350,Advances in precision medicine for paediatric sleep disorders - Paediatric Advanced Respiratory Service (PARS) study,2023/9/1,"This project aims to address an unmet need in paediatric respiratory and sleep diagnostics. It focuses on the development of PneumoWave's novel respiratory monitoring platform which will be tailored specifically for children. It combines wireless wearable biosensors  mobile 'App'-based software and Artificial Intelligence for non-invasive monitoring  enabling accurate detection of changes in the respiratory pattern which may indicate respiratory distress or apnoea. It will be an easy-to-use  low-cost device that can be worn every night at home  allowing the capture and real-time analysis of longitudinal respiratory physiological data  of a duration not possible with current gold standard diagnostic tests (polysomnography  cardio-respiratory polygraphy) which require overnight hospital admission and invasive equipment  poorly tolerated by children.
+
+The device will be tested with patients undergoing routine sleep studies in collaboration with a specialist Paediatric Consultant in Respiratory and Sleep Medicine at NHS Greater Glasgow & Clyde to demonstrate clinical proof of concept. Success will support future product validation in pivotal clinical studies  and Class 2 regulatory clearance in key global markets by 2027\.
+
+Adoption of the solution in paediatric sleep diagnostics  driven by demand for improved diagnostic accuracy in sleep disordered breathing and shift towards telemedicine in paediatric respiratory medicine and clinical care  creates significant value across healthcare systems globally  including:
+
+* Substantially increasing disease management options for children  addressing current unmet data gaps causing suboptimal diagnostic decision making.
+* Creating a new market for low-cost longitudinal data capture to monitor disease progression and identify novel digital biomarkers for precision medicine approaches and the development of tailored treatments not currently possible in paediatric respiratory disease.
+* Future development of real-time adverse event detection and alerting. All of which can be achieved with simple app updates for existing patients with no requirement for hardware updates."," £650,728.00 ",兒童精準醫療新進展－兒科睡眠障礙研究（PARS 計畫）,"本計畫旨在解決兒科呼吸與睡眠診斷方面的未滿足醫療需求。重點在於開發 PneumoWave 的創新型兒童專用呼吸監測平台，該平台結合：
+
+無線穿戴式生理感測器
+
+行動應用程式（App）軟體
+
+人工智慧（AI）演算法
+
+進行非侵入式的呼吸模式監測，可準確偵測潛在的呼吸困難或呼吸暫停徵兆。此設備設計為易於使用、成本低廉，可供兒童每日夜間在家配戴使用，用以收集與即時分析長期的呼吸生理資料——這是目前標準診斷工具（如多項睡眠生理檢查或心肺多導檢查）所無法做到的，因為這些檢查需要住院、設備侵入性高，且多數兒童難以忍受。
+
+該設備將與 NHS 大格拉斯哥與克萊德區 的小兒呼吸與睡眠醫學專科顧問合作，針對正在進行常規睡眠檢查的病童進行測試，以驗證臨床可行性。若測試成功，將進一步推動產品於 2027 年前完成關鍵臨床研究與全球主要市場的第二類醫療器材（Class 2）法規認證。
+
+本解決方案的臨床應用與採用預期帶來全球醫療體系的高度價值，特別是：
+
+大幅提升兒童呼吸疾病的診斷能力，填補當前數據不足所造成的誤診與延誤問題。
+
+創造低成本、長期資料收集的新市場，可追蹤疾病進展，並發掘數位生物標記，推動精準醫療與個人化治療策略的發展。
+
+未來可實現即時異常事件偵測與警示功能，透過 App 更新即可啟用，無需更換硬體設備。","本計畫開發一款適用於兒童的 AI 呼吸監測裝置，透過穿戴式感測器與應用程式，在家中就能長期監控睡眠期間的呼吸變化，改善診斷準確度、促進精準醫療發展，並具備可擴充至即時警示系統的潛力。
+",虛擬病患照護
+336456,BETTER,2023/12/1,In recent years  data-driven medicine has gained increasing importance in terms of diagnosis  treatment  and research due to the exponential growth of healthcare data. The linkage of cross-border health data from various sources  including genomics  and analysis via innovative approaches based on artificial intelligence (AI) will enable a better understanding of risk factors  causes  and the development of optimal treatment in different disease areas. Nevertheless  the reuse of patient data is often limited to datasets available at a single medical centre. The main reasons why health data is not shared across institutional borders rely on ethical  legal  and privacy aspects and rules. Therefore  in order to (1) enable health data sharing across national borders  (2) fully comply with present GDPR privacy guidelines / regulations and (3) innovate by pushing research beyond the state of the art  BETTER proposes a robust decentralised privacy preserving infrastructure which will empower researchers  innovators and healthcare professionals to exploit the full potential of larger sets of multi-source health data via tailored made AI tools useful to compare  integrate  and analyse in a secure  cost-effective fashion; with the very final aim of supporting the improvement of citizen’s health outcomes. In detail  this interdisciplinary project proposes the co-creation of 3 clinical use cases involving 7 medical centres located in the EU and beyond  where sensitive patient data  including genomics  are made available and analysed in a GDPR-compliant mechanism via a Distributed Analytics (DA) paradigm called the Personal Health Train (PHT). The main principle of the PHT is that the analytical task is brought to the data provider (medical centre) and the data instances remain in their original location. In this project  two mature implementations of the PHT (PADME and Vantage6) already validated in real-world scenarios will be fused together to build the BETTER platform.," £268,925.00 ",BETTER（專案名稱）,"近年來，資料驅動醫療（Data-Driven Medicine）在診斷、治療與研究方面日益重要，主要因為醫療數據量呈指數型成長。跨國整合來自各類來源（包括基因組資訊）的健康資料，並運用**人工智慧（AI）**進行創新分析，能促進對疾病風險因子、病因與最佳療法的理解與研發。
+
+然而，目前病患資料的再利用多侷限於單一醫療機構內的資料集，主要因為涉及倫理、法律與隱私保護等層面，跨機構分享資料仍面臨重大挑戰。
+
+為此，BETTER 計畫提出建立一套強大且去中心化的隱私保護基礎架構，具體目標為：
+
+促進跨國健康資料分享
+
+完全符合歐盟 GDPR 隱私規範
+
+突破現有研究瓶頸，推動創新
+
+BETTER 將協助研究人員、創新者與臨床醫師安全且具成本效益地存取與分析多來源大型健康數據集，並透過量身打造的 AI 工具進行比較、整合與推論分析，以提升全民健康照護品質為終極目標。
+
+計畫將建構三個臨床應用案例，橫跨七個來自歐盟與其他國家的醫療機構，納入的**敏感病患資料（包含基因資訊）**將透過 GDPR 合規的方式進行分析。
+
+其核心技術架構為 「個人健康列車（Personal Health Train, PHT）」 的分散式分析模型（Distributed Analytics, DA）。
+PHT 的原則是：將分析任務送到資料所在機構，而資料本身不需移動。
+
+本計畫將結合兩套已在實務中驗證的 PHT 實作平台：
+
+PADME
+
+Vantage6
+
+整合後構建成最終的 BETTER 平台。",BETTER 計畫建立一套去中心化、隱私保護的 AI 健康資料分析平台，透過 PHT 架構與跨國臨床合作，實現 GDPR 合規下的多來源健康數據共享與研究應用，加速醫療 AI 創新並提升健康照護品質。,醫學研究與新藥開發
+330908,AI to improve safe medication delivery to patients - a cloud-based virtual reality initiative to unblock pharmacology training,2022/11/1,"Traditionally  nursing and healthcare education relied wholly upon placement learning environments to develop knowledge and understanding  and to practice clinical skills. With rising student numbers  disruption to classroom theoretical learning and limited access to patient-facing or clinic-based learning  immersive virtual reality (VR) simulations can bridge the gap between medical theory and clinical practice  save educational resources and address the current training bottleneck. This project focuses on supporting the practice of medical pharmacology  and the development of core communication and clinical reasoning skills in undergraduate student nurses through the use of VR-based training simulations with natural language programming for different clinical scenarios and drug administration routes. Improving learning and providing a safe environment in which students can practice skills  will help ensure that student nurses are 'fit for practice' and 'fit for purpose'. Outcomes will lead to better medicines management across the health service  improved patient safety and outcomes  and reduced healthcare costs.
+
+VREvo Ltd (UK)  Tetra Signum (South Korea)  The University of Manchester (UK) and University of Worcester (UK)  aim to develop an innovative medical education platform with artificial intelligence (AI) supported immersive VR simulations using advanced voice recognition (Natural Language Processing) techniques to create patient avatars for different clinical scenarios in medical pharmacology. This will involve the development and testing of interactive and realistic VR content based around 3 core simulations to assess proof-of-concept  with feedback from a range of users including lecturers  trainers and student nurses  and an assessment to determine the usability and acceptability of the VR approach compared to current teaching methods.
+
+Combining the expertise of the partners in clinical skills development  the creation of VR simulations for healthcare professional training  and commercial deployment of advanced medical education tools  will enable the development of commercially-viable solutions for rapid exploitation to higher education medical institutes globally  facilitating more efficient and cost-effective training of nurses and other healthcare personnel anywhere in the world  including developing countries."," £382,423.00 ",利用 AI 改善安全給藥：雲端虛擬實境計畫以突破藥理學訓練瓶頸,"傳統上，護理與健康照護的教育高度依賴實習與臨床學習環境來建構知識與實作技能。然而，隨著學生人數上升、課堂學習中斷，以及實際面對病患的臨床機會有限，沉浸式虛擬實境（VR）模擬訓練已成為銜接醫學理論與臨床實務的重要橋樑，可節省教育資源並解決當前訓練瓶頸。
+
+本計畫專注於藉由VR訓練模擬結合自然語言處理（NLP），協助護理系學生練習臨床藥理學、溝通技巧與臨床判斷能力，並涵蓋多種臨床情境與給藥途徑。透過這樣的訓練環境，學生能在安全的情境中學習與反覆練習，有助於確保其具備「勝任臨床實務」與「勝任實際工作」的能力。
+
+預期成果包括提升醫藥管理能力、強化病患安全與治療結果，並降低整體醫療成本。
+
+本計畫由 VREvo Ltd（英國）、Tetra Signum（南韓）、曼徹斯特大學與伍斯特大學共同參與，目標是開發一個AI 支援的沉浸式醫學教育平台，應用進階的語音辨識（NLP）技術，建構能進行臨床互動的病人虛擬角色。
+
+初期將開發三個核心模擬案例進行概念驗證，並收集來自教師、訓練師與學生護理人員的使用回饋，以評估 VR 教學模式相對於傳統方式的可用性與接受度。
+
+透過合作夥伴在臨床技能訓練、VR 醫療模擬設計與商業化教育平台的經驗，本計畫旨在打造具商業潛力的全球醫學教育解決方案，可推廣至全球高等醫學教育機構，包括開發中國家，協助更高效與低成本地培訓醫護人員。",本計畫開發結合 AI 與 VR 的護理訓練平台，支援學生在虛擬環境中練習藥理學與臨床溝通技巧，提升教育效率、病患安全與全球醫療人力培訓品質。,醫學教育與臨床訓練
+332014,Using AI to support self-management of mental wellbeing,2022/11/1,WitWit Holdings Enterprise Global Super Ltd is a UK-based artificial intelligence SME. The work this grant outlines is to conduct a feasibility study into a new  innovative way to support self-driven healthcare. The patent-pending approach relates to a computer implemented method for selecting a video content item  that will help support the self-management of mental wellbeing.," £49,913.00 ",利用 AI 支援心理健康的自主管理,"WitWit Holdings Enterprise Global Super Ltd 是一家位於英國的人工智慧中小企業（SME）。本次申請的補助將用於進行一項創新自我健康管理系統的可行性研究。
+
+該研究的核心是一項正在申請專利的技術，其內容為一種由電腦實作的方法，可根據使用者需求自動選擇適合的影片內容項目，以支援心理健康的自我管理。",本計畫旨在開發一種以AI為核心的影片推薦系統，透過個人化內容選擇，幫助使用者提升心理健康的自我管理能力。初期將進行可行性研究，驗證其技術實現潛力與使用效益。,醫療影像與診斷輔助
+397499,AI co-pilot to support healthcare professionals to provide better care for patients,2024/6/1,"There is an urgent need to improve the health care workforce's productivity to meet demand on the NHS. Medwise AI was founded in 2019 to help doctors and other health care professionals to maximise the time available in a 10 minute clinic appointment. Identifying that doctors spend a disproportionate amount of this allowed time in searching answers to questions related to patient care  we developed and deployed an intuitive search engine to provide only evidence-based answers to medical questions from trusted sources  for doctors to use at the point of care. With thousands of articles published daily  clinicians otherwise struggle to stay updated and informed. Giving clinicians unfettered access to up to date clinical knowledge means that best practice standards of care can be adhered to at all times  by all clinicians.
+
+In this new project  Medwise AI aims to build on the success of its search engine to develop a clinical decision support system in the form of an AI 'co-pilot'  i.e. a digital personal assistant that works alongside clinicians to support them in their clinical decision-making and improve their productivity by searching  understanding and summarising the information in published guidelines and articles. Similar to a co-pilot in an aeroplane  it is not in charge - the clinician is - but it aids efficiency. The new tool will be used by practitioners across the NHS  providing recommendations and advice to clinical staff.
+
+The resulting product aligns with the NHS's long term plan priority in using artificial intelligence to help clinicians in applying best practice.
+
+Medwise AI was founded by diverse founders of under-represented backgrounds. The project team comprises NHS medical doctors and AI experts."," £971,724.00 ",AI 副駕駛協助醫護人員提升病患照護品質,"目前 NHS 醫療體系正面臨龐大需求，急需提升醫療人力的生產力。Medwise AI 成立於 2019 年，目的是協助醫師與其他醫療專業人員在僅有 10 分鐘的門診時段內，最大化其工作效率。我們發現醫師常花費過多時間查詢與病患照護有關的問題，因此開發並上線了一款直覺化的搜尋引擎，專門提供來自可信來源的循證醫學資訊，協助醫師在看診現場快速獲得正確解答。隨著每日數以千計的新研究文章發表，臨床人員難以時時掌握最新知識，因此讓他們能自由存取即時且可靠的醫學資訊，有助於所有醫師始終遵循最佳照護標準。
+
+本計畫將在既有搜尋引擎的基礎上，進一步開發一款臨床決策支援系統，形式為 AI「副駕駛」──亦即數位個人助理，協助臨床人員在決策過程中更有效率。這個 AI 系統可搜尋、理解並摘要臨床指引與醫學文章中的資訊。就像飛機上的副駕駛，它不會取代駕駛（醫師），但能顯著提升操作效率。此新工具將在 NHS 醫療體系中廣泛應用，為臨床人員提供建議與輔助意見。
+
+該產品與 NHS 長期計畫中的重點方向──運用人工智慧幫助醫師落實最佳臨床實踐──相符。
+
+Medwise AI 由來自多元及少數背景的創辦人所成立，計畫團隊包含 NHS 醫師與 AI 專家。",本計畫致力於開發一款 AI 驅動的臨床決策支援工具，協助 NHS 醫師快速查詢與理解臨床知識，提升診間效率。該系統延續 Medwise AI 原有的循證搜尋引擎，將升級為「數位副駕駛」模式，能夠即時總結指引與文獻，協助醫師做出更快且符合標準的判斷，符合 NHS 長期計畫對 AI 臨床應用的重視。,醫療影像與診斷輔助
+392256,famOrli: Transforming Family Mental Health Support in the North East,2024/10/1,"**Overview:** famOrli is an innovative initiative aimed at resolving the waiting list crisis in family mental health. Leveraging cutting-edge artificial intelligence (AI) and a community-driven approach  famOrli provides timely  holistic  and accessible support to parents  carers  educators  and health and social care workers. Our primary aim with this project is to 'make waiting better' for families.
+
+**Key Components:** The famOrli project centres around the development and implementation of OrliLISTEN  an AI model designed to capture and analyse group discussions  online events  and 1:1 interactions. By identifying mental health needs from these conversations  OrliLISTEN ensures that families receive the support they need when they need it. Subsequent steps will further enhance our service offerings  including tailored resource recommendations and 24/7 AI-driven support  providing a comprehensive support ecosystem.
+
+**Project Activities:**
+
+* **Community Engagement and Events:** We will host 80 free online events over six months  including mental health webinars  masterclasses  clinician-led drop-ins  and peer-to-peer meetings. These events aim to create a supportive community and improve mental health outcomes.
+* **Product Development:** The project includes the development of OrliLISTEN prototypes. These AI models will be rigorously tested and refined to ensure they effectively meet the needs of families.
+* **Evaluation and Feedback:** The project involves a ""silent reader"" evaluation  where real-time recommendations generated by our AI models will be validated by clinicians in live sessions. This feedback loop ensures the accuracy  relevance  and inclusivity of our solutions.
+
+**Expected Impact:**
+
+* **Free  Improved Mental Health Support:** famOrli aims to reduce the deterioration rates of young people on waiting lists by providing timely and accessible mental health support. Our solution empowers parents and carers with the tools  support and connections they need to manage their children's mental health effectively.
+* **Economic Benefits:** By offering early intervention and reducing the need for costly inpatient care  famOrli is expected to generate significant cost savings for the public sector and healthcare system. Our project will also enhance parental productivity by alleviating the stress associated with managing children's mental health.
+* **Societal Benefits:** Our inclusive approach ensures that mental health support reaches diverse demographic groups  especially underserved communities. By promoting equality  diversity  and inclusion  famOrli aims to create a more equitable and supportive mental health ecosystem.
+
+famOrli represents a bold step towards addressing the mental health crisis in the UK. By combining AI technology with community-driven support  we aim to create a sustainable  scalable  and impactful solution that benefits families nationwide."," £49,900.00 ",famOrli：於英國東北部革新家庭心理健康支援,"概述：
+famOrli 是一項創新的計畫，旨在解決家庭心理健康領域中等待名單危機的問題。透過尖端的人工智慧（AI）技術與社區導向的方法，famOrli 為父母、照顧者、教育工作者以及醫療與社會照護人員提供即時、整體性且易於取得的支持。本計畫的主要目標是「讓等待的過程變得更好」，以協助有需要的家庭。
+
+關鍵組成：
+famOrli 計畫的核心在於開發並實施 OrliLISTEN —— 一個能捕捉並分析小組討論、線上活動以及一對一互動的 AI 模型。透過從這些對話中辨識心理健康需求，OrliLISTEN 可確保家庭能在適當的時機獲得所需的支持。後續的發展將進一步強化我們的服務內容，包括量身打造的資源推薦與全天候 AI 支援，建構一個全面的支援生態系統。
+
+計畫活動：
+
+社區參與與活動舉辦： 在六個月內我們將舉辦 80 場免費的線上活動，包括心理健康網路研討會、大師課程、臨床人員主持的開放諮詢，以及同儕支持小組，藉此建立互助社群並改善心理健康成果。
+
+產品開發： 此計畫將開發 OrliLISTEN 原型。這些 AI 模型將經過嚴格測試與精緻調整，以確保其能有效滿足家庭的需求。
+
+評估與回饋： 計畫將進行「無聲讀者」評估，由臨床專業人員在實時會議中驗證 AI 模型所產生的即時建議。這個回饋循環能確保我們的解決方案具備準確性、相關性與包容性。
+
+預期影響：
+
+免費且提升的心理健康支持： famOrli 旨在透過即時且可取得的心理健康支持，降低等候名單中年輕人心理狀況惡化的機率。我們的方案使父母與照顧者獲得管理子女心理健康所需的工具、支援與人際連結。
+
+經濟效益： 透過早期介入並減少昂貴住院治療的需求，famOrli 有望為公共部門與醫療系統帶來可觀的成本節省。此外，本計畫亦能藉由減輕父母在照顧子女心理健康時的壓力，提高他們的工作生產力。
+
+社會效益： 我們包容性的做法確保心理健康支持能觸及各種不同人口群體，特別是弱勢社區。famOrli 致力於促進平等、多元與共融，建立一個更公平、更具支持性的心理健康生態系。
+
+famOrli 是一項大膽的舉措，致力於應對英國日益嚴峻的心理健康危機。我們結合 AI 技術與社區導向的支援模式，目標是打造一套永續、可擴展且具影響力的解決方案，造福全國各地的家庭。",famOrli 是一項創新計畫，致力於改善英國家庭心理健康等候問題，透過 AI 技術（OrliLISTEN 模型）分析對話內容以辨識需求，並結合社區參與與即時資源推薦，提供整體性的支援。計畫包含免費線上活動、AI 模型開發與臨床驗證，期望提升心理健康服務的可近性、降低公共支出，並促進多元與包容的心理健康環境。,醫療影像與診斷輔助
+346268,Happyr Health: Personalised psychotherapy for children in pain,2021/3/1,"Millions of children worldwide suffer from recurring or chronic pain. In many cases  specialists and scientists have no explanation for the underlying cause. Hence  families are left to an exhaustive trial and error process to find relief for their children. Happyr Health is developing digital solutions to combat the emotional and social challenges that young chronic pain patients face. Using evidence-based psychotherapy techniques  elements from mobile gaming and storytelling  and applying artificial intelligence  Happyr Health aims to provide personalised support for children.
+
+I am Nicola  co-founder of Happyr Health  and suffer from migraine  the second leading cause for years lived with disability  since age 4\. Building on my health challenges  I am envisioning a future where children learn how to deal with chronic pain early on. Not only  to spare them from exacerbating pain  but also to enable them to prosper mentally and socially  which will improve their quality of life in the long-term.
+
+The objective of this award is to research and develop the artificial intelligence algorithm that can provide children with the therapy approach that fits their challenges. As the final output of the project  we will have developed an app  informed by patients  parents  and professionals  which we will be ready to be tested in the efficacy study we are preparing. At the same time  the Women in Innovation Award will allow me as a female founder to receive support from experts to disseminate our innovation  establish new partnerships with healthcare institutions  and develop a sustainable business model. All of this will guide us towards our goal of reducing children's suffering from chronic pain worldwide."," £50,000.00 ",Happyr Health：為兒童疼痛量身打造的個人化心理治療,"全球有數百萬名兒童飽受反覆性或慢性疼痛之苦，許多情況下，專家與科學家無法找出其根本原因。因此，許多家庭只能透過漫長的嘗試與錯誤來為孩子尋求緩解之道。Happyr Health 正在開發數位解決方案，以對抗年輕慢性疼痛患者所面對的情緒與社交挑戰。透過實證為基礎的心理治療技巧、手機遊戲與說故事元素，並結合人工智慧技術，Happyr Health 希望為兒童提供個人化的支持。
+
+我是 Nicola，Happyr Health 的共同創辦人，自 4 歲起就患有偏頭痛——這是全球導致生活障礙年數的第二大原因。基於我自身的健康挑戰，我期盼未來能讓兒童從小學會如何應對慢性疼痛。不僅是為了避免疼痛惡化，更是希望他們在心理與社交上都能茁壯成長，從而在長遠上提升生活品質。
+
+本獎項的目標，是研發一套人工智慧演算法，能依據每位兒童的需求，提供最適合的治療方式。作為本計畫的最終成果，我們將完成一款應用程式，此應用將整合病患、家長與專業人士的意見，並準備進行效益驗證研究。同時，「女性創新獎」也將協助我這位女性創業者，獲得專家支援，推廣我們的創新成果、與醫療機構建立新合作關係，並發展永續的商業模式。這些努力，將推動我們邁向減輕全球兒童慢性疼痛的終極目標",本計畫致力於研發結合AI的個人化數位治療方案，幫助兒童應對慢性疼痛。透過整合心理治療、遊戲化與患者經驗，開發一款應用程式，提升兒童心理與社交適應，最終改善其生活品質。,醫療影像與診斷輔助
+332497,Nooku Health - Improving Noncommunicable Disease Prevention through long-term  personalised Air Quality Monitoring,2022/11/1,"The proposed project is addressing the prevention of noncommunicable diseases by holistically monitoring air quality in domestic and commercial environments.
+
+Air pollution is a major environmental risk factor and contributor to chronic  noncommunicable diseases (NCDs)  with the World Health Organisation (WHO) in 2019 estimating that seven of ten leading causes of deaths were NCDs. Air pollution is in the top five of all risk factors for the global burden of disease in terms of mortality and morbidity (disability-adjusted life years). The WHO estimated that air pollution had caused seven million deaths in 2018  4.2 million of which were caused by ambient air pollution. The Organisation for Economic Co-operation and Development has estimated global outdoor air pollution-related healthcare costs of US$21 billion in 2010  projecting this to rise to US$176 billion in 2060\. In the UK  DEFRA estimates the economic cost from the impacts of air pollution at £9-19 billion every year  i.e. double the estimated economic cost of obesity. \[1\]
+
+The proposed service - Nooku Health - will make use of existing research and artificial intelligence to provide a personalised and interoperable warning and information system to support users with the identification of adverse environmental trends in their living and working environments. Nooku Health is aimed at complementing Nooku's existing product offering through personalised  long-term indoor air-quality monitoring. This will overall contribute to Nooku's vision to offer a range of devices and services to improve healthy living through smart monitoring  interactive prevention and proactive treatment of adverse environmental conditions.
+
+\[1\] https://iopscience.iop.org/article/10.1088/1748-9326/abfba0\#fnref-erlabfba0bib2"," £49,988.00 ",Nooku Health－透過長期個人化空氣品質監測改善非傳染性疾病預防,"本計畫旨在透過全面性監測居家與商業環境中的空氣品質，以預防非傳染性疾病（NCDs）。
+
+空氣污染是全球最嚴重的環境健康風險之一，亦是導致慢性非傳染性疾病的主要因素。根據世界衛生組織（WHO）2019 年的數據，十大死因中有七項屬於非傳染性疾病。從死亡與失能調整生命年（DALYs）角度來看，空氣污染更是全球第五大疾病風險因素。
+
+WHO 指出，2018 年約有 700 萬人死於空氣污染，其中 420 萬人死於戶外空氣污染。經濟合作暨發展組織（OECD）估計，2010 年全球因空污造成的醫療成本為 210 億美元，並預測至 2060 年將上升至 1,760 億美元。在英國，DEFRA 預估空污所帶來的經濟損失每年約為 90 至 190 億英鎊，是肥胖造成經濟損失的兩倍以上。
+
+本計畫所提出的服務為 Nooku Health，將應用既有研究與人工智慧（AI）技術，提供個人化、可互通的警示與資訊系統，協助使用者辨識其生活與工作環境中的空污趨勢。
+
+Nooku Health 將與 Nooku 現有產品整合，延伸為一套長期室內空氣品質監測服務，進一步實現其企業願景：透過智慧監測、互動預防與主動處理，促進健康生活環境。",本計畫開發 AI 驅動的個人化環境風險監測系統 Nooku Health，協助使用者即時掌握居家或工作場域中的空氣品質異常，實現對慢性疾病風險的早期警示與主動健康管理，並促進環境導向的健康生活方式。,醫療影像與診斷輔助
+339305,Research and Development of Senti-AI: Tech-enabled precision & predictive respiratory medicine leveraging an innovative wearable medical device,2022/4/1,"**Background**: Imagine what the world would be like for the 500 million people globally suffering with long-term respiratory illnesses  if their lungs could tell them exactly what was wrong  how their illness was progressing  and precisely what to do about it? Well  they can: the problem is we've been listening to what the lungs can tell us  for the past 200 years  with two rubber tubes attached to a metal cone.
+
+The stethoscope is blunt.
+
+Respiratory disease affects one-in-five people worldwide. It is the **third leading cause-of-death**  costing the NHS alone £9.1bn/year_._ Across the EU/UK combined  tangible and intangible costs reach **£69bn/year** an**d £240bn/year** respectively.
+
+Providing patient care relies on healthcare professionals trained in auscultation (listening to chest sounds) to diagnose  monitor  and determine treatments. At least **50% of COPD hospitalisations** (Echevarria  2018)  **75% of asthma emergency admissions** (NHS  2010)  and **two-thirds of asthma deaths** (NRAD  2014) **are preventable with optimised care.** Continuous autonomous home monitoring of chest sounds could save thousands of lives each day and improve quality-of-life for millions.
+
+Current approaches  including the stethoscope  cannot deliver this.
+
+**Innovation**: Senti-Tech will radically address this problem by delivering optimised and personalised respiratory care  through artificial intelligence built onto their patent-pending innovative smart garment  Senti-Wear. By wearing this T-shirt regularly whilst sleeping  Senti-AI will optimise medical treatments giving people back control over their respiratory health and offering them the best possible quality of life. Senti-AI will detect attacks of these diseases and create opportunities for intervening at the earliest possible moment in these attacks -avoiding hospitalisation and improving speed of recovery. Senti-AI will automatically call for help when help is needed.
+
+Senti-AI is the stethoscope unchained.
+
+**Outcomes**: This project will enable Senti-Tech to build  train  and validate an
+
+Artificial Intelligence to monitor the breath and heart sounds captured by Senti-Wear  providing tailored recommendations and advice. Most respiratory illnesses can be treated adequately at home  provided attacks are caught at the right time and appropriate monitoring is initiated.
+
+The Senti-AI intelligent device system will democratise this excellence-in-care  eliminating a large portion of respiratory hospital admissions. This innovation will improve quality-of-life  and reduce avoidable deaths through prompt and personalised treatment: tech-enabled precision and predictive respiratory medicine."," £492,859.00 ",Senti-AI 之研發：結合創新穿戴式裝置的精準與預測性呼吸醫療,"背景說明：
+試想，若全球 5 億名慢性呼吸道疾病患者的肺部能夠「告訴我們」它們的異常、病情進展情形，以及應採取的行動，世界會變成什麼樣子？其實，肺部一直都能發出訊號——但我們聆聽它們的方式，200 年來只靠著一根接兩條橡膠管的金屬圓錐體。
+
+聽診器太遲鈍了。
+
+呼吸道疾病影響全球五分之一人口，是全球第三大死因，單是在 NHS 每年花費高達 £91億。歐盟與英國合計，每年的有形成本高達 £690億，無形成本更達 £2,400億。
+
+目前病患照護仍仰賴經過專業訓練的醫師透過聽診器進行診斷與治療。然而，50% 的 COPD 住院、75% 的氣喘急診，甚至2/3 的氣喘死亡，其實都能透過最佳化照護預防（Echevarria 2018、NHS 2010、NRAD 2014）。若能進行持續性的自主居家胸部聲音監測，每天可挽救成千上萬的生命，並改善數百萬人的生活品質。
+
+傳統聽診方式，無法實現這一點。
+
+創新方案：
+Senti-Tech 的技術將徹底改變現況，推出內建 AI 的專利智慧衣 Senti-Wear，以實現個人化與最佳化的呼吸照護。患者僅需在睡眠時穿戴此衣物，Senti-AI 將能優化治療方式，使人們重拾對健康的掌控，並獲得最佳生活品質。此技術將能在疾病發作初期即時偵測，並自動呼救，避免住院並加速恢復。
+
+Senti-AI，是徹底解放的聽診器。
+
+成果預期：
+本計畫將協助 Senti-Tech 建立、訓練並驗證一套 AI 系統，用以分析 Senti-Wear 偵測的呼吸與心音，並提供個人化建議。大多數呼吸道疾病若能及早偵測並妥善監控，可在家中有效處理。
+
+Senti-AI 系統將實現照護平權，大幅降低呼吸道住院率，藉由精準且可預測的個人化治療，提升生活品質並減少可避免的死亡。
+",本計畫開發整合 AI 的穿戴式智慧衣，實現即時居家監測呼吸與心音，提供個人化治療建議。目標為提升呼吸疾病患者生活品質、減少住院率與死亡，開創精準、可預測的居家照護新模式。,醫療影像與診斷輔助
+336320,An Integrated Life-Course Approach for Person-Centered Solutions and Care for Ageing with Multi-morbidity in the European Regions – STAGE; Stay Healthy Through Ageing,2024/1/1,STAGE aims to demonstrate the importance and feasibility of a life-course approach to prevent accelerated ageing  as defined by the accumulation of multi-morbidity  and to integrate knowledge into transferable person-centred solutions for early diagnosis and screening  treatment and long-term management of multi-morbidity. To achieve this  STAGE is proposing a life-course approach to better understand ageing with multi-morbidity  providing evidence-based solutions to support the transformation of healthcare to address the profound health and demographic challenges ahead. The approach capitalises on European collaborations of longitudinal cohorts and biobanks spanning the entire life-course  actioning exposome and disease networks trajectory analysis  as well as  the biology of ageing  to explore how a person develops ageing with multi-morbidity. The project objectives integrate an ethical  social  historical  and infrastructural framework; environmental  epidemiological and biological life-course approaches; artificial intelligence powered integrated person centred solutions and applications; cohort-based clinical studies; and a FAIR (findable  accessible  interoperable and reusable) life-course health and geospatial data portal with robust management  dissemination  engagement and exploitation activities. STAGE's evidence based methods will translate into a person-centred prevention and care intervention in longitudinal cohorts in Finland and Germany  co designed with citizens  patients  healthcare providers  SMEs  and policymakers. It will also embed social sciences and humanities and engage stakeholders to develop a neighbourhood healthy ageing index  person-centred predictions of multi-morbidity  and healthcare and policy recommendations. Ultimately  STAGE will create solutions for agile  high-quality  person-centred health and care services that are life-course and gender sensitive  needs-based  and designed to enhance resilience and participation.," £579,511.00 ",STAGE：多病共存老年人之個人化照護與解決方案－整合式生命歷程方法,"STAGE 計畫旨在展現「以生命歷程為核心」的健康促進方法在預防加速老化（即多重慢性病累積）方面的重要性與可行性，並將相關知識整合為可轉移的、以個人為中心的解決方案，用於早期診斷、篩檢、治療與長期照護。本計畫透過結合跨歐洲的世代追蹤隊列與生物資料庫，以追蹤整個生命歷程，進行環境暴露總體（exposome）與疾病網絡軌跡分析，以及老化生物學研究，探索多重慢性病與老化之間的發展關係。
+
+STAGE 的研究方法融合倫理、社會、歷史與基礎設施面向，並包含：
+
+環境、流行病學與生物醫學的生命歷程研究
+
+人工智慧驅動的整合式個人化健康照護解決方案與應用程式
+
+以世代隊列為基礎的臨床研究
+
+一個符合 FAIR 原則（可找尋、可取得、可互通、可重複使用）的生命歷程健康與地理空間資料入口網站
+
+這些證據導向的方法將轉譯為在芬蘭與德國的世代隊列中實施的個人化預防與照護介入措施，並由民眾、病患、照護提供者、中小企業與政策制定者共同設計。計畫亦納入社會科學與人文領域觀點，並參與利害關係人對話，開發「健康老化社區指數」、個人化的多重慢性病預測系統，以及醫療與政策建議。
+
+最終，STAGE 計畫將推動具備敏捷性、高品質、以個人為中心、依生命歷程與性別需求為基礎的健康與照護服務，強化民眾的健康韌性與參與度。",STAGE 計畫聚焦於以生命歷程為核心的健康照護模型，結合大型跨國隊列資料與AI技術，預測與預防多重慢性病，並開發具公平性與個人化特質的照護介入策略。藉由整合醫學、生物學、社會科學與數位健康科技，該計畫致力於改善老化族群的健康預後，並推動政策轉型。,醫療影像與診斷輔助
+392996,Crainio non-invasive intracranial pressure monitor for traumatic brain injury: product development,2023/11/1,"Crainio is a London-based SME developing a revolutionary medical device for non-invasively measuring intracranial pressure (ICP).
+
+The current clinical method for monitoring ICP involves a neurosurgeon inserting an electrical sensor directly into the brain tissue through a small hole drilled in the skull and leaving it there for ~72 hours. This is risky  expensive and logistically very challenging for healthcare providers.
+
+Crainio completely overcomes these problems  creating a way to radically transform the care and outcomes of people with traumatic brain injury  which is the commonest cause of death and disability in people <40 in the UK and worldwide. The revolutionary technology comprises a small probe that is temporarily stuck to the patient's forehead using adhesive and shines harmless near-infrared light through the skull and into the brain. The probe measures intracranial pressure by extracting  processing and analysing key information from the photoplethysmography signal that returns to the forehead using cutting-edge artificial intelligence.
+
+Proof-of-concept of this patent-pending technology has been established in a study on a brain phantom and a basic science study on 40 patients with severe traumatic brain injury in the ICU. This study received the Gold Award Prize at the STEM for Britain 2020 event held at the House of Commons and led to Crainio's Chief Technology Officer winning the Engineers Mercia Award 2022\.
+
+This BMC project aims to develop the Crainio machine learning algorithms to the point that they can detect raised intracranial pressure with sufficient sensitivity and specificity that the device can be regulated for clinical use. This will be done by collecting photoplethysmogram data and concurrent invasive probe data from 54 patients with traumatic brain injury in Barts Health NHS Trust ICU. This clinical study  which will be led by distinguished neurosurgeon Dr Chris Uff  will feature Crainio's new  improved probe for the purpose of collecting the high-quality photoplethysmography signals.
+
+Crainio is a spin-out from City  University of London. The research was developed by Professor Kyriacou's lab  which is world-renowned for research in understanding and developing applications of non-invasive optical sensors to facilitate prognosis  diagnosis and treatment of disease.
+
+The project is supported by the National Institute of Health and Care Research Brain Injury Medtech and In vitro Diagnostics Co-operative  including Professor Marek Czosnyka and Dr Peter Smielewski (the MIC's intracranial pressure monitoring theme leads)  who are both based at University of Cambridge."," £430,868.00 ",Crainio：用於創傷性腦傷之非侵入性顱內壓監測產品開發,"Crainio 是一家位於倫敦的中小企業，正在開發一項革命性的醫療裝置，用於非侵入式地測量顱內壓（ICP）。
+
+目前監測顱內壓的臨床方法需要神經外科醫生在頭骨鑽孔後，將電感測器直接插入腦組織中，並持續監測約 72 小時。這種方法風險高、成本高，對醫療機構而言在後勤上也極具挑戰。
+
+Crainio 所開發的技術能徹底克服這些問題，徹底改變對創傷性腦損傷患者的照護方式與預後。創傷性腦損傷是英國及全球 40 歲以下人群中最常見的死亡與殘疾原因。這項革命性技術使用一個小型探頭，暫時以膠帶黏附在患者額頭上，透過頭骨照射無害的近紅外光至腦部。該探頭運用先進的人工智慧技術，從返回額頭的光體積變化訊號（photoplethysmography, PPG）中提取、處理與分析關鍵資訊，以測量顱內壓。
+
+這項尚在申請專利中的技術已在腦模型與 ICU 中 40 位重度創傷性腦損傷患者的基礎研究中驗證其概念。該研究在 2020 年英國國會下議院舉辦的 STEM for Britain 活動中榮獲金獎，Crainio 的技術長也因此獲得 2022 年 Engineers Mercia Award。
+
+本次 BMC 項目旨在進一步開發 Crainio 的機器學習演算法，提升其對顱內壓升高的敏感性與特異性，使裝置能符合臨床使用的監管標準。研究將在 Barts Health NHS Trust ICU 蒐集來自 54 位創傷性腦損傷患者的 PPG 數據與同步侵入性探針數據，由著名神經外科醫師 Chris Uff 博士領導。此次研究將採用 Crainio 新型升級探頭，以獲得更高品質的 PPG 訊號。
+
+Crainio 為倫敦城市大學（City, University of London）所孵育的衍生公司，相關研究由 Kyriacou 教授領導的實驗室開發，該實驗室在非侵入式光學感測器的應用研究領域享譽國際，致力於促進疾病的預後、診斷與治療。
+
+本項目亦獲得英國國家健康與照護研究院（NIHR）「腦損傷醫材與體外診斷合作中心」支持，合作成員包括來自劍橋大學、專精顱內壓監測領域的 Marek Czosnyka 教授與 Peter Smielewski 博士。
+",Crainio 正開發一種非侵入式顱內壓監測裝置，使用近紅外光與人工智慧分析額頭返回的光體積變化訊號（PPG），來評估顱內壓。該技術已完成初步驗證，目前進入臨床資料收集與演算法優化階段，目標是達成臨床認證。研究團隊由倫敦城市大學衍生，並獲得英國國家健康研究機構與劍橋大學專家支持。,醫療影像與診斷輔助
+343950,Informing patient management through real-world clinical data analytics,2021/1/1,"The rise of artificial intelligence (AI) has given us unprecedented opportunities to analyse big data sets and to derive insights from them. One such area is healthcare; the UK NHS have internationally unique quantity and quality of patient data by way of digital medical records. The retrospective analysis of those records in specific clinical settings gives us the potential to develop clinical decision support tools that significantly change the way in which patients will be diagnosed and managed in the future.
+
+However  there are significant challenges to realising this vision: Data are mostly stored in NHS-based systems that are not accessible to industry. Businesses may have the skills and resources to develop new products but are not connected to real-world patient care. Meaningful innovation will therefore require close partnership between NHS  academia and industry. This innovation scholar secondment will enable a joint programme by GE Healthcare  the University of Sheffield and the Sheffield Teaching Hospitals NHS Foundation Trust by allowing Dr Jan Wolber from GE Healthcare to be seconded to the University of Sheffield part-time for a duration of three years to be strategically involved in joint research and development in several disease areas.
+
+The expected outcome of this secondment is the delivery of several proof-of-concept analytics applications that can assist clinical decision making in the areas of cardiology  respiratory medicine and neurology. These applications would then be formally developed into products by GE Healthcare for deployment into clinical practice in the UK  hence benefitting patients across the nation and beyond. The applications may deliver benefits in the quality and consistency of care delivery across the NHS as well as enabling early diagnosis and stratification of patients into appropriate care pathways  which in turn can improve outcomes and quality of life  as well as possibly contributing to the reduction of healthcare costs over the life of a patient by making the right treatment decisions at the right time."," £224,318.00 ",透過臨床實證資料分析優化病患管理,"人工智慧（AI）的興起為我們提供了前所未有的機會，來分析大型資料集並從中獲取洞見。其中一個應用領域是醫療保健；英國國民健康服務（NHS）擁有世界上獨一無二的患者數據數量與品質，這些數據來自數位化的病歷記錄。在特定臨床情境下對這些記錄進行回顧性分析，有潛力發展出臨床決策支援工具，從而大幅改變未來病患的診斷與治療方式。
+
+然而，要實現這一願景仍面臨重大挑戰：數據大多儲存在NHS的系統中，外界產業無法存取。企業可能具備開發新產品的技術與資源，卻無法與實際的病患照護接軌。因此，真正有意義的創新必須建立在NHS、學術界與產業之間的緊密合作上。本創新學者的工作交流計畫，將使GE Healthcare、雪菲爾大學（University of Sheffield）及雪菲爾教學醫院NHS基金會信託（Sheffield Teaching Hospitals NHS Foundation Trust）得以共同展開合作。GE Healthcare的Jan Wolber博士將被借調至雪菲爾大學，以兼職方式參與為期三年的合作研究與開發工作，專注於多個疾病領域。
+
+此借調計畫的預期成果，是開發出多項概念驗證階段的分析應用工具，以支援心臟病學、呼吸醫學與神經科學等領域的臨床決策。這些應用工具未來將由GE Healthcare正式開發為產品，並部署於英國臨床實務中，進而造福全國乃至其他地區的病患。這些應用有望提升NHS整體照護品質與一致性，並促進早期診斷與病患分流至合適的照護途徑，進而改善療效與生活品質，同時藉由在正確的時間做出正確的治療決策，可能長期降低病患的整體醫療成本。",本計畫透過產官學合作，運用AI分析NHS病歷資料，開發臨床決策支援工具，應用於心臟、呼吸與神經疾病。預期提升診療品質與效率，促進早期診斷與個別化治療，並有助於降低長期醫療成本。,醫療影像與診斷輔助
+396735,Encoding Empathy: Solving the Healthcare Workforce Crisis Through the Safe Deployment of an AI-Driven Voice-Based Clinical Conversational Assistant for Long Term Monitoring,2024/8/1,"This project aims to develop  evaluate and deploy a new technology that will improve the way patients with long-term health conditions receive care.
+
+The project is led by Ufonia  a UK company that specialises in delivering automated clinical conversations over the telephone. Ufonia has already developed an artificial intelligence (AI) software called Dora that is used at 13 NHS sites to automate appointments for patients undergoing routine surgery. Currently  Dora relies on a form of AI that can only follow set rules. Recent advancements in AI technology mean that large language models (LLM) can now be trained to have **more empathetic  personalised clinical conversations** with patients.
+
+This project will work with doctors  researchers and patients to build on Ufonia's existing technology platform for voice conversations and replace Dora's existing core language model with a **LLM model trained specifically for empathetic  personalised conversations.** This will be particularly helpful for patients with long-term conditions  as it will allow them to have regular check-ins and consultations without needing to visit the hospital in person. This will improve outcomes for patients and reduce the strain on healthcare systems.
+
+In addition to the words used during a clinical conversation  the voice style and flow is vital to **show empathy**. We will also work with the University of Newcastle to develop a linguistic approach called the CADENCE model  which will improve the **voice cues of empathy in autonomous conversation**s.
+
+One of the main challenges in using AI in healthcare is **ensuring that it is safe and effective**. To address this  the project will collaborate with the University of York's Centre for the Safety Assurance of AI-enabled Autonomous Systems (SAINTS) to develop a framework to ensure the clinical safety of the AI conversations. Specifically  this work will enable Dora to screen for patients at high risk of repeat bone fractures  and long term monitoring of patients with osteoporosis. The project will culminate in a clinical study at University College London Hospitals NHS Foundation Trust's Rheumatology Department. The results from this study will provide evidence for wider use of the technology and its potential expansion to other long-term conditions.
+
+This project has the potential to greatly improve the way patients with long-term conditions receive care. By automating regular interactions and implementing AI technology  patients will have more convenient access to the care they need  while healthcare professionals can focus on those who require their expertise the most."," £584,065.00 ",編碼同理心：部署語音 AI 助理安全解決醫療人力危機，實現長期健康監測,"本計畫旨在開發、評估並部署一項新技術，以改善慢性病患的照護方式。
+
+此計畫由英國公司 Ufonia 領導，該公司專注於透過電話提供自動化臨床對話。Ufonia 已開發出一款名為 Dora 的人工智慧（AI）軟體，目前已在英國 13 個 NHS 醫療機構使用，用於自動化安排例行手術患者的回診。Dora 目前採用的 AI 技術仍以「規則為本」為主，然而，隨著大型語言模型（LLM）技術的進展，現在有可能訓練出能進行更具同理心、個人化的臨床對話系統。
+
+本計畫將與醫師、研究人員與患者合作，在現有的語音對話平台基礎上升級，將 Dora 的核心語言模型替換為專為展現同理心與個人化對話而訓練的 LLM 模型。這項技術對於慢性病患者特別有幫助，因為它將提供定期的遠距關懷與諮詢服務，無需親自就診，能改善治療結果並減輕醫療系統負擔。
+
+除了文字內容外，語音的語調與節奏也是展現同理心的重要因素。因此，團隊也將與紐卡索大學合作，導入語言學模型 CADENCE，進一步優化 AI 對話中傳遞同理心的語音表現。
+
+由於醫療領域應用 AI 需確保「安全與有效性」，此計畫也將與約克大學的 AI自主系統安全保證中心（SAINTS） 合作，建立一套臨床安全框架。具體應用將包括：讓 Dora 協助篩檢高風險重複骨折患者，以及長期追蹤骨質疏鬆症患者。
+
+最終，該技術將於倫敦大學學院附設醫院（UCLH）風濕科展開臨床研究。該研究結果將作為技術擴大應用至其他慢性病照護場景的重要依據。
+
+這項創新技術有潛力大幅改善慢性病患的照護體驗，透過自動化的例行對話與 AI 技術的導入，患者將能更方便地取得照護資源，讓醫護人員得以專注於高風險或急性病患身上",本計畫開發具同理心與個人化對話能力的 AI 語音系統，用於自動化慢性病患的遠距定期追蹤。藉由引入大型語言模型（LLM）與語音情緒傳達模型（CADENCE），提升患者對話體驗，同時確保 AI 的臨床安全性。初期應用於骨質疏鬆症與骨折風險篩檢，並將於 NHS 醫院進行臨床試驗。,醫療影像與診斷輔助
+397687,CLinical Evaluation & Assessment for REgulation of Diagnostic tests,2024/3/1,"Our network will focus on assisting the efficient and safe availability of medical diagnostic tests in the UK  by building a collaborative network of **regulators  industry  people living with disease and users of tests** **and researchers**.
+
+Efficient regulation of diagnostic tests not only assists patient and consumer safety  but also improves the nation's health  the NHS workload  industry  regulators overseeing test approvals  as well as making the UK attractive for business leadership in regulation and research.
+
+We will focus on all types of medical diagnostic tests  including tests using artificial intelligence (AI) and computer apps. These are all UK government priority areas.
+
+**Planned activities**
+
+Research into the regulation of diagnostic tests is important and time-critical  as in 2021 the Medicines & Healthcare Regulatory Agency (MHRA) implemented new regulations for diagnostic tests  linked to new European regulations. Until now  research into evaluation of diagnostics was not prioritised. This area is challenging due to the diversity of diagnostic tests (e.g. laboratory tests  self tests  AI computer apps) and the benefits claimed from tests (accuracy  costs  time  reduced patient burden). Another challenge has been innovators and manufacturers with no experience in the technical and clinical evidence required for UK regulatory approval of tests.
+
+The key activities in our network would include
+
+* Bringing a network together across **regulators  industry  people living with disease and clinical end users of tests**
+* Running network events including workshops  surveys and interviews to share
+* New methods  good practice  knowledge and expertise
+* Research methods to generate evidence for test performance to assist approval of tests by regulatory bodies  also known as regulatory science
+* Training  networking  dissemination
+* Prioritisation of challenges in diagnostic test regulation and regulatory science research needs to inform a programme of regulatory science research.
+
+We have identified three important and novel areas for new methods in regulatory science   where current research is lacking and FDA sponsored CERSI centres have no planned research.
+
+1\. Document templates to assist scientific sourcing of evidence on test performance for regulatory documents
+
+2\. Development of efficient methods using statistical modelling of post-market surveillance to ensure reliability and equity of performance for ongoing use.
+
+3\. Development of standards (reference standards) so test reliability and compatibility can be implemented across locations and across time.
+
+Our core team brings together expertise in
+
+* Regulation of diagnostic tests (Regulatory Specifications and Requirements)
+* Diagnostic test evidence generation and appraisal  including AI
+* Ongoing engagement with MHRA and NICE"," £39,777.00 ",診斷測試的臨床評估與法規審查（CLARE）,"本網絡旨在促進醫療診斷檢驗在英國的高效與安全落地，透過建立一個由監管機構、產業、疾病患者、檢驗使用者與研究人員組成的協作平台。
+
+高效的診斷檢驗法規制度不僅保障病患與消費者的安全，還可提升全民健康、減輕 NHS 醫療負擔、支持產業與監管機構的運作效率，並強化英國在法規與研究領域的全球領導地位。
+
+本計畫涵蓋各類診斷檢驗技術，包括：
+
+實驗室檢驗
+
+居家自我檢測
+
+結合 人工智慧（AI） 與應用程式的電腦診斷工具
+
+這些主題皆為英國政府優先發展領域。
+
+🔍 計畫活動重點：
+隨著英國 藥品與健康產品監管機構（MHRA） 於 2021 年實施與歐盟同步的新法規，本網絡將彌補現階段診斷檢驗法規研究的空白。
+
+此領域挑戰包括：
+
+檢驗形式多元（如實驗室檢驗、自我檢測、AI 應用等）
+
+檢驗成效涵蓋準確性、成本、時間效率與病患負擔
+
+許多創新者缺乏建立法規審查所需臨床與技術證據的經驗
+
+📌 關鍵執行內容：
+匯集監管單位、產業界、病患與臨床終端使用者參與的多方網絡
+
+舉辦網絡活動（工作坊、問卷調查、訪談）以分享：
+
+新方法
+
+優良實務
+
+知識與專業技能
+
+研究如何產出符合法規審查需求的證據（即 法規科學 / regulatory science）
+
+培訓、建立交流平台、資訊傳遞
+
+辨識與排序診斷檢驗監管挑戰與研究優先事項
+
+🧪 三大創新研究議題（目前研究尚未涵蓋）：
+法規文件格式範本：協助標準化撰寫測試效能證據文件
+
+後市場監測建模法：透過統計模型持續評估檢驗可靠性與公平性
+
+參考標準制定：促進跨場域與時間點下的測試一致性與可靠性
+
+👥 核心團隊專業領域：
+診斷檢驗之法規規格與要求
+
+檢驗證據的產出與評估方法（含 AI 工具）
+
+與 MHRA 與 NICE 的持續互動經驗",建立一個涵蓋監管者、產業、病患與研究人員的全國性網絡，聚焦於診斷檢驗（特別是 AI 工具）之法規流程與科學證據建構，解決目前缺乏標準、後市場追蹤與一致性等問題，提升英國在此領域的監管效率與國際競爭力。,醫療影像與診斷輔助
+335349,Moving medically certifiable AI algorithms from the Cloud and onto the Medi-OS Operating System of Medical Devices to automate  make robust and   increase uptake of AI in healthcare: Use-case will be community-based spirometry.,2023/5/1,"Spirometry is a simple medical test used to help diagnose and monitor lung conditions by measuring how much air a patient can breathe out in one forced breath. The medical monitor is called a spirometer.
+
+Spirometry is performed by a trained nurse or physiologist in a GP surgery or during a visit to a hospital clinic. There is a Worldwide shortage of trained and certified staff to perform these tests. Spirometry testing was stopped during the pandemic and it is proving difficult to restart in the NHS because of the shortage of experts available.
+
+**WHY IS SPIROMETRY CARRIED OUT?**
+
+Spirometry is used to diagnose or screen for lung conditions. Lung health conditions cost the NHS £11Billion a year (0.6% of GDP: £10 Billion direct cost to the NHS  £1Billion in lost work) according to the British Lung Foundation (2023).
+
+Conditions diagnosed and monitored using spirometry include asthma  chronic obstructive pulmonary disease (COPD)  bronchiectasis  cystic fibrosis and pulmonary fibrosis. Spirometry may also be carried out to check the severity of the condition or to see how a patient is responding to treatment.
+
+**HOW IS SPIROMETRY PERFORMED**
+
+Patients breathe forcefully into a machine three-to-eight times to get reliable results. It requires a skilled clinician to ensure results are of good quality  so these results are not available immediately. After review  results are sent to the doctor who referred the patient for the test for discussion with the patient at a later date. This takes time and is labour-intensive.
+
+**USING ARTIFICIAL INTELLIGENCE TO SUPPORT IMMEDIATE CLINICAL DECISIONS**
+
+There are already web-based AI programmes to accurately ""review"" breath manoeuvres (data) which are sent to it. These services send back a report in a fully automated process. But this still involves sending patient information away (usually outside of the UK)  and there is still a considerable delay before the printable report is returned and reviewed by the doctor.
+
+**INNOVATION**
+
+Using 15 700 existing recordings from patients  the consortium will create new software which will operate on a medical device that can perform expert analysis using AI to give results immediately for use in a GP surgery or community-based diagnostic hub. This will require a strong consortium team to deliver this innovation.
+
+This also opens the way to use this new medical device software  how it learns and how it can be certified as a trustworthy medical device  for a range of other medical monitoring devices."," £47,630.00 ",將具醫療認證潛力的 AI 演算法從雲端移植至醫療裝置的 Medi-OS 系統：以社區肺功能測試為案例,"肺功能測試（肺量測定，Spirometry）是一種簡單的醫療檢查，透過測量病患一次強力呼氣時可排出的空氣量，來協助診斷與監控肺部疾病。進行測試所用的設備稱為肺量計（spirometer）。
+
+此項檢查一般由受過訓練的護理人員或肺功能技術師在診所或醫院門診進行。然而，全球訓練有素的技術人員嚴重短缺。肺功能檢測在疫情期間一度全面暫停，目前 NHS 難以全面重啟，正是因為缺乏專業操作人員。
+
+🫁 為何進行肺功能測試？
+肺功能檢測是用來診斷或篩檢肺部疾病的基本工具。根據英國肺部基金會（2023 年資料），肺部疾病每年為 NHS 帶來高達 110 億英鎊的支出（佔英國 GDP 的 0.6%，其中 100 億為直接醫療支出，10 億為工作損失）。
+
+肺功能測試常用來診斷與監測以下疾病：
+
+哮喘（Asthma）
+
+慢性阻塞性肺病（COPD）
+
+支氣管擴張症（Bronchiectasis）
+
+囊腫性纖維化（Cystic Fibrosis）
+
+肺纖維化（Pulmonary Fibrosis）
+
+此外也用來評估病情嚴重程度與治療反應。
+
+🛠️ 檢查流程說明：
+患者需進行 3–8 次強力呼氣動作以獲得穩定且可靠的數據。此過程需要技術人員協助指導與把關，才能確保數據品質。由於數據需事後審查與轉交給開立檢查的醫師解釋，因此報告產出費時且人力密集。
+
+🤖 AI 賦能即時臨床決策
+目前已有基於網頁的 AI 系統可準確分析呼吸動作數據並產出報告，但多半需要將病患資訊上傳至英國境外伺服器處理，再回傳報告，時間延遲明顯且潛藏資料隱私風險。
+
+🚀 創新重點：
+本計畫將運用 15,700 筆既有肺功能測試資料，開發一套 能內建於醫療裝置中的 AI 軟體，可即時分析肺功能數據並產出診斷報告，應用於家庭醫師診所或社區型診斷中心。
+
+此舉將：
+
+免除資料外送與延遲問題
+
+支援一線臨床即時決策
+
+解決技術人員短缺問題
+
+降低整體檢測成本與等候時間
+
+此外，該軟體開發經驗亦將可應用於其他醫療監測設備的 AI 自動分析功能與合規認證流程，具高度擴展潛力。",本計畫將開發可嵌入醫療裝置的 AI 肺功能分析軟體，透過本地即時運算，解決專業技術人員短缺、報告等待時間長與資料外送隱私疑慮等問題，進一步促進初級與社區照護場域對肺部疾病的快速診斷能力。,醫療影像與診斷輔助
+335468,Delivering large scale digital clinical trials for artificial intelligence,2023/5/1,"The project aims to speed up the deployment  evaluation  and commissioning of AI in healthcare by creating a near real-time evaluation toolkit for AI applications. The cost of clinical trials for AI applications can be prohibitively expensive for small and medium-sized businesses  making it difficult for them to prove the safety and efficacy of their products.
+
+To address this issue  the project has three main goals: to determine the appropriate performance metrics for identifying safe and trustworthy AI applications in healthcare  to gather feedback from clinical users in near real-time without interrupting their workflows  and to generate evidence of efficacy at a large scale while maintaining data privacy.
+
+The project will use mixed methods research and a privacy-preserving federated AI software evaluation toolkit to achieve these goals  and once completed  will be used to evaluate AI at a large scale with the help of SMEs  healthcare providers  and commissioners."," £49,106.00 ",實現大規模 AI 數位臨床試驗,"本計畫旨在加速 AI 在醫療領域的部署、評估與正式採用流程，透過開發一套近乎即時的 AI 評估工具包，讓 AI 解決方案更快速、安全地進入臨床應用。
+
+目前，AI 應用的臨床試驗成本極高，對中小型企業（SMEs）而言往往是難以承擔的負擔，因此難以有效證明其產品的安全性與療效。
+
+為解決這一問題，本計畫設定三大目標：
+
+建立適用於醫療 AI 的績效評估指標，以辨識可信且安全的應用
+
+收集臨床使用者的即時回饋，但不打斷其日常工作流程
+
+在保障資料隱私前提下，產出具大規模效力的實證資料
+
+計畫將採用混合研究方法與**保護隱私的聯邦式 AI 評估工具包（Federated AI Evaluation Toolkit）**來達成上述目標。完成後，此工具包將廣泛應用於 AI 解決方案的系統性評估，並促進 SMEs、醫療服務提供者與醫療資源決策單位之間的協作與落地。",本計畫開發一套近即時的聯邦式 AI 評估工具包，解決中小型醫療 AI 開發商在臨床驗證上的成本與效率問題，促進可信 AI 在醫療系統中的快速部署與規模化應用。,醫療影像與診斷輔助
+397547,R&D for an Integrated AI-Wet Laboratory Platform that Designs Receptor-Specific and Cell-Internalising Aptamers,2024/7/1,"PentaBind  a UK-based Biotech SME  is pioneering an innovative project that seamlessly integrates Artificial Intelligence (AI) and advanced wet-lab techniques to revolutionise the field of aptamer design. This project  perfectly aligned with the Engineering Biology Accelerator programme  aims to address the significant inefficiencies in current wet-laboratory research practices and unlock the vast potential of aptamers in various applications  including diagnostics  therapeutics  and bioprocessing.
+
+For the past two decades  the design of aptamers has faced considerable challenges. Traditional wet-lab methods demonstrate an aptamer commercialiastion success rate below 20% and have been primarily confined to academic research due to their limitation in exploring only a tiny fraction of the sequence space. This inefficiency not only slows down research and development (R&D) processes but also escalates costs substantially  affecting numerous companies and delaying advancements in medical and industrial applications. PentaBind's innovative approach is set to transform this scenario.
+
+Central to PentaBind's project is the development of an AI-driven platform for aptamer design  supported by a state-of-the-art integrated wet-lab. This groundbreaking approach surpasses traditional methodologies by focusing on the design of aptamers with key characteristics beyond mere low-binding affinities  vital for commercial applications. By leveraging a novel aptamer data generation protocol and a sophisticated data ingestion pipeline  PentaBind's Machine-Learning-Ops platform significantly narrows down the sequence space exploration  thereby enhancing the design process's efficiency by twentyfold. This acceleration  coupled with a reduction in associated costs  marks a notable leap in aptamer design technology.
+
+This project is not just a stride in aptamer technology but a significant contribution to the broader field of Engineering Biology. It holds the promise of reducing the disease burden and advancing biotechnologies  thereby impacting healthcare providers and patients in the long term. Furthermore  it supports the biotech industry by enabling the development of advanced biotechnologies  potentially generating substantial profits for businesses involved.
+
+In summary  PentaBind's project  with its focus on developing a prototyped and real-world validated platform  is a testament to the power of integrating AI with traditional biotechnological approaches. It stands as a beacon of innovation in the Engineering Biology field  poised to bring about a paradigm shift in aptamer design and application  benefiting academia  industry  and healthcare sectors alike."," £49,994.00 ",整合 AI 與實驗室平台以設計具專一性與細胞內作用的適體分子,"PentaBind 是一家位於英國的生技中小企業（SME），正在推動一項突破性的創新計畫，將人工智慧（AI）與先進的實驗室技術無縫整合，目標是徹底革新適體（aptamer）設計的方式。該計畫與「工程生物學加速器計畫」高度契合，旨在解決當前濕式實驗室研究效率低落的問題，並釋放適體在診斷、治療和生物製程等應用中的巨大潛力。
+
+過去二十年來，適體的設計面臨諸多挑戰。傳統的濕實驗室方法成功商業化的機率不到 20%，主要仍侷限於學術研究領域，因為其僅能探索極小部分的序列空間，效率低落，不僅拖慢了研發進程，也大幅提高了成本，影響許多企業並延遲醫療與產業技術的進展。
+
+PentaBind 所提出的創新方案，核心在於開發一套 AI 驅動的適體設計平台，並配備先進的整合式實驗室系統。與傳統方法不同，該平台不僅著重於設計低結合親和力的適體，更聚焦於適合商業化應用的多元特性。透過獨特的數據生成協定與資料匯入流程，PentaBind 的機器學習操作平台可大幅縮小序列搜尋空間，將設計效率提升 20 倍，同時顯著降低成本。
+
+這項計畫不僅是適體技術的重要突破，更為整體工程生物學領域帶來關鍵貢獻，對於減少疾病負擔、推動生技技術發展，以及長遠影響醫療體系與病患照護皆具深遠意義。同時，也有助於生技產業創造利潤，促進創新生態系。
+
+總結來說，PentaBind 的計畫代表 AI 與傳統生技研發整合的創新典範，其原型平台已可應用於實際場域，有望為學術界、產業與醫療領域帶來重大轉變，並成為適體設計技術進入新世代的里程碑。",PentaBind 結合 AI 與濕式實驗室平台，開發新一代適體設計系統，解決傳統研發效率低與序列探索空間受限的問題。透過創新的數據生成與機器學習流程，大幅提升設計速度與精準度，降低成本，加速診斷與治療應用，為工程生物學與生技產業帶來深遠影響。,醫療影像與診斷輔助
+331728,Conversational Analytics for Clinical Trials Results,2022/11/1,"In a few years  Artificial Intelligence will be almost intelligent and understand everything in your health database records. It would understand not just what you wanted  but find the right pieces of data  do the necessary calculations  and give you the answer you need.
+
+The system would understand not just what you wanted  but find the right pieces of data  do the necessary calculations  and give you the answer you need. ""How many subjects have encountered at least one Adverse Event for females above 40?"" No problem. A few seconds  and it'll spit out the information you need. Faster and more reliable than analysts.
+
+While we're not there yet in NLSQL  we are getting closer  and what we have right now is pretty powerful if we say so ourselves.
+
+But one day.... we will deliver such a product into our end-users hands.
+
+Our R&D approach assumes an extension of the data systems used in medical trials data analysis with a google-like interface without disrupting the actual source of the data.
+
+NLSQL is the first NLP to SQL code API  that can empower Biostatisticians  Clinical Data Analysts  and Casual Analysts with an intuitive text interface for medical trial records for getting data visualization and undiscovered insights related to Adverse Events  Disease progression subjects  or Serious Adverse Events  etc.
+
+NLSQL software helps to harness poorly accessible medical trial data for building data visualization based on existing information to inform and increase the speed of the development of new medicines discovery with significant benefits for the biopharmaceutical industry. Besides data visualizations  NLSQL can assist with detailed reports sharing using excel format for detailed analytics across medical trials subjects. The data visualizations and insights could be requested using only natural language requests as well as detailed excel reports  that provide the end-users the ability to drill down for the basic poorly accessible medical trial data in seconds rather than months.
+
+With the NLSQL software  medical staff will be able to inspect and interpret billions of rows of medical trials information from any source  or healthcare database. It provides instantaneous search and analysis to identify patient information and multiple adverse events with demographic conditions in seconds rather than months.
+
+Our R&D team is focused on developing technologies that can not only make an immediate impact on the current biopharmaceutical industry but can also grow and adapt in line with the coming transformative changes."," £49,992.00 ",臨床試驗結果的對話式分析平台,"在不久的將來，人工智慧將變得幾乎具備理解能力，能完全掌握你健康資料庫中的所有資訊。它不僅能明白你想知道什麼，還能找到正確的資料、進行所需的計算，並快速給出你需要的答案。
+
+舉例來說：「多少名超過40歲的女性出現過至少一項不良事件（Adverse Event）？」沒問題，只需幾秒，系統即可輸出結果，比分析師更快速且可靠。
+
+雖然我們（NLSQL）還未達到那樣的未來，但我們的現有產品已十分強大，未來也將實現這樣的願景，並交付到終端用戶手中。
+
+我們的研發策略是基於擴展醫療試驗資料系統的設想，打造一個類似 Google 的自然語言介面，但不會改動資料的原始來源。
+
+NLSQL 是第一套能將自然語言轉換為 SQL 的 API，可賦能生物統計學家、臨床資料分析師與一般分析者，透過直覺的文字輸入介面，查詢關於不良事件、疾病進展或嚴重不良事件等臨床試驗記錄，進行資料視覺化與洞見分析。
+
+NLSQL 協助分析者利用過去難以取得的臨床試驗數據，進行視覺化呈現，加速新藥開發流程，為生技製藥產業帶來實質效益。除了圖像化功能外，系統也可輸出 Excel 格式的詳細報告，讓分析者能深入探索臨床試驗資料。
+
+使用 NLSQL 軟體，醫療人員能在數秒內檢索與分析來自各式來源的數十億筆臨床試驗資料，快速比對病患資訊與多重不良事件、人口統計條件，從而取代傳統需耗時數月的分析流程。
+
+我們的研發團隊致力於開發不僅可立即應用於當前生技醫藥產業，同時具備長期擴展與演化潛力的技術，迎接未來產業變革。",本計畫開發 NLSQL 系統，透過自然語言輸入即時查詢與視覺化臨床試驗資料，加速不良事件分析與藥物開發流程，顯著提升生技製藥產業的數據運用效率與研究速度。,醫療影像與診斷輔助
+336430,In-situ & operando organic electrochemical transistors monitored by non-destructive spectroscopies for organic CMOS-like neuromorphic circuits (ICONIC),2024/5/1,Ultra-flexible  conformable and implantable artificial intelligence organic electronic devices hold promise to revolutionize the realtime monitoring and treatment of chronic diseases. Such devices are based on organic electrochemical transistors (OECTs) exploiting polymeric mixed ion-to-electron conductors (PMIECs) as active layers. However  the development of efficient and stable devices is hindered by limited knowledge about structure-property relationships of PMIECs. ICONIC combines macromolecular synthesis with in situ and operando non-destructive spectroscopic methods in an innovative way to investigate with unprecedented accuracy ion-toelectron transduction in OECTs  from the molecular to the micrometre scale. This provides the key knowledge to make a technological leap in development of smart therapeutic devices. As a proof of concept  ICONIC develops an intelligent closed-loop device for drug delivery activation. In a long-term vision  healthcare devices will enable signal recognition with body-friendly electronics and administer medication without the risk of human error. ICONIC is a multidisciplinary high-risk/high-gain project engaging 8 partners from 6 countries covering the academic and industrial worlds (including 1 SME). The implementation is facilitated through 4 work packages (3 technical). The complementary scientific skills brought in by the partners and stakeholders maximizes ICONIC’s impact.," £462,723.00 ",使用非破壞性光譜法監測原位與操作中有機電化學電晶體（ICONIC）,"超柔性、可撓曲且可植入的人工智慧有機電子裝置，有潛力徹底改變慢性病的即時監測與治療方式。這類裝置基於有機電化學電晶體（OECTs），其主動層採用聚合物混合離子與電子導體（PMIECs）。然而，由於對 PMIECs 的結構與特性關係瞭解有限，導致目前在開發高效率與穩定裝置方面仍有挑戰。
+
+ICONIC 計畫結合高分子合成技術與原位與運作中無損光譜分析方法，創新地從分子至微米尺度，前所未有地探討 OECT 中的離子－電子轉換機制。這將帶來關鍵性知識，為智慧治療裝置的開發帶來技術突破。
+
+作為概念驗證，ICONIC 將開發一種智慧閉環藥物遞送啟動裝置。長期願景是打造一種能夠自動辨識訊號並進行藥物投與的生物相容性電子裝置，從而避免人為錯誤。
+
+ICONIC 是一項具高度風險與高報酬潛力的跨學科計畫，參與單位來自 6 國，共 8 個夥伴機構，橫跨學術界與產業界（包含一家中小企業）。該計畫設有 4 個工作包（其中 3 個為技術性），由各領域專家與利害關係人協力推動，期望最大化計畫的科學與社會影響力。",ICONIC 計畫致力於開發具備人工智慧功能的柔性有機電子裝置，用於即時監測與藥物投與控制。該計畫從材料合成到功能實現，深入研究聚合物導體中離子與電子傳輸的微觀機制，並將其應用於自動化藥物遞送裝置的開發。此創新技術將促進慢性病的智慧照護系統發展，並提高治療安全性與效率。,醫療影像與診斷輔助
+329660,Development and commercialisation of AI platform to disrupt the ultrasound guided invasive procedures training for junior doctors and medical students,2022/9/1,"Ultrasound assistance improves patient conditions management and serves as an invaluable tool for numerous clinical specialties. However  its successful application depends in on the clinician's skills and is operator-dependent and therein lays one of the greatest challenges faced by clinicians in widely adopting and undertaking bedside ultrasound procedures.
+
+Today  trainee doctors ultrasound assisted procedural training is provided in the NHS operated training centres through approved instructors. A typical training day-session (costing £100 to £275 per student) surrounds instructor providing guidelines and synthetic subject or patient being scanned using an ultrasound knob with off-line ultrasound images appearing on the display screen. Because of instructor and patient's limited-time availability  students gain maximum of 30min hands-on time per session. Key limitations of existing training approaches include;
+
+* course's inherent inability to provide training on limited cases 
+* instructor and trainee doctors' limited availability on specific times/locations 
+* non-representation of normal anatomy in mannequins 
+* limited use as needle insertions distorts images obtained by ultrasound
+
+To rectify the shortcomings of existing training solutions  through this 18 months project  Ashmount Services and De Montfort University Leicester (DMU)  are developing world's first Augmented Reality (AR) and Artificial Intelligence (AI) powered ultrasound training platform 'SIMS' for trainee doctors.
+
+SIMS will provide junior doctors the freedom to undertake training as per their availability  reduce human errors by at-least 99% and expand ultrasound experience using specific cases from the catalogue. It will enable healthcare providers to uniformly train and assess large numbers of doctors in an automated way."," £386,121.00 ",開發與商業化 AI 平台，以顛覆年輕醫師與醫學生的超音波導引侵入性訓練,"超音波輔助技術可有效提升病患的病情管理，並在多個臨床專科中發揮關鍵作用。然而，其成功應用高度依賴醫師操作技術，操作依賴性強，這也是超音波難以廣泛在床邊應用的主要挑戰之一。
+
+目前，NHS 提供的超音波輔助操作訓練，是透過認證講師在訓練中心對住院醫師進行教學。一般訓練課程每位學員需支付約 £100 至 £275，講師會提供操作指導，並使用模型或模擬病患配合超音波探頭進行掃描，影像則透過螢幕顯示。由於講師與模擬病患時間有限，學生每次訓練頂多僅有 30 分鐘的實作時間。
+
+目前訓練方式的主要限制包括：
+
+無法涵蓋多樣病例的操作訓練
+
+講師與學生需配合時間與地點，排程不易
+
+模型不具真實人體解剖結構
+
+進行穿刺操作會干擾超音波影像品質，限制訓練效果
+
+為解決這些問題，Ashmount Services 與萊斯特德蒙福特大學（De Montfort University Leicester, DMU）合作，將於 18 個月內開發全球首套結合擴增實境（AR）與人工智慧（AI）的超音波訓練平台 —— SIMS，專為住院醫師所設計。
+
+SIMS 將讓年輕醫師能依自身時間安排訓練，大幅降低（至少 99%）人為操作錯誤，並透過特定案例訓練擴展臨床經驗。平台將能協助醫療機構以自動化、標準化的方式訓練與評估大規模醫師群體。",本計畫開發結合AR與AI的超音波訓練平台 SIMS，突破傳統訓練場地與人力限制，提升住院醫師訓練彈性與準確性，進而標準化超音波臨床操作技能，強化教學與病患安全。,醫療影像與診斷輔助
+335578,Developing a medical imaging AI development and evaluation platform,2023/5/1,"AI tools have shown promise in being able to evaluate medical imaging and aid healthcare professionals with their image interpretation speed and accuracy. However  the uptake of these algorithms by healthcare organisations has been slow for a number of reasons. Primary among this has been a lack of trust in the performance of algorithms. Before making a purchase decision  clinicians want to try algorithms to test their usability and accuracy. This requires integrating algorithms with live clinical IT systems which needs input from technical and information governance teams at the hospitals and is a major barrier to implementation. Moreover  after purchase  there is a requirement for staff to be trained in how touse the algorithms.
+
+The project aims to improve NHS diagnostic pathways by accelerating adoption of artificial intelligence (AI) for medical image interpretation. To do this  RAIQC Ltd aims to develop a cloud-based platform that acts as an an end-to-end solution for training  testing and deploying AI algorithms.
+
+Using this platform  AI developers will be able to perform _insilico_ clinical trials to generate evidence around the efficacy  usability and health economic value of their AI tools. The platform will also allow healthcare providers to trial algorithms prior to deploying them into clinical practice as well as being able to train their staff in safe use of these tools.
+
+During phase 1 of the project  RAIQC Ltd will bring together a consortium of commercial AI developers  academic organisations and end users of medical imaging AI such as hospitals and healthcare professionals. The group will be able to outline needs of each stakeholder in the development and translation of medical imaging AI into clinical practice. RAIQC Ltd will also work with the stakeholders to define the technical requirements for each stage of the AI development and deployment pathway."," £49,905.00 ",建立醫學影像 AI 開發與評估平台,"人工智慧（AI）工具在醫學影像判讀方面展現出提升準確率與速度的潛力，可望有效支援醫療專業人員。然而，醫療機構對 AI 演算法的實際採用速度仍然緩慢。主要障礙之一是對 AI 效能缺乏信任。
+
+臨床醫師在購買前，通常希望先實地測試這些 AI 工具的可用性與準確性，然而這通常需要將演算法整合至醫院的實際 IT 系統中，牽涉技術與資訊治理團隊，造成部署門檻高昂。此外，即便採購完成，醫護人員仍需接受訓練才能安全使用這些工具。
+
+本計畫旨在改善 NHS 的診斷流程，透過加速醫學影像 AI 的採用，提升判讀效率與品質。RAIQC Ltd 計畫開發一套基於雲端的端對端平台，支援 AI 工具的訓練、測試與部署全流程。
+
+透過此平台：
+
+AI 開發商可進行 in silico 臨床試驗，產出工具在療效性、可用性與健康經濟價值方面的實證
+
+醫療單位則能在臨床導入前試用這些工具，並訓練工作人員安全操作使用
+
+在第一階段中，RAIQC Ltd 將整合來自 商業 AI 開發者、學術機構與臨床使用者（如醫院與影像專科醫師）的需求，建構多方利害關係人的合作架構。並將共同定義醫學影像 AI 的技術規格與臨床部署流程需求。",RAIQC 將開發一個雲端平台，提供醫學影像 AI 的訓練、驗證、試用與上線支援，解決現有部署障礙，提升醫療機構對 AI 工具的信任與採用率，加速 NHS 診斷流程現代化。,醫療影像與診斷輔助
+393563,Explainable AI recommendations for infectious disease management: providing clear  robust  and reliable communication to users,2023/6/1,"Effective decision-making is crucial to control outbreaks of infectious diseases. Poor decision-making around infection prevention and control costs the NHS an estimated £2.7 billion annually in the UK. This is primarily due to insufficient time and resources for teams to properly analyse outbreak situations and determine the most effective actions to take. These inefficiencies lead to prolonged lengths of stays  unnecessary medical procedures  and severe consequences for patients.
+
+Infection prevention and control is a complex field  and artificial intelligence (AI) has the potential to revolutionise how infectious diseases are managed by supporting optimal decision-making. However  the black-box nature of these AI systems and the inability to communicate effectively has hindered their adoption at scale. As a result  we are applying for funding to develop trust  transparency  and communication into a novel AI recommendation tool for infection prevention and control teams. By providing this level of transparency and communication  we hope to increase trust in AI tools and promote their adoption in infection prevention and control.
+
+The potential impacts of this system are far-reaching  not only in the primary marketplace of hospital infection prevention and control but also in providing transparency and communication of algorithm recommendation systems  enabling them to be adopted in various use cases. With the development of this system  we hope to decrease the costs associated with poor decision-making in infection prevention and control and ultimately improve patient outcomes. Improving the efficiency of decision-making in this field can help reduce the spread of infectious diseases and prevent future outbreaks.
+
+Investing in developing such systems is critical to provide better care and reducing healthcare costs. We believe that our research at NEX.Q will lead to the development of a valuable tool that can be adopted in various healthcare settings and ultimately improve patients' lives."," £49,971.00 ",可解釋 AI 用於傳染病管理：提供清晰、穩定與可信的使用者溝通,"在感染性疾病的爆發控制上，有效的決策制定至關重要。根據估計，因感染預防與控制決策不當，每年為英國 NHS 帶來約 27 億英鎊的損失。主要原因在於前線團隊缺乏充足的時間與資源來全面分析疫情狀況與擬定最有效的應對措施。這些效率低落導致：
+
+住院時間延長
+
+不必要的醫療處置
+
+病患健康惡化甚至死亡
+
+感染預防與控制是一門高度複雜的領域，而人工智慧（AI）有潛力徹底改變傳染病的管理方式，特別是在提升決策效率方面。然而，現有 AI 系統普遍存在「黑箱問題（black-box models）」與缺乏可解釋性與溝通能力，因此難以被廣泛採納。
+
+為了解決這些問題，我們申請補助以開發一套具可解釋性、溝通能力與高度信任度的 AI 建議工具，專門提供給感染預防與控制團隊使用。我們期望藉此提升使用者對 AI 工具的信任度，促進其在臨床實務中的落地與應用。
+
+這套系統的潛在影響不僅止於醫院的感染預防與控制單位，其透明與可溝通的推薦邏輯也將為其他 AI 系統的應用建立示範。透過本系統的導入，有望：
+
+降低因錯誤決策導致的醫療成本
+
+改善病患預後
+
+減少傳染病擴散風險
+
+預防未來疫情爆發
+
+我們相信，NEX.Q 的研究將有助於打造一套在多元醫療場域皆可採用的高價值工具，最終實現更高品質的病患照護與更有效率的醫療系統。",本計畫開發一套具可解釋性與溝通性的 AI 推薦工具，支援感染預防與控制團隊做出更佳決策，降低因錯誤判斷造成的醫療損失與病患風險，並提升對 AI 系統的信任與採納度，擴展至其他醫療應用場景。,醫療影像與診斷輔助
+339266,Commercialisation of an imaging based dementia diagnostic test in the Chinese market - feasibility study,2022/1/1,"Despite rapidly increasing numbers of people living with dementia  there are substantial difficulties with diagnosis. Around a third of people living with dementia have not received a diagnosis. Even in people who are diagnosed  there is typically a delay of years between developing symptoms and receiving a diagnosis. These problems mean that people are not empowered by receiving information about what is causing their symptoms  and are unable to access treatments. The first treatment that could slow the progression of dementia has just been approved for use in the USA  making early and accurate diagnosis of dementia an urgent priority.
+
+One important reason for delayed and inaccurate dementia diagnosis is that the human eye is not reliably able to tell from brain scans who has early dementia  and who is likely to have a deterioration in their memory in the future. We propose to use artificial intelligence to derive this information from routine brain scans.
+
+AINOSTICS' technology represents a breakthrough that would provide an automated  and personalised healthcare platform for assisting the clinical diagnosis of dementia using multi-modal imaging and non-imaging data that are already routinely acquired in healthcare and research settings; useful for both the treatment of patients  and importantly  in the development of novel therapeutics.
+
+AINOSTICS' technology can automatically and intelligently analyse scans to provide sensitive and accurate micro-structural information about key tissue and organ structures then compare this with information from healthy populations to detect the signatures of disease. We intend for AINOSTICS' software to become a routine part of clinical practice and drug development as the results of our intelligent analysis will provide clinicians  researchers  and imaging centres a convenient and cost-effective means to get reliable  quantitative and objective diagnostic and prognostic data.
+
+For serious global diseases  AINOSTICS' technology has the potential to save time during patient assessments  accelerate clinical pathways  standardise the quality of care and improve patient outcomes in addition to making important contributions to the development of disease modifying therapeutics."," £29,912.00 ",癡呆症影像診斷檢測商業化於中國市場的可行性研究,"儘管失智症人口快速增加，診斷上仍存在重大困難。約有三分之一的失智症患者尚未被診斷出，即使已診斷的患者，從症狀出現到正式診斷之間通常也有數年延遲。這導致患者無法獲得關於病因的資訊，也難以及時取得治療。近期，美國剛批准首個可減緩失智症惡化的療法，使得「早期且準確的診斷」變得更加緊迫與重要。
+
+延遲或不準確的診斷原因之一，在於醫師難以從腦部影像辨別早期失智症，或預測哪些人將來可能出現記憶退化。我們提議使用人工智慧（AI）從常規腦部掃描中自動推論出這些關鍵資訊。
+
+AINOSTICS 的技術是一項突破，能建立自動化與個人化的醫療平台，運用多模態影像與非影像資料（這些數據已廣泛應用於臨床與研究中）協助失智症的臨床診斷，對病患治療與新療法的開發皆具關鍵價值。
+
+該技術可自動智慧分析腦部掃描影像，提供關鍵組織與器官的微結構變化資訊，並與健康人群的資料進行比對，識別出疾病的特徵。我們希望 AINOSTICS 的軟體能成為臨床實務與新藥開發的標準工具，為臨床醫師、研究人員與影像中心提供可靠、量化、客觀的診斷與預後數據，且成本效益高、操作便利。
+
+面對全球性重大疾病，AINOSTICS 的AI技術有潛力在病患評估中節省時間、加速診療流程、提升照護一致性與結果，同時促進具改變病程潛力的新藥研發。",本計畫透過 AINOSTICS 的AI平台，使用常規腦部影像資料自動辨識早期失智症徵兆，協助臨床準確診斷與預測病程。此技術可提升診療效率與一致性，並助力新療法的研發與臨床應用。,醫療影像與診斷輔助
+339478,Fraxpert: AI-supported fracture diagnosis system to tackle the radiology workforce crisis in the UK,2022/4/1,"This project is led by Saile Villegas  director and co-founder of Seeai LTD  a Med-tech company based in Leeds that aims to reduce health inequalities and deliver the best medical care in every corner of the world.
+
+Saile Villegas was raised by a single mother  in a male-dominated town in Mexico  where cartels and violence are around the corner. Pursuing a career in STEM as a woman was beyond belief. Despite that  she showed an incredible drive to move to the UK and pursue her passion for computer science. Now she leads a multidisciplinary team of experts  from radiologists to computer science professors  to develop an Artificial Intelligence (AI) that can detect fractures as well as expert radiologists  with the NHS.
+
+Every year 152 000 fracture misdiagnosis occur in the UK. Usually  patients with suspected fractures attend the Accident and Emergency (A&E) department and receive an x-ray examination. These x-rays are often reviewed by healthcare professionals without radiological expertise  due to the shortage of radiologists  resulting in a high error rate of up to 30% in this high-pressure environment.
+
+Saile Villegas has led a collaboration with NHS Grampian for two years to develop an AI-supported early fracture diagnosis system  named Fraxpert  to assist clinicians in confidently identifying subtle (hard to see) fractures. Seeai has completed a working prototype and the internal validation of the system showed detection performance to the level of expert radiologists.
+
+This project will take Fraxpert from a working prototype to a regulated product. Seeai will visit various hospitals (small-large  rural-urban) and research the optimal clinical pathway to integrate the AI. This investigation will also allow Seeai to identify potential customers.
+
+The support from the award will allow Fraxpert to effectively transition from R&D into a product that can be commercialised. Successful implementation of Fraxpert in hospitals will help healthcare providers cope with the shortage of radiologists and improve patient outcomes.
+
+This award will also provide an opportunity for Saile Villegas to equip herself with the business strategy skills required to successfully commercialise her innovation. In addition  the network of mentoring offered by the programme will allow her to learn from other women in innovation to improve her capabilities as a leader in innovation."," £50,000.00 ",Fraxpert：AI 支援的骨折診斷系統，解決英國放射科人力危機,"本計畫由 Seeai Ltd. 的共同創辦人暨董事 Saile Villegas 領導。Seeai 是一家位於英國里茲的醫療科技公司，致力於縮減健康不平等，將高品質醫療帶到世界每個角落。
+
+Saile Villegas 自小由單親媽媽扶養，在墨西哥一個男性主導、暴力與毒梟充斥的城鎮長大。對當地女性而言，投入 STEM 領域的職涯幾乎是不可能的夢想。然而，她仍展現驚人的毅力，前往英國追求她對電腦科學的熱情。如今，她領導一支跨領域團隊，包含放射科醫師與電腦科學教授，與NHS合作開發能準確識別骨折的AI系統。
+
+英國每年約有 152,000 件骨折誤診案例。通常病患到急診室（A&E）接受 X 光檢查後，影像由非放射專業的醫護人員判讀，因放射科醫師人力短缺，造成誤診率高達 30%。
+
+Saile 與 NHS Grampian 合作兩年，共同開發了 Fraxpert：一套 AI 輔助的早期骨折診斷系統，能協助臨床人員更有信心地識別難以察覺的微細骨折。Seeai 已完成可運作的原型機，其內部驗證結果顯示診斷表現媲美專業放射科醫師。
+
+本計畫將把 Fraxpert 從原型階段推進至具法規認證的商品化產品。團隊將造訪各類型（大型、小型、都市與偏鄉）的醫院，研究AI整合至臨床流程的最佳方式，並識別潛在客戶。
+
+本獎助金將加速 Fraxpert 從研發進入商業化的進程，使其成功部署於醫療機構，有助於緩解放射科醫師人力不足，並提升病患照護品質。
+
+同時，這項支持也將協助 Saile 強化其商業策略能力，並透過與其他女性創新者的交流與導師網絡，增進其在創新領域的領導能力。",本計畫將AI骨折診斷系統 Fraxpert 推向商品化，協助臨床醫師更準確識別骨折、改善誤診率，並因應放射科醫師人力短缺問題，提升整體照護效率與病患結果。,醫療影像與診斷輔助
+340219,RESECT-AI: Reliable Estimations for Safer Endoscopic Cancer Therapy with Artificial Intelligence,2022/6/1,"Colorectal cancer (CRC) has the 4th highest incidence of all cancers in the UK and the 3rd highest worldwide. 1.4m new cases and 0.7m related deaths are reported each year. The incidence and number of deaths is estimated to rise by 60% by 2030\. The current global economic impact is estimated to be £100Bn. There are 230k people living in the UK with CRC  with 41k new incidents and 16k related deaths reported yearly.
+
+The gold standard in detection and diagnosis of CRC is colonoscopy. In a colonoscopy procedure the inner surface of the large intestine is inspected with a camera on a flexible tube  called the endoscope. The endoscopist can identify and diagnose lesions  which might require treatment. There are 2m colonoscopies conducted in the UK and 66m worldwide. It is a very common clinical procedure  however  there are a number of unmet clinical needs.
+
+The RESECT-AI project will use machine learning to support therapy in endoscopy procedures. The depth of invasion of cancer will be determined from endoscopic images to stratify patients to endoscopic resection or colorectal surgery  the residual tissue will be detected  and the risk of bleeding will be predicted post-resection.
+
+RESECT-AI will reduce cost to healthcare payers  improve patient outcomes and improve patient experience."," £595,896.00 ",RESECT-AI：利用人工智慧進行更安全的內視鏡癌症治療預估,"**結直腸癌（CRC）**是英國發生率第 4 高、全球第 3 高的癌症，每年約有 140 萬新發病例與 70 萬例相關死亡。預估至 2030 年，發病與死亡人數將增加 60%。全球經濟衝擊估計達 1,000 億英鎊。在英國，目前有 23 萬名結直腸癌患者，每年新增 4.1 萬病例與 1.6 萬例死亡。
+
+目前結直腸癌的診斷與偵測黃金標準為大腸鏡檢查。此過程中，醫師會使用附有鏡頭的軟管（內視鏡）檢視大腸內壁，並進行病灶辨識與診斷。有 200 萬次大腸鏡檢查在英國進行、全球每年高達 6,600 萬次。雖為常見檢查方式，但仍存在諸多未滿足的臨床需求。
+
+RESECT-AI 計畫將運用機器學習（Machine Learning）技術支援大腸鏡檢查過程中的治療決策，包括：
+
+根據內視鏡影像判定癌症侵犯深度，協助決定應接受內視鏡切除或結腸手術；
+
+偵測殘餘組織；
+
+預測術後出血風險。
+
+此技術將有助於降低醫療成本、改善病患預後與就醫體驗。",本計畫開發 RESECT-AI 系統，透過機器學習分析內視鏡影像，輔助判斷癌症侵犯程度、術後出血風險與殘餘病灶，有助於提高手術決策精準度與病患治療體驗。,醫療影像與診斷輔助
+340733,AiSentia - The next generation of contrast-enhanced imaging in computerised tomography (CT),2022/6/1,"AiSentia is a spin-out from the University of Oxford consisting of a world-class team that delivers innovative healthcare solutions that champion patient care.
+
+AiSentia's aim is to develop next generation clinical imaging technologies using Artificial Intelligence (AI) to support clinical decision-making on blood vessels. The proprietary AI-driven software has the ability to dramatically change best practice  reducing healthcare costs whilst improving the patient's experience and outcomes.
+
+A computerised tomography (CT) scan is a diagnostic imaging procedure which uses x-rays impinging on a subject  such as the human body  to produce cross-sectional images  sometimes called 'slices'  of a targeted region of the subject. The introduction of a contrast agent helps distinguish or ""contrast"" selected areas of the body from the surrounding tissue  which can be used to diagnose specific conditions.
+
+However  for some patients who may require repeated hospital visits  the repeated exposure to X-rays is undesirable and may be detrimental to their health. Furthermore  some patients are also susceptible to anaphylactic shock  diabetic symptoms  or contrast induced nephropathy due to iodinated contrast which limits the ability for their doctors to use advanced imaging to diagnose potential issues.
+
+In addition to the patient benefits  iodinated contrast media are excreted into the hospital toilets or home toilets over the next 24 hours entering the wastewater. Iodine is difficult to remove from the wastewater and is detrimental to the environment. The aim of AiSentia is to eliminate iodinated contrast media for CT imaging and improve the environment by reducing the amount of biopharmaceutical waste released in the wastewater system.
+
+This project seeks to help these patients  the hospitals  and the environment by developing a ground-breaking software that means that CTA scans could be used routinely without patients having to be injected with contrast agents.
+
+Once developed  AiSentia is expected to improve overall patient outcomes and standard-of-care delivering transformative effects by opening new markets  generating revenues and investment which benefits the UK economy and sustainability."," £499,432.00 ",AiSentia：新一代增強型電腦斷層影像技術,"AiSentia 是牛津大學的一家衍生新創公司，由一支世界級團隊組成，致力於提供以病患照護為核心的創新醫療解決方案。
+
+AiSentia 的目標是開發下一代臨床影像技術，應用人工智慧（AI）支援血管相關的臨床決策。其專利 AI 軟體具備改變現行最佳實務的潛力，不僅能降低醫療成本，也可提升病患的整體就醫體驗與治療成效。
+
+電腦斷層掃描（CT）是一種影像診斷程序，利用X光掃描人體以生成橫切面影像（俗稱「切片」）。使用顯影劑有助於強化影像對比，以利識別特定部位並進行診斷。
+
+然而，對於需頻繁回診的病患而言，反覆暴露於X光中可能有害健康；此外，一些病患對含碘顯影劑存在過敏反應、糖尿病惡化或腎病風險，使得醫師無法安全使用此技術。
+
+更進一步，含碘顯影劑會在 24 小時內經由病患排尿進入下水道，碘成分難以從廢水中清除，對環境有潛在傷害。
+
+AiSentia 的願景是開發一種創新 AI 軟體，取代顯影劑於 CT 影像中的使用需求，不僅讓影像檢查更安全、可普及，也有助於降低醫院與社區中生物製劑廢棄物的排放。
+
+該技術一旦完成，預期將改善病患結果與標準療程，並具備打入新市場、創造投資與經濟效益的潛力，有助於英國醫療永續發展與環境友善醫療推動。
+",本計畫開發AI驅動的CT影像技術，在無需使用顯影劑的情況下提供高品質診斷影像，降低病患風險、改善照護流程，並兼顧環境永續，創造臨床與生態雙贏的創新解決方案。,醫療影像與診斷輔助
+329960,SM-S1: An early lung cancer detection test,2022/12/1,"Cancer is the leading cause of illness worldwide. Each year  about 1.8 M deaths are caused by lung cancer (LC). Early diagnosis is crucial to improve survival rates. However Stage I-III LC is asymptomatic or non-descript (e.g. a cough) and often ascribed to ""getting older"" or  more recently  COVID. Consequently about 75% of patients are diagnosed at the late stage  when survival rates are much lower and treatment is most expensive  resulting in LC having the highest economical burden of all cancers on national health systems.
+
+Current gold standard diagnostic methods are not ideal for screening programmes to detect symptomless early stage LC patients. Imaging (x-ray  low-dose CT) is expensive and not readily accessible  requiring sophisticated  costly equipment  highly trained operators and specialist consultants. Furthermore  there are significant backlogs causing long waiting times to use such equipment  exacerbated by an ongoing shortage of trained radiologists.
+
+In contrast there are already accessible  cost effective screening tests for other cancers  particularly breast  cervical and bowel.
+
+Sierra Medical is developing SM-S1  an innovative early-stage LC detection test which applies artificial intelligence (AI) to the biochemistry of a patient's cheek cells. Our novel analytical algorithm combines infrared spectroscopy  biological/medical information  machine learning and AI to extract subtle spectral differences between healthy and diseased cells. Our system is non-destructive (tests can be performed on the same sample)  requires only a few hundred cells and is easy-to-use by any healthcare professionals without extensive training.
+
+The SM-S1 test is simple: a sample of buccal cells is collected from the patient's mouth using a cheek swab. The swab is sent to a laboratory. Data is collected from the swab using a commercially available off-the-shelf infrared (IR) spectrometer. Cheek cells in LC patients display biochemical changes which change the cell's IR fingerprint. The data is automatically uploaded onto Sierra Medical's secure cloud platform where the spectra are automatically cleaned  corrected for their environment and analysed by our algorithm. Through our underpinning research we have trained our processing algorithms to separate biochemical changes from environmental conditions allowing us to detect the presence of cancerous cells within the lung (early results show a sensitivity of 93%). The early cancer detection test report is available in less than 1 day."," £747,209.00 ",SM-S1：早期肺癌檢測測試,"癌症是全球主要疾病死因之一，其中肺癌（LC）每年導致約 180 萬人死亡。早期診斷對提升存活率至關重要。然而，第 I–III 期肺癌大多無明顯症狀，或僅出現如咳嗽等模糊症狀，常被誤認為是老化、甚至近年誤歸因於 COVID。因此，約有 75% 的患者在癌症晚期才被診斷出來，此時存活率較低，治療成本極高，使肺癌成為所有癌症中對國民健康系統經濟負擔最重者。
+
+目前診斷肺癌的黃金標準為影像檢查（如 X 光與低劑量電腦斷層 CT），但這些方法不適用於大規模無症狀者的篩檢，因其成本高、設備昂貴，操作與判讀需仰賴訓練精良的技術員與放射科醫師。再加上人力短缺與設備排程擁擠，導致檢查等待時間過長。
+
+相比之下，目前已有針對其他癌症（如乳癌、子宮頸癌、大腸癌）之便宜且普及的篩檢方法。
+
+Sierra Medical 正在開發 SM-S1，這是一種創新的早期肺癌檢測技術，將人工智慧（AI）應用於口腔頰細胞的生化分析。本系統結合紅外線光譜分析（IR spectroscopy）、醫學與生物資訊、機器學習與 AI，辨識健康與病變細胞之間細微的光譜差異。
+
+該系統：
+
+無破壞性（同一樣本可重複測試）
+
+樣本需求極低（僅需數百個頰細胞）
+
+操作簡便，無須高階專業訓練即可由一般醫療人員執行
+
+檢測流程如下：
+
+由病患口腔內採集頰部細胞（以棉棒擦拭）
+
+樣本送至實驗室，使用市售紅外線光譜儀分析
+
+光譜資料上傳至 Sierra Medical 的雲端平台
+
+系統自動進行資料清理、環境校正並透過演算法判讀
+
+我們的研究顯示，肺癌病患的頰細胞會出現可偵測的生化變化，進而改變其 IR 光譜指紋。目前初步成果顯示靈敏度高達 93%，而整體檢測報告可於 一天內完成。",本計畫開發一種非侵入式、快速、具高靈敏度的早期肺癌檢測法，透過分析口腔頰細胞的光譜特徵並結合 AI 演算法，即可快速辨識肺癌生化指標，解決現有篩檢方式成本高與設備不足的限制，並推動癌症早期診斷普及化。,醫療影像與診斷輔助
+331154,Digistain - Breast Cancer Companion Diagnostic for over-prescribed chemotherapy,2023/1/1,"Digistain is a market-ready  UK-based clinical diagnostics company transforming breast cancer treatment to save time  money  and lives.
+
+Where current companion diagnostics delay treatment decisions for up to a month  our technology provides oncologists with decision-making data in just 15 minutes. This means chemotherapy can be avoided where appropriate and enables patients to avoid the unnecessary increase in the risk of death caused by chemotherapy toxicity by 50%.
+
+When chemotherapy is required and initiated immediately  time makes the difference between life and death with every 30-day delay increasing the chance of death. Digistain enables oncologists to leapfrog currently available technologies to provide superior care quickly and affordably.
+
+Our founders  Dr Chris Phillips and Dr Hemmel Amrania hold PhDs from Cambridge and Imperial College London respectively and have won multiple research awards for this innovation already. Digistain has been trialled with leading British cancer treatment centres including Imperial College Healthcare  Nottingham University Hospitals NHS Trust  and Barts Cancer Institute at Queen Mary University London.
+
+While other risk profiling solutions use a fixed assessment of data from wet chemistry analysis  Digistain leverages machine learning to identify patterns invisible to fixed algorithmic approaches. Digistain captures a unique spectral signature from each biopsy and performs analysis on over 10 000 data points per biopsy. With this information  Digistain's artificial intelligence process computes an accurate risk score which has been validated on over 800 patients in a study reviewed by Cancer Research UK. The study demonstrated superior clinical performance to the incumbent.
+
+Digistain offers a significant advantage over the existing state-of-the-art technology. Currently  oncologists must wait several weeks for test results. The aim of this project is to guide adjuvant (post-surgery) therapy decisions to improve patient outcomes  promote UK economic growth  and save lives -- all while reducing care inequalities by being affordable to more patients."," £499,874.00 ",Digistain－乳癌輔助診斷工具，用以降低化療過度開立問題,"Digistain 是一家位於英國、具備市場準備階段的臨床診斷公司，致力於革新乳癌治療方式，以節省時間、金錢並挽救更多生命。
+
+目前市面上的伴隨式診斷工具（companion diagnostics）通常需耗時長達一個月才可產出結果，而 Digistain 的技術能在僅僅 15 分鐘內提供腫瘤科醫師關鍵決策資訊。這意味著在不需要化療的情況下可避免其副作用，降低 50% 因化療毒性導致的死亡風險。
+
+若病患確實需要化療，及早啟動治療是關鍵——每延遲 30 天，死亡風險顯著上升。Digistain 協助醫師超越現有技術門檻，更快速、精準、可負擔地提供更好的醫療決策依據。
+
+創辦人 Dr. Chris Phillips 與 Dr. Hemmel Amrania 分別擁有劍橋大學與帝國理工學院博士學位，並已因本項創新獲得多項研究獎項。Digistain 技術已與英國多家癌症治療中心合作試驗，包括帝國學院醫療系統（Imperial College Healthcare）、諾丁漢大學醫院 NHS 信託（Nottingham University Hospitals NHS Trust）、以及瑪麗皇后大學 Barts 癌症研究中心。
+
+相較於其他依賴「濕化學分析」的固定風險評估方法，Digistain 採用機器學習辨識傳統算法難以察覺的圖像與變化。該系統會從每個組織切片中擷取獨特的光譜簽名，並針對每筆樣本進行 超過 10,000 筆數據點的分析，最後由 AI 計算出一組準確的風險評分。
+
+此方法已在由 Cancer Research UK 審查的研究中完成超過 800 名病患的臨床驗證，且結果顯示 Digistain 效能優於現行主流檢測方式。
+
+本計畫的目標是指導術後輔助性治療（adjuvant therapy）決策，以提升病患預後、促進英國生技醫療產業成長，並藉由成本可負擔的方式減少醫療資源不平等，最終挽救更多生命。",本計畫利用機器學習與光譜分析技術，快速提供乳癌病患術後治療決策依據，讓臨床醫師能即時判斷是否啟動化療，提升治療效率、存活率與病患照護公平性。,醫療影像與診斷輔助
+335790,ODELIA - An Open Consortium for Decentralized Medical Artificial Intelligence,2023/1/1,ArtifArtificial Intelligence (AI) will revolutionize healthcare as its diagnostic performance approaches that of clinical experts. In particular  in cancerscreening  AI helps patientsto make better-informed decisions and reduce medical error. However  thisrequireslarge datasets whose collection faces severe practical  ethical and legal obstacles. These obstacles can be overcome with swarm learning (SL) where partners jointly train AI models without sharing any data. Yet  access to SL technology is seriously limited because no studies have implemented SL in a true multinational setup  no practically usable implementation of SL is available  researchers & healthcare providers have no experience with setting up SL networks and policymakers are currently unaware of the broader implications of SL. ODELIA will address & solve these issues: ODELIA will build the first open-source software framework for SL  providing an assembly line for the streamlined development of AI solutions. To serve as a blueprint for future SL-based AI systems  ODELIA partners collaborate as a swarm to develop the first clinically useful AI algorithm for the detection of breast cancer in magnetic resonance imaging (MRI). The size of ODELIA's distributed database will exceed all previous studies and ODELIA's AI models will reach expert-level performance for breast cancer screening. Thereby  ODELIA will not only deliver a useful medical application  but prove the clinical benefit of SL in terms of accelerated development  increased performance and robust generalizability to ultimately save thousands of lives of European patients. ODELIA's success will push partners to serve as nuclei for the exponential growth of the SL network and extend SL to a multitude of medical applications. Thus  patients  healthcare providers and citizens in Europe will be provided with a digital infrastructure that enables development of expert-level AI tools on big data without compromising data safety and data privacy," £706,031.00 ",ODELIA－去中心化醫療人工智慧的開放聯盟,"人工智慧（AI）將徹底革新醫療產業，尤其在癌症篩檢方面，隨著其診斷準確度逐漸接近臨床專家，AI 能協助病患做出更知情的決策，並降低醫療錯誤。然而，開發這些 AI 系統需仰賴大量資料集，而這在實務、倫理與法律上皆面臨嚴重挑戰。
+
+這些挑戰可透過「群體學習（Swarm Learning, SL）」技術克服：SL 允許多個合作機構在不共享資料的情況下，共同訓練 AI 模型。但目前 SL 的取得與應用仍極度受限，原因包括：
+
+缺乏跨國實際應用案例
+
+無現成可用的 SL 實作框架
+
+研究者與醫療單位對 SL 網絡架設經驗不足
+
+政策制定者對 SL 的潛在影響認識不足
+
+本計畫 ODELIA 將針對上述問題提供解方，具體目標如下：
+
+建立全球首個開源 SL 軟體框架
+
+提供一套可簡化開發流程的「AI 生產線」
+
+由多國合作夥伴實際組成 SL 網絡，訓練用於MRI 乳癌偵測的臨床實用 AI 模型
+
+ODELIA 將使用的分散式資料庫規模將超越過去所有相關研究，所訓練出的 AI 模型預計將達到乳癌篩檢中與專家相當的診斷表現。
+
+本計畫不僅將交付一項有實用價值的醫療應用，更將證明 SL 所帶來的效益：
+
+加速 AI 開發流程
+
+提升診斷表現與泛化能力
+
+維護資料安全與個資隱私
+
+ODELIA 的成功將使合作夥伴成為 SL 網絡的核心節點，進一步擴展 SL 應用至多種醫療領域，為歐洲病患、醫療機構與公民建立一套能在保障資料安全下發展頂尖 AI 工具的數位基礎建設。",ODELIA 將建立全球首個開源 Swarm Learning 框架，應用於乳癌 MRI 影像篩檢，實現跨國無資料共享的 AI 模型訓練，提升診斷表現並保護資料隱私，成為未來 AI 醫療開發的典範。,醫療影像與診斷輔助
+335760,New AI-based method for early detection of lung cancer,2023/4/1,Sierra Medical (SM) is developing SM-S1 - a highly innovative early-stage lung cancer (LC) detection test which combines artificial intelligence (AI) and the biochemistry of a patient's cheek cells. Our novel analytical algorithm combines infrared spectroscopy  biological/medical information  machine learning and AI to extract subtle spectral differences between healthy and diseased cells (Slide 5). Our system is non-destructive (tests can be performed on the same sample)  requires only a few hundred cells and is easy-to-use by any healthcare professionals without extensive training. It could be easily conducted at home or in a Primary Care setting (GP practice or pharmacy). Our first product  SM-S1  is a LC early detection tool that uses only a cheek swab  and our latest clinical trial results are very promising  showing sensitivity of 93%. Also  our technology and software platforms are being developed to detect other diseases  such as oesophageal and colon cancers  and analyse other sample types  as biopsy tissue samples.," £2,155,965.00 ",基於 AI 的早期肺癌偵測新方法,"Sierra Medical（SM） 正在開發一項高度創新的早期肺癌（LC）偵測技術——SM-S1。該檢測方法結合了人工智慧（AI）與病患口腔頰細胞的生化特徵，形成一套全新的檢測流程。
+
+我們所研發的演算法融合了紅外線光譜技術、生物醫學資訊、機器學習與 AI，能夠精準擷取健康與病變細胞間微妙的光譜差異（詳見第 5 張簡報投影片）。
+
+本系統具備以下特色：
+
+非破壞性檢測（可重複使用同一樣本）
+
+僅需採集數百個頰細胞
+
+操作簡便，無需受過專業訓練的醫療人員也能執行
+
+可應用於居家檢測或基層照護單位（如家庭醫師診所、藥局）
+
+我們的首款產品 SM-S1，是一項僅需口腔拭子的肺癌早期偵測工具。最新的臨床試驗結果相當令人振奮，檢測靈敏度達 93%。
+
+此外，我們的技術與軟體平台正在擴展應用至其他癌症類型（如食道癌與大腸癌），未來也可分析切片組織樣本等不同型態的生物檢體。",本計畫開發基於 AI 與紅外光譜技術的肺癌早期偵測工具 SM-S1，以非侵入式、操作簡單的口腔拭子取樣方式，實現在基層醫療或居家環境中的癌症篩檢，並拓展應用至其他癌症與樣本類型。,醫療影像與診斷輔助
+330143,CLAIR: first in class non-invasive test for outcome prediction and stratification in dementia,2023/6/1,"Despite rapidly increasing numbers of people living with dementia  there are substantial difficulties with diagnosis. Around a third of people living with dementia have not received a diagnosis. Even in people who are diagnosed  there is typically a delay of years between developing symptoms and receiving a diagnosis. These problems mean that people are not empowered by receiving information about what is causing their symptoms  and are unable to access treatments. The first treatment that could slow the progression of dementia has just been approved for use in the USA  making a timely and accurate diagnosis of dementia an urgent priority.
+
+One important reason for delayed and inaccurate dementia diagnosis is that the human eye is not reliably able to tell from brain scans who has early dementia  and who is likely to have a deterioration in their memory in the future. We propose to use artificial intelligence to derive this information from routine brain scans.
+
+AINOSTICS' technology represents a breakthrough that would provide an automated  and personalised healthcare platform for assisting the clinical diagnosis of dementia using multi-modal imaging and non-imaging data that are already routinely acquired in healthcare and research settings; useful for both the treatment of patients and importantly  in the development of novel therapeutics.
+
+AINOSTICS' technology can automatically and intelligently analyse scans to provide sensitive and accurate micro-structural information about key tissue and organ structures and then compare this with information from healthy populations to detect the signatures of disease. We intend for AINOSTICS' software to become a routine part of clinical practice and drug development as the results of our intelligent analysis will provide clinicians  researchers  and imaging centres a convenient and cost-effective means to get reliable  quantitative and objective diagnostic and prognostic data.
+
+For serious global diseases  AINOSTICS' technology has the potential to save time during patient assessments  accelerate clinical pathways  standardise the quality of care and improve patient outcomes in addition to making important contributions to the development of disease-modifying therapeutics."," £201,391.00 ",CLAIR：首創非侵入性癡呆症預後與風險分層檢測,"儘管患有失智症的人數迅速增加，診斷工作仍面臨重大困難。目前約有三分之一的失智症患者未獲診斷。即便確診，多數患者也需等候數年才從出現症狀到獲得診斷。這樣的延遲不僅讓患者無法了解自身症狀的原因，也剝奪了其獲得治療的機會。
+
+近期，美國剛核准了第一款可減緩失智症進程的治療藥物，因此，及時且準確的診斷變得前所未有地重要。
+
+導致診斷延遲與錯誤的原因之一，是人眼無法可靠地從腦部影像中辨識出早期失智症的徵兆，也無法預測誰可能記憶惡化。
+
+AINOSTICS 提出以人工智慧（AI）技術，從常規腦部掃描中辨識這些關鍵資訊。
+
+AINOSTICS 的技術是一項突破，可利用多模態影像與非影像資料，建立自動化且個人化的失智症診斷平台。這些資料來源均為醫療與研究單位日常蒐集，未來不僅能應用於患者診療，也能促進新型藥物的開發。
+
+該技術能夠：
+
+智慧化分析腦部掃描影像
+
+提供高敏感度與準確的微結構資訊
+
+將患者影像與健康人群數據比對，辨識疾病特徵
+
+AINOSTICS 的目標是讓這套 AI 軟體成為臨床與藥物開發的標準工具，讓臨床醫師、研究人員與影像中心能以高效率、低成本取得可靠、客觀的診斷與預後數據。
+
+對於全球性的重大疾病而言，AINOSTICS 的技術有潛力：
+
+縮短患者評估時間
+
+加快診斷流程
+
+提升照護品質與一致性
+
+改善治療結果
+
+並協助發展可改變疾病進程的療法",本計畫透過 AINOSTICS 的 AI 技術，整合常規醫療影像與非影像數據，打造一套自動化、個人化的失智症診斷平台，促進早期診斷與治療選擇，並支援新療法開發。,醫療影像與診斷輔助
+393354,AI enabled precision diagnostics for heart muscle diseases with hypertrophy,2023/8/1,"**Cardiomyopathy** is a disease that affects the heart muscle and can cause heart failure and sudden death. The most common genetic type of this disease is called hypertrophic cardiomyopathy  which thickens the heart. In the last few years  the first of new drugs and gene therapies have been developed to treat this disease more precisely. These are real breakthroughs - for the first time promising not just disease control  but cure  and potentially even prevention.
+
+However  to treat this disease effectively   doctors need to be able to diagnose it with greater certainty. Currently  doctors use complex scans to diagnose patients  but these scans don't take into account differences in sex  ethnicity  and body size  which can result in misdiagnosis and mistreatment.
+
+Researchers in London have developed artificial intelligence technology that can measure heart scans more accurately than human experts. By using this technology  they have created new personalized diagnostic criteria that take into account differences in sex  ethnicity  and body size. They have also developed blood tests to diagnose and predict the risk of hypertrophic cardiomyopathy  distinguish diseases that resemble it and to help doctors choose the right treatment.
+
+A UK company called Mycardium AI Ltd  founded by disease and AI experts from UCL  is using this technology to transform heart disease patient care. Currently focusing only on one sort of scan  MRI  they have already helped thousands of patients and are working with drug companies to develop new treatments.
+
+In a partnership with UCL  Imperial  and LYVA labs  Mycardium AI aims to apply their personalized diagnostic criteria to patients worldwide. This will be done using not just MRI  but also ultrasound (echo scans) and new highly precise blood tests. By doing so  they hope to improve the lives of tens of thousands of patients by providing better  earlier treatment that targets their specific needs. This will also streamline care and make society healthier  happier  and wealthier. They plan to deliver their technology through multiple channels to healthcare providers worldwide  helping to usher in a new era of precision diagnostics for cardiology."," £695,049.00 ",AI 驅動的心肌病精準診斷技術,"心肌病變（Cardiomyopathy） 是一種影響心臟肌肉的疾病，可能導致心衰竭或猝死。其中最常見的遺傳類型為肥厚型心肌病（Hypertrophic Cardiomyopathy），會造成心肌增厚。
+
+近年來，已有新型藥物與基因療法問世，首次為這類疾病帶來不僅能控制，甚至可能治癒與預防的曙光。
+
+然而，要有效治療這種疾病，準確診斷是關鍵。目前醫師依賴複雜的影像掃描進行診斷，但這些掃描並未考量性別、種族與體型差異，可能導致誤診與錯誤治療。
+
+倫敦的研究人員已開發出能比人類專家更準確測量心臟影像的人工智慧（AI）技術，並基於此建立出考量性別、種族與體型差異的個人化診斷標準。他們也開發了血液檢測技術，能協助診斷與預測肥厚型心肌病的風險、區分類似疾病，並協助醫師選擇適合的治療方式。
+
+由 UCL 的疾病與 AI 專家創立的英國公司 Mycardium AI Ltd，正在應用這項技術革新心臟病照護。目前聚焦於MRI 掃描分析，已協助數千名病患，並與製藥公司合作開發新療法。
+
+Mycardium AI 與 UCL、Imperial College 及 LYVA Labs 合作，計畫將這套個人化診斷標準推廣至全球，涵蓋 MRI、心臟超音波（Echo）、以及新型高精準血液檢測技術。透過這些方式，他們希望提供更早期、更精準的治療，改善數萬名患者的生活品質，同時也提升醫療效率、促進全民健康與社會福祉。
+
+Mycardium AI 計畫透過多元管道，將其 AI 技術推向全球醫療服務單位，引領心臟病精準診斷的新時代。",Mycardium AI 結合 AI 影像分析與個人化診斷標準，開發出針對肥厚型心肌病的精準診斷與治療輔助工具，並將 MRI、超音波與血液檢測整合為全球推廣方案，協助病患獲得更早期、個別化的診療。,醫療影像與診斷輔助
+394305,Osteodent-AI: A Revolutionary Approach to Osteoporosis Detection,2023/10/1,"Osteoporosis is a health condition that weakens bones  making them fragile and more likely to fracture. It develops slowly over several years  or even decades  without symptoms and is often only diagnosed when a fall or sudden impact causes a bone fracture.
+
+According to the International Osteoporosis Foundation  1 in 3 women and 1 in 5 men over the age of 50 years will experience osteoporotic fractures. In the UK alone  more than 500 000 people per year receive hospital treatment for osteoporosis fractures  with 75% of sufferers unaware that they have the condition.
+
+Most osteoporosis related fractures are preventable. Early detection would provide opportunities for simple  effective measures (e.g. hormone treatment  medicines  moderate weight-bearing exercise) to greatly lower the risk of fractures occurring.
+
+However  due to the lack of screening  most individuals are simply diagnosed too late.
+
+Dentists use x-rays routinely to diagnose conditions such as tooth decay and jaw-bone loss  but these radiographs contain a wealth of additional information on a patient's general health which cannot be easily detected by a human clinician specialist maxillofacial radiologists. This project  led by Manchester Imaging Limited  will demonstrate use of an Artificial Intelligence (AI) digital healthcare solution to analyse these x-ray images for the diagnosis of osteoporosis.
+
+This ground-breaking AI dental technology will move osteoporosis identification from post-fracture to pre-fracture  and allow much more effective treatment of this condition. This will significantly improve patient outcomes and quality-of-life  and save the NHS hundreds of millions each year."," £497,333.00 ",Osteodent-AI：骨質疏鬆症偵測的革命性 AI 方法,"骨質疏鬆症（Osteoporosis） 是一種會導致骨骼變脆、容易骨折的健康問題，通常在多年甚至數十年間逐漸發展，而沒有明顯症狀，常常是在跌倒或撞擊導致骨折後才被診斷出來。
+
+根據**國際骨質疏鬆基金會（IOF）**的資料，全球每三位50歲以上女性中就有一人，每五位男性中就有一人，會經歷骨質疏鬆性骨折。在英國，每年有超過 50 萬人因骨鬆骨折接受住院治療，但其中約 75% 的患者並不知道自己罹患骨質疏鬆症。
+
+其實，大多數骨鬆相關骨折是可預防的。若能早期發現，可透過簡單有效的措施（如荷爾蒙療法、藥物治療、適度負重運動）大幅降低骨折風險。
+
+然而，由於缺乏普及篩檢，多數人都是在骨折後才被診斷出來。
+
+目前牙醫在日常診療中經常使用 X 光影像來檢查齲齒或下顎骨流失，但這些影像中其實隱含了大量有關患者整體健康的資訊，而這些訊息是人類臨床醫師難以察覺的，即便是專業的口腔顎面放射科醫師也難以辨識。
+
+由 Manchester Imaging Limited 主導的本計畫，將展示一項創新的人工智慧（AI）數位健康解決方案，用於分析這些牙科 X 光影像，以診斷骨質疏鬆症。
+
+這項突破性的 AI 牙科技術將骨質疏鬆的發現時機從骨折後前移到骨折前，讓治療更具前瞻性與有效性，不僅可提升患者生活品質與健康結果，也能為 NHS 每年節省數億英鎊支出。",本計畫運用 AI 分析牙科 X 光影像，實現骨質疏鬆症的早期診斷，從「骨折後發現」轉為「骨折前預警」，有助於預防骨折、改善健康結果、降低醫療成本，並發掘牙科診療中的健康大數據潛力。,醫療影像與診斷輔助
+335595,Guiding treatment decisions in breast cancer with artificial intelligence,2023/11/1,"Triple negative breast cancer (TNBC) is the most aggressive form of breast cancer  affecting around 20% of all people with breast cancer. It disproportionately affects younger women and ethnic minorities  and has profound effects on quality of life  fertility  and ability to work.
+
+There is overwhelming scientific evidence that TNBC is complex with diverse clinical outcomes. Unlike many other cancers  there is currently no test that enables us to identify those at risk of the worst outcomes and those likely to have excellent outcomes. This means that we must take a 'one size fits all' approach and recommend systematic chemotherapy for most patients. Unfortunately  chemotherapy produces significant side-effects  including damage to nerves in the hands and feet and life-threatening infections. Some side effects can be life-long  debilitating  cause anxiety and impact close relationships.
+
+This imminent need to improve quality of life and outcomes led us to develop a novel clinical biomarker test known as **SIPA: Spatial Immuno-Ecology Prognostic Assessment**. SIPA is a rapid  artificial intelligence-powered test that only requires routinely generated samples. It accurately measures each individual patient's unique immune response to their tumor  and it is envisaged to be routinely used across several tissue cancers to accelerate precision medicine pathways.
+
+Currently  SIPA operates primarily as a prognostication test in TNBC  it can be used to predict which patients are likely to have the best outcomes and be spared chemotherapy  whilst identifying others that may benefit from new treatments such as immunotherapy. Ultimately  we intend for SIPA to be used to help inform personalized therapies for cancer patients.
+
+Through this project  we aim to develop high-standard quality management system to prospectively test SIPA in clinical settings under careful expert supervision  whilst working towards an (In-Vitro Diagnostic) IVD CE-mark regulatory plan in preparation to launch in the UK and Europe. This project brings us a step closer to maximize the reach of cutting-edge  AI-based technologies to benefit cancer patients in the UK and beyond. Precise patient stratification enabled by SIPA addresses key NHS priorities and could revolutionize treatment for patients with TNBC.
+
+**Our added values are for patients --- prevent unnecessary toxicity and lost opportunities to pursue more effective treatments in the most crucial time of their lives; for healthcare providers --- save tremendous costs on potentially ineffective treatments; and for clinicians ---efficient precision oncology by enabling them to offer personalized treatments.**"," £225,685.00 ",以人工智慧引導乳癌治療決策,"三陰性乳癌（Triple Negative Breast Cancer, TNBC） 是最具侵略性的乳癌類型，約佔所有乳癌患者的 20%。它特別容易影響年輕女性與少數族裔，並對生活品質、生育能力與工作能力產生深遠影響。
+
+目前已有大量科學證據指出，TNBC 的病程複雜，臨床結果高度異質。與其他癌症不同，目前尚無檢測工具可有效預測哪些患者將面臨最差結果、哪些則可能預後良好。因此，我們必須採取「一體適用（one-size-fits-all）」的治療方式，對多數患者建議進行系統性化療。
+
+然而，化療會造成嚴重副作用，包括手腳神經損傷與致命性感染。有些副作用甚至是終生的、令人痛苦的，會引發焦慮並影響人際關係。
+
+正因改善病患預後與生活品質的需求迫切，我們開發出一項嶄新臨床生物標記檢測：
+SIPA：空間免疫生態預後評估（Spatial Immuno-Ecology Prognostic Assessment）。
+這是一項由人工智慧驅動的快速檢測工具，只需使用常規病理樣本，即可準確量測每位病患對腫瘤的獨特免疫反應。我們預期 SIPA 未來將廣泛應用於多種實體癌症，加速精準醫療流程的推進。
+
+目前，SIPA 主要用於 TNBC 的預後分析，可協助判定：
+
+哪些患者可能預後良好，可避免接受化療；
+
+哪些患者可能適合接受新型療法，如免疫療法。
+
+最終目標是將 SIPA 用於協助腫瘤患者制定個人化治療策略。
+
+本計畫將建置一套高標準的品質管理系統，並在專家監督下於臨床環境中前瞻性測試 SIPA，同時推進 IVD CE 認證規劃，為進軍英國與歐洲市場鋪路。
+
+SIPA 所展現的 AI 技術應用，能有效促進癌症照護的精準分層，回應 NHS 的核心優先事項，並有望徹底改變 TNBC 的治療模式。",本計畫開發 AI 驅動的生物標記檢測工具 SIPA，能快速分析病患對腫瘤的免疫反應，預測 TNBC 預後，協助個人化治療決策。SIPA 可減少不必要化療、節省資源並改善病患生活品質，推動精準腫瘤醫療進入臨床應用階段。,醫療影像與診斷輔助
+336078,PREDICTOM_Prediction of neurodegenerative disease using an AI driven screening platform,2023/11/1,Alzheimer’s disease (AD) and related disorders leading to dementia are associated with staggering costs and suffering. Recently  there has been some progressin the search for effective therapeutic interventions and it is clear that any treatment islikely to be most effective if administered at the earlieststage of disease  but the health care system is not ready for this new scenario. There is an urgent need  therefore  to establish scalable  cost-efficient diagnostic markers  tools and procedures that can identify people at increased risk  at point of care for stratification into personalized interventions to prevent or delay dementia. PREDICTOM will develop an open-source  interoperable and customisable biomarker screening platform  utilizing an existing online resource to save time and money  to generate an evidence base for general population screening for AD and related disorders. We will bring diagnostics closer to the patient by examining the feasibility of using samples which can be obtained at home (e.g. finger-prick blood  saliva (for genetics and epigenetics) and stool for microbiom) for diagnostic biomarker analysis. We will also evaluate innovative technologies for disease risk identification  including digital technologies and novel MRI  EEG  eye tracking  and blood-based biomarkers. The platform will use artificial intelligence models to analyse data from all biomarkers to identify users at high risk of developing dementia and to direct them to personalized intervention to prevent further cognitive decline and development of dementia. We will seek to facilitate a change in current healthcare practice for early diagnosis of AD through development of new clinical practice guidelines based on evidence generated in the project. By improving the ease of identification of those with early signs of dementia we expect to have a significant impact on personal and financial burden of dementia in Europe and across the world.," £1,019,137.00 ",PREDICTOM－透過 AI 驅動篩檢平台預測神經退化性疾病,"阿茲海默症（Alzheimer’s disease, AD）及其他相關導致失智的疾病，造成極高的醫療成本與患者痛苦。儘管近年來在治療方法的研發上已有一些進展，但這些治療預期在疾病早期階段才會最有效，而目前的醫療體系尚未準備好應對這種情境。
+
+因此，亟需建立可擴展、具成本效益的診斷標記與工具，能夠在第一線照護場域中識別高風險個體，進而導入個人化介入策略，以預防或延緩失智的發展。
+
+PREDICTOM 計畫將開發一個開源、可互操作且可客製化的生物標記篩檢平台，利用既有的線上資源以節省時間與經費，建立失智症與 AD 大規模篩檢的科學依據。
+
+計畫特色包括：
+
+探討使用可居家取得的檢體進行生物標記分析的可行性，如：
+
+指尖採血
+
+唾液（用於基因與表觀遺傳學分析）
+
+糞便（用於腸道微生物分析）
+
+評估多種創新技術在疾病風險識別中的應用，包括：
+
+數位科技
+
+MRI、腦電圖（EEG）、眼動儀
+
+血液生物標記
+
+平台將整合這些數據並應用人工智慧模型進行分析，辨識高風險使用者，並引導其進行個人化介入措施，以預防進一步認知衰退與失智症發展。
+
+本計畫亦將推動基於實證的新臨床診療指引，以促進醫療體系針對阿茲海默症的早期診斷進行結構性變革。
+
+藉由提升早期識別效率與可及性，預期能大幅減輕個人與社會在失智照護上的負擔，對歐洲乃至全球產生重大影響。",PREDICTOM 計畫開發一套結合居家檢測、生物標記、多模態數據與 AI 分析的早期失智症篩檢平台，提升第一線診斷效率，推動個人化介入與新臨床指引制定，為阿茲海默症防治帶來系統性轉變。,醫療影像與診斷輔助
+336014,NetZeroAICT:   Digital Contrast for Computerised Tomography  -Towards Climate Neutral and Sustainable Health Systems-,2023/12/1,Computerised Tomography (CT) scan is one of the most common medical imaging performed in healthcare  Each year  300 million CT scans are performed globally. Of which  around 180M include use of radiocontrast media (RCM). Contrast Enhanced CTs (CECT) create a significant environmental impact  namely: 42 000 tonnes of single use packaging  900 Tonnes of surgical steel (needles)  90 000 tonnes of plastic tubing and 150 000 000 kWh in energy consumption. These generate on average 9.2 kg of CO2/ scan. In addition  CECTs generates 200 000 tonnes of iodine contamination in water/yr. This is a recognised form of ‘pharmaceutical pollution’. CECTs may also harm patients: needle insertion  toxicity of iodinated RCMs to kidneys (potentially kidney failure) and allergic reactions  which in some cases can be life-threatening. Healthcare systems are responsible for the 4.4% CO2 global emissions (2 Giga tonnes/yr). Of this  ~3 Mega tonnes/yr are generated from CECTs. The EU has declared its NetZero targets of by 2050 through the European Green Deal. We showed feasibility that artificial intelligence (AI  deep learning methods) can extract high level information from non-contrast CT scans and synthesise contrast ‘digitally’. This avoids the need to administer RCM for CECTs. We seek to develop and validate 5 uses cases of CT ’Digital Contrast’ during this Horizon award. By implementing ‘Digital Contrast’ for scans globally  we aim to reduce 30% of the CO2e and iodine RCM waste generated from CECTs by 2033. NetZeroAICT has a grand vision to define a reference framework for scalable development of AI health tools for a future of sustainable health systems. This builds on our prior efforts of AICT consortium  which was established to make CT imaging safer  more efficient  more equitable and more sustainable. NetZeroAICT will accelerate the EU’s trajectory towards NetZero and advance EU’s globally recognized leadership position on Healthcare sustainability.," £934,735.00 ",NetZeroAICT：電腦斷層掃描的數位對比技術－邁向氣候中和與可持續的健康系統,"電腦斷層掃描（CT） 是全球醫療體系中最常見的影像檢查之一，全球每年約進行 3 億次 CT 掃描，其中約 1.8 億次使用對比劑（RCM）。
+使用對比劑的增強型 CT 掃描（Contrast Enhanced CT, CECT）對環境造成重大衝擊，包括：
+
+42,000 噸一次性包裝廢棄物
+
+900 噸手術用鋼針
+
+90,000 噸塑膠導管
+
+耗電量達 1.5 億度（kWh）
+
+平均每次 CECT 排放 9.2 公斤二氧化碳（CO₂）
+
+每年產生 200,000 噸碘污染水資源（屬於藥物污染的一種）
+
+此外，CECT 對病人也有風險，包括：
+
+插針導致不適
+
+碘對比劑造成腎毒性（可能導致腎衰竭）
+
+嚴重過敏反應（甚至可能致命）
+
+目前全球醫療系統約佔 4.4% 的全球碳排（每年 20 億噸 CO₂），其中 CECT 約佔 300 萬噸 CO₂。
+
+為回應 歐盟 2050 年淨零排放（NetZero）目標，本計畫提出以 人工智慧（AI）深度學習模型自無對比劑的 CT 掃描中合成類似對比影像（Digital Contrast），完全取代注射對比劑的必要。
+
+透過本 Horizon 計畫，我們將發展並驗證 5 種 CT 「數位對比」應用場景。我們的目標是到 2033 年，全球 CECT 所產生的碳排與對比劑污染可減少 30%。
+
+NetZeroAICT 計畫的願景：建立一套標準框架，推動 AI 醫療工具的可擴展開發，打造永續型的健康照護系統。此計畫亦承襲 AICT 聯盟 先前成果，持續朝向更安全、高效、公平與永續的 CT 影像未來邁進。",NetZeroAICT 利用 AI 技術開發「數位對比影像」，取代實體對比劑使用，減少碳排、環境污染與病患風險，推動環境永續與淨零醫療轉型。,醫療影像與診斷輔助
